@@ -2,6 +2,10 @@
 
 A tool for building custom firmware packages for Ford SYNC 2 infotainment systems.
 
+## PT-BE docs
+
+Documentação em português disponivel [`README_PT-BR`](README_PT-BR.md).
+
 ## Platform Support
 
 - **Windows**: Original platform (use `.bat` files)
