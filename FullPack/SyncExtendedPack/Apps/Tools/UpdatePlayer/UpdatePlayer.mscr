@@ -1,0 +1,8 @@
+oldFolder = "\SyncExtendedPack\Apps\Media\VideoPlayer"
+newFolder = "\SyncExtendedPack\Apps\Media\VideoPlayer_new"
+
+If(DirExists(oldFolder))
+  DelTree(oldFolder)
+  RmDir(oldFolder)
+  Rename(newFolder, oldFolder)
+EndIf

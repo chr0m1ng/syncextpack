@@ -1,0 +1,8 @@
+oldFolder = "\SyncExtendedPack\Apps\Nav\Primo"
+newFolder = "\SyncExtendedPack\Apps\Nav\Primo_new"
+
+If(DirExists(oldFolder))
+  DelTree(oldFolder)
+  RmDir(oldFolder)
+  Rename(newFolder, oldFolder)
+EndIf

@@ -1,0 +1,169 @@
+Son İstifadəçinin Lisenziya Müqaviləsi
+
+Hörmətli müştəri,
+
+Xahiş edirik, aşağıdakı Son İstifadəçi Lisenziya Müqaviləsini oxuyasınız (Açıq təklif).
+
+"NAVİTEL NAVİGATOR" NAVİQASİYA SİSTEMİNİN İSTİFADƏÇİSİ İLƏ LİSENZİYA MÜQAVİLƏSİ
+
+Bu Lisenziya Müqaviləsi "Navitel Navigator" Naviqasiya sistemi proqramının (bundan sonra "Proqram təminatı") istifadəsi üzrə Sizinlə (hüquqi və ya fiziki şəxs)-bundan sonra İstifadəçi ilə "Naviqasiya Texnologiyaları Mərkəzi" QSC (bundan sonra "NAVİTEL") arasında bağlanan hüquqi sazişdir. Proqram təminatına "Navitel Navigator" Kartoqrafik Naviqasiya Proqramı (bundan sonra "Naviqasiya sistemi"), rəqəmsal xəritə (bundan sonra "Rəqəmsal Məhsul"), həmçinin, çap və elektron formatda əlavə materiallar daxildir. Rəqəmsal Məhsul: (i) proqram məhsulunun tərkib hissəsi kimi Naviqasiya Sistemi ilə birlikdə; (ii). əvvəlcədən alınmış Proqram təminatı ilə birlikdə istifadə etmək üçün ayrı bir element kimi alına bilər.
+
+Bu Lisenziya müqaviləsi, həmçinin, Proqram təminatının yenilənmiş versiyasına, ona edilən əlavələrə, fəaliyyətini təmin edən əlavə komponentlərə və tərkib hissələrinə də şamil olunur. Proqram təminatının bütün hüquqları NAVİTEL şirkətinə məxsusdur, lakin aşağıdakı hallar istisnadır: Proqram məhsulunun hər bir surətinə yerləşdirilmiş müəlliflik hüququ simvoluna əsasən kartoqrafik materialların müstəsana müəlliflik hüququ onların müəlliflərinə məxsusdur.
+
+NAVİTEL Proqram təminatını yaymaq üçün müstəsna hüquqa malikdir.
+Proqram təminatı tam olaraq və onun bütün elementləri (buraya kartoqrafik materiallar, verilənlər bazası, qrafik təsvirlər, video və audio yazılar, mətnlər və əlavə proqramlar daxildir) ayrı-ayrılıqda müəllif hüquqlarına sahibdir və həm Rusiya qanunvericiliyi, həm də beynəlxalq qanunla qorunur. Siz Proqram təminatını qoşmaq, surətini çıxarmaq, yükləmək, giriş etmək və istifadə etməklə bu Lisenziya Müqaviləsinin şərtləri ilə razılaşmış olursunuz. Siz razılıq bildirdikdən dərhal sonra Son İstifadəçi Lisenziya Müqaviləsi qüvvəyə minir. Proqram təminatı istifadə edildiyi müddət boyunca bu Lisenziya Müqaviləsi qüvvədə olacaq. Lisenziya Müqaviləsinin hər hansı bir müddəası ilə razı deyilsinizsə, Proqram təminatını quraşdırmayın və ondan istifadə etməyin.
+
+SON İSTİFADƏÇİ LİSENZİYA MÜQAVİLƏSİ
+
+Lisenziya Müqaviləsinin şərt və müddəalarına əsasən Proqram Təminatı (çap materialları daxil olmaqla) sizə verilir, SATILMIR.
+
+1. MÜQAVİLƏNİN MÖVZUSU
+1.1. NAVİTEL Sizə aşağıda göstərilən şərtlər və qaydalar çərçivəsində Proqram təminatından istifadə hüququ, yəni sadə qeyri-müstəsna lisenziya (bundan sonra "Lisenziya") verir.
+1.2. Aşağıda göstərilən bütün şərtlər bütövlükdə Proqram təminatına və ayrı-ayrılıqda onun bütün elementlərinə şamil olunur.
+
+2. ƏQLİ MÜLKİYYƏT
+Proqram təminatının (verilənlər bazası, qrafik təsvirlər, fotolar, video və audio yazılar və əlavə proqramlar, həmçinin Proqram təminatına daxil olan digər əqli mülkiyyət obyektləri də daxil olmaqla, lakin bunlarla məhdudlaşmadan), çap və elektron formatlı əlavə materialların və Proqram təminatının hər bir surətinin əqli mülkiyyət hüququ NAVİTEL və onun tərəfdaşlarına məxsusdur.
+Proqram Təminatının çıxış təmin etdiyi verilənlər bazası və digər məzmunların bütün mülkiyyət hüquqları və müəlliflik hüquqları onların müəlliflərinə məxsusdur və Rusiya Federasiyasının mövcud qanun və aktları, habelə əqli mülkiyyət üzrə beynəlxalq hüquqi aktlarla qorunur. Hazırkı müqavilə Proqram təminatının məzmununa giriş hüququ vermir.
+2.2. Proqram təminatının qeyri-kommersiya məqsədilə fərdi istifadəsi üçün sadə qeyri-müstəsna lisenziya aşağıda göstərilən şərtlərə uyğun olaraq, müqavilədə sadalanan yollarla istifadəçiyə verilir.
+
+
+2.3. NAVİTEL bu müqavilədə göstərilənlərdən əlavə heç bir hüquq vermir.
+
+3. İSTİFADƏ ŞƏRTLƏRİ
+3.1. Proqram təminatı kompüterin tərkib hissəsi kimi, yaxud kompüterə qoşulmuş paketin tərkibində və ona əvvəlcədən qoşularaq satıla bilər. Əgər istifadəçi onu kompüterin tərkib hissəsi kimi və ya ona qoşulmuş vəziyyətdə əldə edibsə, Proqram təminatı kompüterə qoşulmuş paketlə birlikdə vahid tərkib hissəsi kimi lisenziyalaşdırılır və yalnız quraşdırıldığı kompüterlə birgə istifadə edilə bilər.
+Bu müqaviləyə əsasən istifadəçi müqavilənin ona verdiyi hüquqları digər şəxsə ötürə bilər, bir şərtlə ki, kompüter Proqram təminatının heç bir tərkib hissəsi və surətinin istifadəçidə qalmaması şərtilə birdəfəlik satılmalıdır, həmçinin, Proqram təminatını əldə edən şəxs bu müqavilənin şərt və müddəalarına əməl etmək öhdəliyi götürməlidir.
+3.2. Proqram təminatı kompüterə quraşdırılmamış halda və ya ayrı vəziyyətdə satıla bilər. İstifadəçi Proqram təminatını kompüterdən ayrı aldığı təqdirdə, o, bu müqavilənin ona verdiyi hüquqları, Proqram təminatının komponentlərini və nüsxələrini digər şəxsə ötürə bilər. Bu heç bir komponent və surətin istifadəçidə qalmaması şərtilə və proqram təminatını alan şəxs bu müqavilənin şərt və müddəalarına əməl etmək öhdəliyi götürdüyü təqdirdə mümkündür.
+3.3. Lisenziyanın əhatə dairəsi. Bu müqaviləyə əsasən İstifadəçi Proqram təminatı təlimatlarının kompüterin mərkəzi prosessoru vasitəsilə bilavasitə icrası məqsədi üçün onu kompüterin əməli yaddaşına yazaraq obyekt kodu formasında surətini çıxara bilər. İstifadəçinin Proqram təminatını birdən artıq kompüterdə istifadə etmək yaxud saxlamaq (quraşdırılmış və ya quraşdırılmamış vəziyyətdə) hüququ yoxdur.
+3.4. Proqram təminatına daxil olan Rəqəmsal Məhsulun yalnız Proqram Təminatı daxilində verilən Naviqasiya sistemi ilə birlikdə istifadəsinə icazə verilir, əks halda bu qadağandır. Ayrıca element kimi əldə edilən Rəqəmsal Məhsul yalnız bir proqram təminatı daxilində istifadə edilə bilər (yəni vahid Proqram təminatı Lisenziya koduna uyğunlaşdırılır).
+3.5. İstifadəçi Proqram təminatının itirilmiş və ya zədələnmiş surətinin bərpası üçün NAVİTEL şirkətinin texniki yardım xidmətinə müraciət edə bilər. İstifadəçi, həmçinin, Proqram təminatının surətindən qanuni istifadəni sübut edən sənədi təqdim etməlidir.
+3.6. İki müxtəlif məlumat daşıyıcısında çatdırılma. Proqram təminatı iki və ya daha artıq məlumat daşıyıcısında çatdırıldığı təqdirdə, İstifadəçi onlardan yalnız birini - özü üçün ən rahat paketi seçmək hüququna malikdir. Bu o deməkdir ki, müxtəlif məlumat daşıyıcılarında köçürülən proqram təminatı yalnız bir proqramın surətidir və buna görə də yalnız bir kompüterdə istifadə oluna bilər.
+3.7. İstifadəçi ehtiyat nüsxə yaratmaq məqsədilə proqram təminatının yalnız 1 (bir) surətini çıxara bilər.
+3.8. İstifadəçi özünün və digər fiziki və hüquqi şəxslərin aşağıdakı əməlləri törətməməsi üçün öhdəlik daşıyır:
+- Proqram təminatından bilavasitə mənfəət əldə etmək üçün istifadə etmək;
+- Proqram təminatını icarəyə vermək və ya ondan müvəqqəti istifadəni təmin etmək;
+- kommersiya və ya qeyri-kommersiya məqsədilə proqram təminatından şəbəkədaxili xidmətləri nümayiş etdirmək, məsələn, internet saytlarda yayımlamaq üçün istifadə etmək;
+- verilən proqramdan istifadə hüququ olmayan şəxslərin ondan istifadəsinə əlverişli şərait yaratmaq (Sizinlə eyni şəbəkədə və ya çox-istifadəçili sistemdə işləyənlər daxil olmaqla), Proqram təminatının lisenziyasını vermək;
+- Proqram təminatının hissələrini yaxud elementlərini ictimailəşdirmək, üçüncü tərəfin onun surətini çıxarmasına imkan yaratmaq kimi hallar daxil olmaqla, lakin bunlarla məhdudlaşmadan;
+- Proqram təminatının texniki məhdudiyyətlərini aradan qaldırmağa çalışmaq;
+- Rəqəmsal məhsulun məlumatlar olan hissəsinə daxil olmaq, rəqəmsal məhsulun quruluşunu və yaddaş formatını araşdırmaq, rəqəmsal məhsulun yaddaşını dəyişdirmək, Proqram təminatının məlumatlarını dəyişdirmək, Proqram təminatını dəyişdirmək və uyğunlaşdırmaq, proqramı, verilənlər bazalarını və Proqram təminatının digər komponentlərini sökmək və hissələrə ayırmaq (obyekt kodunu mənbə mətnə çevirmək);
+- Proqram təminatı paketinə daxil olan və aidiyyatı materiallarda təsvir edilən hallar istisna olmaqla, proqram təminatının obyekt koduna yaxud verilənlər bazasına dəyişikliklər etmək;
+- Cari Lisenziya Müqaviləsinin yuxarıdakı bəndlərinin tələblərinə əməl edilməsini təmin edən 3.1 və 3.2-ci bəndlərdə təsvir olunan hallar istisna olmaqla, Proqram təminatından istifadə hüququnun üçüncü tərəfə verilməsi;
+
+- Proqram təminatının Rusiya Federasiyası qanunvericiliyinə, həmçinin, kompüter proqramları və verilənlər bazalarının qanuni mühafizəsi üzrə beynəlxalq hüquq normalarına zidd istifadəsi;
+ - Rəqəmsal məhsulu Naviqasiya sistemi ilə deyil, digər proqramlarla birlikdə istifadə etmək.
+3.9. İstifadəçi 3.8-ci bənddə göstərilən əməllərdən birini törətdiyi təqdirdə, NAVİTEL heç bir xəbərdarlıq və ya bildiriş göndərmədən cari Son İstifadəçi Lisenziya Müqaviləsinə birtərəfli xitam vermək hüququna malikdir.
+3.10. Proqram təminatının yaratdığı bütün təhlükələrə görə yalnız İstifadəçi məsuliyyət daşıyır.
+3.11. Proqram təminatının lisenziya kodunun aktivləşdirilməsi İstifadəçinin Proqram təminatından düzgün istifadəsini təsdiq edən qanuni mexanizmdir.
+3.12. Proqram təminatının surətinin Lisenziya kodu yalnız bir dəfə deaktivləşdirilə bilər. Ayrıca alınmış Rəqəmsal Məhsulun lisenziya kodunun deaktivləşdirilməsi mümkün deyil. Yalnız eyni əməliyyat sisteminə malik eyni modelli cihazda Lisenziya kodunun yenidən aktivləşdirilməsinə icazə verilir. Lisenziya kodunun deaktivləşdirilməsi və yenidən aktivləşdirilməsi barədə ətraflı məlumatı NAVİTEL şirkətinin rəsmi veb saytından əldə edə bilərsiniz: http://navitel.cz.
+
+3.13. ZƏHMƏT OLMASA, NƏZƏRƏ ALIN Kİ, “NAVİTEL” şirkəti Proqram yalnız Təminatının rəsmi versiyasının və satın-alındıqdan sonrakı 1(bir) il ərzində “NAVİTEL” tərəfindən təqdim olunmuş Yenimələr üçün texniki xidməti təmin edir.
+
+Digər müəssisələr və/və ya şəxslər tərəfindən hazırlanmış/dəyişdirilmiş Naviqasiya Sistemlərindən, Rəqəmsal Məhsullardan və onun Yeniləməlirindən istifadə etmək Proqram Təminatını bütövlükdə və ya onun hissələrini ayrılıqda qeyri-funksional etməklə yanaşı Avadanlığa zərər vuraraq təmir olunmasına səbəb ola bilər.
+
+4. YENİLƏMƏ
+4.1. Proqram təminatını NAVİTEL şirkətinin yenilənmə kateqoriyasına uyğun olaraq istifadə etmək üçün İstifadəçi NAVİTEL şirkətinin yenilənmə təklifi kateqoriyasına daxil olan Proqram təminatı lisenziyasına sahib olmalıdır. Yenilənmiş versiya tam yaxud qismən proqram təminatını əvəz edir və ya onun fəaliyyətini genişləndirir, ondan istifadə Sizin hüququnuz daxilindədir. Yenilənmiş versiyanı kompüterə yüklədiyiniz təqdirdə bu versiyanı yalnız cari Müqavilənin şərt və müddəalarına, yaxud yenilənmiş versiyanın tərkib hissəsi olan Lisenziya müqaviləsinin şərtlərinə uyğun olaraq istifadə edə bilərsiniz.
+4.2. Yenilənmiş versiyanı qoşduqdan sonra Proqram təminatının ilkin versiyasından istifadə edə bilməzsiniz, lakin o Proqram təminatının tərkibinə daxildirsə, istifadəsi mümkündür.
+4.3. NAVİTEL, onun təçhizatçıları və tərəfdaşları Proqram təminatının yaxud Rəqəmsal Məhsul da daxil olmaqla tərkib hissələrinin yenilənmiş versiyasının yaradılması və ya yayılması üçün birbaşa və ya dolayı məsuliyyət daşımırlar.
+4.4. Proqram təminatı və onun tərkib hissələrinin yenilənmiş versiyasının ödənişli və ödənişsiz əsaslarla təqdim edilməsi hüququ NAVİTEL şirkətinə məxsusdur.
+
+5. PROQRAM TƏMİNATI "ALQI-SATQI ÜÇÜN" DEYİL
+5.1. Proqram təminatının üzərində "Alqı-satqı üçün deyil" yaxud "NFR" etiketi olarsa, müqavilənin digər şərt və müddəalarından asılı olmayaraq, bu Lisenziyaya əsasən yalnız nümayiş, yoxlama və proqram təminatının qiymətləndirilməsi məqsədilə Proqram təminatından istifadə mümkündür; Proqram təminatının satışı və ya başqasına verilməsi qadağandır.
+
+
+6. MƏLUMATIN İSTİFADƏSİNƏ RAZILIQ
+6.1. Proqram təminatını aktivləşdirməklə İstifadəçi razılaşır ki, NAVİTEL İstifadəçiyə göstərilən texniki yardım xidmətinin bir parçası olaraq, əldə etdiyi texniki informasiyaları toplaya və istifadə edə bilər. NAVITEL bu informasiyadan öz məhsullarını inkişaf etdirmək üçün, həmçinin, marketinq və reklam məqsədilə istifadə edə bilər. NAVİTEL İstifadəçinin şəxsi məlumatlarının açıqlanmamasına zəmanət verir.
+
+7. LİSENZİYA MÜQAVİLƏSİNƏ XİTAM VERİLMƏSİ
+7.1. Bu Müqavilənin şərt və müddəalarına əməl edilmədiyi təqdirdə, NAVİTEL öz hüquqlarına xələl gətirmədən müqaviləyə xitam verə bilər.
+
+
+7.2. Müqaviləyə xitam verildiyi təqdirdə Siz Proqram təminatının sizdə olan bütün surətlərini ( həmçinin Proqram təminatının mətbuatda yayımlanmış komponentlərini, yenilənmiş versiyasını, bu müqaviləni və digər aidiyyatı materialları) məhv etməlisiniz.
+
+8. ÖHDƏLİK
+8.1. Proqram təminatının və onun elementlərinin bu müqavilənin şərt və müddəalarına, həmçinin, müstəsna müəllif hüquqlarına zidd istifadəsi, yayılması və surətinin çıxarılması qanunla cəzalandırılır.
+8.1.1. Bu müqavilə Rusiya federasiyasının qanunvericiliyi ilə tənzimlənir.
+8.2. İstifadəçi bu müqaviləni pozmaqla Proqram təminatından, habelə 9-cu bənddə göstərilən məhdud zəmanətdən istifadə hüququnu itirir.
+
+9. MƏHDUD ZƏMANƏT
+9.1. NAVITEL Proqram təminatı ilə birlikdə verilən sənədlərin şərtlərinə uyğun olaraq, Proqram təminatına daxil olan proqramların funksionallığını təmin edir.
+9.2. Digər hallarda Proqram təminatı "olduğu kimi" təqdim olunur. Proqram təminatı istifadəçinin ümidlərini doğrultmadıqda, analoq və standartlara cavab vermədikdə, təfsilatlar və əlaqədar sənədlərdə təsvir edilmədikdə, xətaların qarşısı alınmadıqda, həmçinin, Proqram təminatından birbaşa və ya dolayı istifadənin nəticələrinə, məsələn, Proqram təminatı paketindəki mümkün xətalara və çap səhvlərinə görə NAVİTEL məsuliyyət daşımır.
+9.2.1 Unutmayın ki, Rəqəmsal Məhsulun (Proqram təminatının tərkib hissəsi olaraq) istifadə müddəti məhduddur. Proqram təminatına daxil olan Rəqəmsal Məhsul, habelə onun istifadə müddəti haqqında məlumatı Proqram təminatı aktivləşdirildikdən dərhal sonra əldə edəcəksiniz.
+9.3. NAVITEL Proqram təminatının üçüncü şəxslər və ya təşkilatlara aid proqramlar yaxud cihazlarla, xüsusilə də, verilən Proqram təminatından sonra istehsal olunan cihazlarla birgə istifadəsinə zəmanət vermir.
+
+10. PROQRAM TƏMİNATININ QAYTARILMASI
+10.1 Siz bu Lisenziya Müqaviləsinin şərtlərini qəbul etməklə və Proqram təminatının lisenziya kodunu aktivləşdirməklə "Alınmış Proqram təminatının geri qaytarılması şərtləri" ilə də razılaşmış olursunuz. Geri qaytarılma haqqında ətraflı məlumatı NAVİTEL şirkətinin rəsmi veb saytından əldə edə bilərsiniz: http://navitel.cz
+
+COPYRIGHT:
+"Навигационная картографическая программа" ("Навител Навигатор"), Навигационная система "Навител Навигатор 3.2.5" (Navigation system "Navitel Navigator 3.2.5"),  "Навигационная система "Навител Навигатор 5.0" (Navigation system "Navitel Navigator 5.0"), а также все последующие версии Навигационной системы - © АО «ЦНТ», 2007-2015, версии с "Навигационная система "Навител Навигатор 3.2" (Navigation system "Navitel Navigator 3.2") по "Навигационная система "Навител Навигатор 9.6" (Navigation system "Navitel Navigator 9.6") включительно
+© NAVITEL s.r.o., 2016
+© CENTRE OF NAVIGATION TECHNOLOGY
+Погода Gismeteo. Данные о погоде предоставлены Gismeteo.ru. ©НПЦ Мэп Мейкер, 1998-2012
+Zlib ©Jean-loup Gailly and Mark Adler. 1995-2005
+FreeType 2 ©David Turner, Robert Wilhelm and Werner Lemberg, 1996-2002, 2006
+Libogg ©Xiph.org Foundation, 2002
+Libspeex ©Jean-Marc Valin/Xiph.org Foundation, 2002-2007
+Libpng ©Glenn Randers-Pehrson, 1998 -2004
+Ogles ©The Android Open Source Project, 2005-2011
+Arian ANU ©Ruben Hakobyan (Tarumyan), 1998-2011
+DirectXTex (с) Microsoft Corporation, 2006-2013
+© Картографическая основа Роскартография
+© ФГУП "Уралаэрогеодезия", 2006-2010г.
+© ФГУП "ПО Инжгеодезия", 2007г.
+© Картографическая основа. РОСРЕЕСТР, 2013г., 2014г.
+© ФГУП "Северо-Кавказское аэрогеодезическое предприятие", 2007г., 2008г., 2011г.
+© ООО "Отрок"
+© ФГУП "Южное АГП", 2007г., 2010г.
+© ООО "Гискарт"
+© ФГУП "Госцентр "Природа", 2007г., 2008г.
+© МУ "Городской информационный центр"
+© ФГУП ВАГП 2008г., 2010г.
+© ФГУП "Балт АГП"
+© Картографическая основа ООО "Карты Сибири"
+© КГЦ ФГУП "Уралаэрогеодезия", 2007г
+© ФГУП "Новгородское АГП"
+© СГГА
+© МП города Омска "Омскархитектура"
+© ФГУП "Средневолжское АГП" 2008г.
+© ООО "ГИС-Проект"
+© ФГУП "ЗапсибАГП", 2007г., 2009г.
+© ФГУП "ЦТМП Центрмаркшейдерия"
+© AND International Publishers NV
+© DATUM LLC
+© GDi GISDATA, www.gisdata.com
+© РУП "БелНИЦзем"
+© Государственный комитет по имуществу Республики Беларусь
+© ГУП "Национальное кадастровое агентство"
+© DataMap Europe Ltd.
+Contains Ordnance Survey data  ©Crown copyright and database right 2013
+Contains Royal Mail data © Royal Mail copyright and database right 2013
+Contains National Statistics data © Crown copyright and database right 2013
+© Business listings data ©Infobel
+© MemNav Ltd., MemNav.com
+© Картографическая основа Guidejet ® MAPS
+© Basarsoft, 2010
+© GEODATA S.A.
+© REGIO
+©Latvijas Geotelpiskās informācijas agentūra / ©Агентство геопространственной информации Латвии
+© Справочная служба 118
+© GEOVISION NC
+© Rock Mars Maps
+© PLANstudio s.r.o.
+© Mapy.cz, s.r.o.
+© MAPA Slovakia Digital
+© Geodetic institute of Slovenia
+© Картографическая основа ГНПП "Картография" (© Картографічна основа ДНВП "Картогафія")
+© carNAVi Corporation
+© Finnish Road Administration/Digiroad
+© Jose Alberto Najero Cruz, powered By BiciMapas ®
+© MULTISPECTRAL
+© TruEarth (R) imagery Copyright TerraMetrics, Inc.
+© (MAPMYINDIA) CE Info Systems (P) Ltd
+© Map of Colombia By Gisco, Todos los derechos reservados, 2016
+© 2016 DDG Technology JSC
+Bezirksregierung Köln, Abt. Geobasis NRW
+©Emapa sp. z o.o
+©Innovation Technology of Tajikistan L.L.C.
+© Technologii de Navigatie SRL
+© ALEKI LTD.
+Ředitelství silnic a dálnic ČR, státní příspěvková organizace
+© Carlos Calle (C) GuiaCalles

@@ -1,0 +1,167 @@
+Navitel Navigator Licences līgums
+
+Dārgais klient,
+
+Lūdzu, izlasiet šo Galalietotāja licences līgumu (Publisks piedāvājums)
+
+LICENCES LĪGUMS AR „NAVITEL NAVIGATOR” NAVIGĀCIJAS SISTĒMAS LIETOTĀJU
+
+Šis Līgums ir juridiski saistoša vienošanās, kas tiek noslēgta starp Jums (fiziska vai juridiska persona), turpmāk tekstā saukts „Lietotājs”, un Slēgtu akciju sabiedrību „Navigācijas tehnoloģiju centrs (Center of Navigation Technologies)” (turpmāk tekstā saukta „NAVITEL”) par „Navitel Navigator” navigācijas sistēmas programmatūras produkta (turpmāk tekstā saukts „Programmatūras produkts”) lietošanu.Programmatūras produktā ietilpst „Navitel Navigator” kartogrāfiskā navigācijasdatora programmatūra(turpmāk tekstā saukta „Navigācijas sistēma”), digitālā karte (turpmāk tekstā saukta „Digitālais produkts”), un drukāti vai elektroniskipapildmateriāli.Digitālo produktu var iegādāties:(i) kopā ar Navigācijas sistēmu kā integrētu Programmatūras produkta daļu vai (ii) kā atsevišķu vienību izmantošanai kopā ar iepriekš iegādātu Programmatūras produktu.
+
+Šis Līgums attiecas arī uz Programmatūras produkta atjauninājumiem, papildinājumiem, papildu elementiem un elementiem, kas nodrošina tā darbību. NAVITEL pieder visas tiesības uz Programmatūras produktu ar šādiem nosacījumiem:tiesības uz kartogrāfiskajām pamatnēm un/vai to atsevišķiem elementiem pieder to īpašniekiem, atbilstoši autortiesību aizsardzības zīmēm, kas ir izvietotas uz katra Programmatūras produkta eksemplāra.Pilns tiesību turētāju saraksts atrodams sadaļā AUTORTIESĪBAS.
+
+NAVITEL pieder izņēmuma tiesības uz Programmatūras produkta izplatīšanu.
+Programmatūras produkts kopumā un katrs tā elements atsevišķi (tai skaitā, bet ne tikai kartogrāfiskie materiāli, datubāzes, grafiskie attēli, video, audioieraksti, teksti un palīgprogrammas) ir autortiesību objekts un to aizsargā Krievijas un starptautiskā likumdošana.Uzstādot, kopējot, lejupielādējot, piekļūstot vai kā savādāk izmantojot Programmatūras produktu, Jūs piekrītat šajā Licences līgumā izklāstītajiem nosacījumiem.Šis Galalietotāja licences līgums stājas spēkā no brīža, kad esat apstiprinājis savu piekrišanu tam.Šis Galalietotāja licences līgums paliek spēkā visu Programmatūras produkta darbības laiku.Ja Jūs nepiekrītat kādam no šī Līguma nosacījumiem, neuzstādiet un neizmantojiet Programmatūras produktu.
+
+GALALIETOTĀJA LICENCES LĪGUMS (PUBLISKS PIEDĀVĀJUMS)
+
+Programmatūras produkts (tai skaitā drukātie materiāli) tiek nodots Jūsu rīcībā saskaņā ar šī Līguma nosacījumiem, TAČU TAS NETIEK JUMS PĀRDOTS.
+
+1. LĪGUMA PRIEKŠMETS
+1.1. NAVITEL Jums piešķir neekskluzīvu licenci, t.i. tiesības izmantot Programmatūras produktu vienīgi saskaņā ar turpmāk izklāstītajiem noteikumiem (turpmāk tekstā saukta „Licence”).
+1.2. Visi turpmāk izklāstītie nosacījumi ir attiecināmi uz Programmatūras produktu kopumā un katru tā elementu atsevišķi.
+
+2. INTELEKTUĀLAIS ĪPAŠUMS
+2.1. Intelektuālā īpašuma tiesības uz Programmatūras produktu (tai skaitā, taču ne tikai tiesības uz jebkurām datubāzēm, grafiskajiem attēliem, video, audioierakstiem, papildprogrammām kā arī citiem Programmatūras produktā ietvertajiem intelektuālā īpašuma objektiem), papildmateriāliem gan drukātā, gan elektroniskā formā, kā arī jebkāda veida Programmatūras produkta kopijām pieder NAVITEL un tās partneriem.Visas īpašuma un autortiesības uz datubāzēm un citiem resursiem, kam pieeju sniedz Programmatūras produkts, pieder to īpašniekiem un autortiesības uz šīm datubāzēm un resursiem aizsargā Krievijas Federācijā spēkā esošie un starptautiski paņemtie likumi un tiesību akti intelektuālā īpašuma jomā.Šis Līgums nesniedz Jums pieeju Programmatūras produkta saturam.
+2.2. Ievērojot turpmāk izklāstītos nosacījumus, lietotājam turpmāk uzskaitītajos veidos tiek piešķirta vienkārša neekskluzīva licence Programmatūras produkta lietošanai privātā un nekomerciālā nolūkā.
+
+
+2.3. NAVITEL nepiešķir citas tiesības, kā vienīgi tās, kas skaidri norādītas turpmāk tekstā.
+
+3. LIETOŠANAS NOTEIKUMI
+3.1. Programmatūras produkts var tikt pārdots kā datora sastāvdaļa vai iekļauts un iepriekšuzstādīts datora komplektācijā.Ja Lietotājs saņem Programmatūras produktu kā datora sastāvdaļu vai jau iekļautu datora komplektācijā, Programmatūras produkts tiek licencēs kā atsevišķs integrēts produkts, kas iekļauts datora komplektācijā, un var tikt izmantots vienīgi tajā datorā un komplektācijā, kā tas tiek piedāvāts.
+Lietotājs vienmēr var nodot viņam/viņai šajā Līgumā piešķirtās tiesības citai personai, ja dators tiek vienreizēji un neatgriezeniski pārdots un nodots attiecīgās personas rokās, pie noteikuma, ka Lietotāja īpašumā nepaliek neviens Programmatūras produkta eksemplārs vai kāda no tā sastāvdaļām un Programmatūras produkta saņēmējs apņemas ievērot šī Līguma nosacījumus.
+3.2. Programmatūras produkts var tikt pārdots, ja tas nav iepriekšuzstādīts datorā vai iekļauts datora komplektācijā.Ja Lietotājs saņem Programmatūras produktu atsevišķi no datora, Lietotājs ir tiesīgs nodot viņam/viņai šajā Līgumā piešķirtās tiesības, kā arī Programmatūras produkta eksemplārus un tā sastāvdaļas citai personai, pie noteikuma, ka Lietotāja īpašumā nepaliek neviens Programmatūras produkta eksemplārs vai kāda no tā sastāvdaļām un Programmatūras produkta saņēmējs apņemas ievērot šī Līguma nosacījumus.
+3.3. Licences saturs.Šis Līgums Lietotājam piešķir tiesības uz Programmatūras produkta pavairošanu objektkoda formā, ierakstot to datora operatīvajā atmiņā tūlītējai Programmatūras produkta instrukciju izpildei datora centrālajā procesorā.Lietotājs nav tiesīgs izmantot vai glabāt Programmatūras produktu vairāk kā vienā datorā (gan uzinstalētā, gan atinstalētā veidā).
+3.4. Programmatūras produktā iekļautā Digitālā produkta izmantošana ir atļauta vienīgi, izmantojot Programmatūras produktā esošo Navigācijas sistēmu un ne savādāk.Digitālo produktu, kas iegādāts kā atsevišķā vienība, var izmantot vienīgi Programmatūras produkta ietvaros (t.i. „izveidota” viena unikāla Programmatūras produkta licences atslēga).
+3.5. Lietotājs ir tiesīgs pieteikt konsultāciju NAVITEL tehniskā atbalsta dienestā nozaudēta vai bojāta Programmatūras produkta eksemplāra apjaunošanai.Lietotājam šādā gadījumā ir pienākums uzrādīt pierādījumus, ka Programmatūras produkta eksemplārs izmantots likumīgi.
+3.6. Produkts tiek piegādāts divu veidu datu nesējos.Gadījumā, ja Programmatūras produkts tiek piegādāts divu vai vairāku veidu datu nesējos, Lietotājs ir tiesīgs izmantot tikai vienu, kas ir vispiemērotākais viņa/viņas komplektācijai.Visi Programmatūras produktā iekļautie datu nesēji tiek uzskatīti par vienu un to pašu Programmatūras produkta eksemplāru un Lietotājs tos ir tiesīgs izmantot tikai vienā datorā.
+3.7. Lietotājs ir tiesīgs izveidot tikai 1 (vienu) Programmatūras produkta kopiju, kas tiks izmantota vienīgi kā rezerves kopija.
+3.8. Lietotājam ir pienākums neveikt turmpākās darbības pēc saviem ieskatiem, kā arī neļaut tās veikt citām fiziskām vai juridiskām personām:
+- izmantot Programmatūras produktu tiešā peļņas gūšanas nolūkā;
+- izīrēt, iznomātProgrammatūras produktu vai izsniegt pagaidu lietošanā;
+- izmantot Programmatūras produktu, lai sniegtu tīkla pakalpojumus, tai skaitā, bet ne tikai apraidi interneta vietnēs gan komerciālā, gan nekomerciālā nolūkā;
+- radīt labvēlīgus apstākļus, lai Programmatūras produktu varētu lietot personas, kam nav personisku tiesību izmantot attiecīgo programmatūru (tai skaitā, tie, kas darbojas vienā un tajā pašā tīklā vai vairāku lietotāju sistēmā), kā arī piešķirt Programmatūras produkta licenci;
+- izdot (publicēt) jebkādus Programmatūras produkta fragmentus vai elementus, tai skaitā, taču ne tikai atveidošanas iespēju nodrošināšana trešajām pusēm;
+- mēģināt apiet Programmatūras produkta tehniskos ierobežojumus;
+-tieši piekļūt Digitālā produkta datiem, pētīt Digitālā produkta struktūru un atmiņas formātu, restrukturēt Digitālā produkta atmiņu, pārveidot Programmatūras produktā iekļautos datus, pārveidot (konvertēt) un pielāgot Programmatūras produktu, demontēt, dekompilēt (konvertēt objektkodu oriģinālajā tekstā) programmu, datubāzes un citas Programmatūras produkta sastāvdaļas;
+- veikt izmaiņas programmu vai datubāzu objektkodā, izņemot tajās, kas ar šādu nolūku ir iekļautas Programmatūras produkta komplektācijā un aprakstītas papildmateriālos;
+- nodot tiesības uz Programmatūras produkta izmantošanu trešējām personām, izņemot gadījumus, kas izklāstīti šī Līguma 3.1. un 3.2. punktos, ievērojot iepriekšminētajos punktos izklāstītās prasības;
+- saistībā ar Programmatūras produktu, rīkoties pretēji Krievijas Federācijā spēkā esošajiem un starptautiski pieņemtajiem likumiem un tiesību aktiem datora programmatūras un datubāzu tiesiskās aizsardzības jomā;
+- izmantot Digitālo produktu kopā ar programmatūru, kas nav Navigācijas sistēma.
+3.9. Gadījumā, ja Lietotājs veic jebkuru no 3.8. punktā izklāstītajām darbībām, NAVITEL patur tiesības jebkurā brīdī bez iepriekšēja paziņojuma vai brīdinājuma vienpusēji izbeigt šo Galalietotāja licences līgumu.
+3.10. Lietotājs nes pilnu atbildību un uzņemas visus riskus, kas saistīti ar Programmatūras produkta izmantošanu.
+3.11. Programmatūras produkta Licences atslēgas aktivēšana ir likumīgs mehānisms, kas apstiprina Lietotāja godīgu Programmatūras produkta izmantošanu.
+3.12. Katra Programmatūras produkta eksemplāra Licences atslēga var tikt deaktivēta tikai 1 reizi (neskatoties uz iemeslu).Digitālā produkta eksemplāra, kas iegādāts kā atsevišķā vienība, Licences atslēga nevar tikt deaktivēta.Atkārtota Licences aktivēšana ir atļauta vienīgi tāda paša modeļa ierīcē ar tādu pašu oficiālo operētājsistēmu.Sīkākai informācijai par Licences atslēgas deaktivēšanu/atkārtotu aktivēšanu atrodama NAVITEL oficiālajā mājaslapā http://navitel.cz
+
+3.13. LŪDZU, ŅEMT VĒRĀ to, ka „NAVITEL” sniedz tehnisko atbalstu tikai oficiālajai Programmatūras produkta versijai un tās Atjauninājumiem, ko izdevis „NAVITEL” 1 (viena) gada laikā pēc pirkuma.
+
+Izmantojot Navigācija sistēmu un Digitālo produktu, kā arī to Atjauninājumus, ko izstrādājušas / pārveidojušas citas kopienas un/vai personas, Programmatūras produkts vai tā atsevišķi elementi var kļūt nerealizējami, kā arī tas var radīt bojājumus aprīkojumā.Izmantojot šādus izstrādājumus, Lietotājs par to uzņemas pilnu atbildību.
+
+
+4. ATJAUNINĀJUMS
+4.1. Lai izmantotu programmatūru, kas saskaņā ar NAVITEL ir uzskatāms par atjauninājumu, Lietotāja īpašumā ir jābūt licencei uz Programmatūras produktu, kam NAVITEL piedāvā atjauninājumus.Atjauninājums pilnībā vai daļēji aizvieto vai paplašina Programmatūras produktu un tas kalpo kā pierādījums Jūsu tiesībām saņemt attiecīgo Atjauninājumu.Uzstādot Atjauninājumu datorā, Jums ir tiesības to izmantot vienīgi saskaņā ar šajā Līgumā vai Atjauninājuma licences līgumā izklāstītajiem nosacījumiem.
+4.2. Pēc atjauninājuma uzstādīšanas, Jūs neesat tiesīgs lietot Programmatūras produkta oriģinālo versiju, kurai ir uzstādīts atjauninājums, izņemot gadījumus, kad tā ir daļa no programmatūras atjauninājuma.
+4.3. Nedz NAVITEL, nedz tās piegādātājiem un partneriem nav nedz izteikts, nedz domājams pienākums veidot vai izplatīt Programmatūras produkta vai tā elementu, tai skaitā Digitālā produkta, atjauninājumus.
+4.4. NAVITEL patur tiesības laist klajā Programmatūras produkta un tā elementu atjauninājumus gan kā maksas, gan bezmaksas pakalpojumu.
+
+5. PROGRAMMATŪRA „NAV PAREDZĒTA TĀLĀKPĀRDOŠANAI”
+5.1. Ja uz Programmatūras produkta ir uzraksts „Nav paredzēts tālākpārdošanai” vai „NFR”(„Not for resale” vai „NFR”), neskatoties uz pārējiem šajā Līgumā izklāstītajiem nosacījumiem, šāda Licence pieļauj Programmatūras produkta izmantošanu vienīgi Programmatūras demonstrēšanas, pārbaudes un novērtēšanas nolūkā; līdz ar to šādas Programmatūras produkta pārdošanas vai nodošana citas personas īpašumā ir aizliegta.
+
+6. PIEKRIŠANA PAR DATU IZMANTOŠANU
+6.1. Aktivizējot Programmatūras produktu, Lietotājs piekrīt, ka NAVITEL var apkopot un izmantot dažāda veida tehnisko informāciju, kas iegūta ar Programmatūras produktu saistītu atbalsta pakalpojumu sniegšanas ietvaros. NAVITEL var izmantot šo informāciju, lai uzlabotu savus produktus, kā arī marketingā un reklamēšanas nolūkā. NAVITEL nedrīkst izpaust Lietotāja personīgo informāciju.
+
+7. LICENCES LĪGUMA ATCELŠANA
+7.1. Nepārkāpjot savām tiesībām, NAVITEL var vienpusēji lauzt šo Līgumu, ja netiek ievēroti tā noteikumi un nosacījumi.
+
+
+7.2. Ja Līgums tiek anulēts, Jūsu pienākums ir iznīcināt visus Jūsu rīcībā esošos Programmatūras produkta eksemplārus (tai skaitā jebkuri Programmatūras produkta elementi uz jebkādiem datu nesējiem, atjauninājumi, šis Līgums un citi papildmateriāli).
+
+8. ATBILDĪBA
+8.1. Par šī Līguma nosacījumu pārkāpšanu, kā arī autora izņēmuma tiesību pārkāpšanu, izmantojot, izplatot vai atveidojot (kopējot) Programmatūras produktu vai jebkuru no tā elementiem, iestājas atbildība likumā noteiktajā kārtībā.
+8.1.1. Šo Līgumu regulē Krievijas Federācijas likumdošana.
+8.2. Ja Lietotājs pārkāpj šā Līguma nosacījumus, viņš/viņa zaudē savas tiesības uz Programmatūras produktu, kā arī uz 9. punktā izklāstīto ierobežoto garantiju.
+
+9. IEROBEŽOTĀ GARANTIJA
+9.1. NAVITEL nodrošina Programmatūras produktā esošo programmu darbību atbilstoši noteikumiem un nosacījumiem, kas ir izklāstīti komplektācijā esošajos papildmateriālos par Programmatūras produktu.
+9.2. Programmatūras produkts tiek piegādāts „tāds, kāds tas ir”. NAVITEL nenes atbildību par to, ka Programmatūras produkts neatbilst Lietotāja prasībām vai uzskatiem, neatbilst analogiem un/vai standartiem, kas nav minēti specifikācijā un papildmateriālos, nesatur kļūmes, kā arī tiešām un netiešām Programmatūras produkta izmantošanas sekām, tai skaitā, tām, kas iespējamas radušās Programmatūras produkta kļūdainas darbības rezultātā.
+9.2.1. LŪDZU ŅEMT VĒRĀ to, ka Digitālā produkta (kā daļas no Programmatūras produkta) darbības laiks var būt ierobežots. Informācija par Digitālo produktu kā Programmatūras produkta daļu kā arī par tā darbības laiku kļūs Jums pieejama uzreiz pēc Programmatūras produkta aktivācijas.
+9.3. NAVITEL negarantē Programmatūras produkta saderību ar trešo personu un organizāciju veidotām programmatūrām un aprīkojumu, jo īpaši, ja aprīkojums ražots vēlāk nekā attiecīgā Programmatūras produkta versija.
+
+10. PROGRAMMATŪRAS PRODUKTA ATGRIEŠANA
+10.1. Piekrītot šī Līguma nosacījumiem un aktivējot Programmatūras produkta Licences atslēgu, Jūs arī piekrītat „Iegādātā Programmatūras produkta atgriešanas noteikumiem”. Sīkākai informācijai par produkta atgriešanu, lūdzu, apmeklējiet NAVITEL oficiālo miteat http://navitel.cz
+
+AUTORTIESĪBAS:
+"Навигационная картографическая программа" ("Навител Навигатор"), Навигационная система "Навител Навигатор 3.2.5" (Navigation system "Navitel Navigator 3.2.5"),  "Навигационная система "Навител Навигатор 5.0" (Navigation system "Navitel Navigator 5.0"), а также все последующие версии Навигационной системы - © АО «ЦНТ», 2007-2015, версии с "Навигационная система "Навител Навигатор 3.2" (Navigation system "Navitel Navigator 3.2") по "Навигационная система "Навител Навигатор 9.6" (Navigation system "Navitel Navigator 9.6") включительно
+© NAVITEL s.r.o., 2016
+© CENTRE OF NAVIGATION TECHNOLOGY
+Погода Gismeteo. Данные о погоде предоставлены Gismeteo.ru. ©НПЦ Мэп Мейкер, 1998-2012
+Zlib ©Jean-loup Gailly and Mark Adler. 1995-2005
+FreeType 2 ©David Turner, Robert Wilhelm and Werner Lemberg, 1996-2002, 2006
+Libogg ©Xiph.org Foundation, 2002
+Libspeex ©Jean-Marc Valin/Xiph.org Foundation, 2002-2007
+Libpng ©Glenn Randers-Pehrson, 1998 -2004
+Ogles ©The Android Open Source Project, 2005-2011
+Arian ANU ©Ruben Hakobyan (Tarumyan), 1998-2011
+DirectXTex (с) Microsoft Corporation, 2006-2013
+© Картографическая основа Роскартография
+© ФГУП "Уралаэрогеодезия", 2006-2010г.
+© ФГУП "ПО Инжгеодезия", 2007г.
+© Картографическая основа. РОСРЕЕСТР, 2013г., 2014г.
+© ФГУП "Северо-Кавказское аэрогеодезическое предприятие", 2007г., 2008г., 2011г.
+© ООО "Отрок"
+© ФГУП "Южное АГП", 2007г., 2010г.
+© ООО "Гискарт"
+© ФГУП "Госцентр "Природа", 2007г., 2008г.
+© МУ "Городской информационный центр"
+© ФГУП ВАГП 2008г., 2010г.
+© ФГУП "Балт АГП"
+© Картографическая основа ООО "Карты Сибири"
+© КГЦ ФГУП "Уралаэрогеодезия", 2007г
+© ФГУП "Новгородское АГП"
+© СГГА
+© МП города Омска "Омскархитектура"
+© ФГУП "Средневолжское АГП" 2008г.
+© ООО "ГИС-Проект"
+© ФГУП "ЗапсибАГП", 2007г., 2009г.
+© ФГУП "ЦТМП Центрмаркшейдерия"
+© AND International Publishers NV
+© DATUM LLC
+© GDi GISDATA, www.gisdata.com
+© РУП "БелНИЦзем"
+© Государственный комитет по имуществу Республики Беларусь
+© ГУП "Национальное кадастровое агентство"
+© DataMap Europe Ltd.
+Contains Ordnance Survey data  ©Crown copyright and database right 2013
+Contains Royal Mail data © Royal Mail copyright and database right 2013
+Contains National Statistics data © Crown copyright and database right 2013
+© Business listings data ©Infobel
+© MemNav Ltd., MemNav.com
+© Картографическая основа Guidejet ® MAPS
+© Basarsoft, 2010
+© GEODATA S.A.
+© REGIO
+©Latvijas Geotelpiskās informācijas agentūra / ©Агентство геопространственной информации Латвии
+© Справочная служба 118
+© GEOVISION NC
+© Rock Mars Maps
+© PLANstudio s.r.o.
+© Mapy.cz, s.r.o.
+© MAPA Slovakia Digital
+© Geodetic institute of Slovenia
+© Картографическая основа ГНПП "Картография" (© Картографічна основа ДНВП "Картогафія")
+© carNAVi Corporation
+© Finnish Road Administration/Digiroad
+© Jose Alberto Najero Cruz, powered By BiciMapas ®
+© MULTISPECTRAL
+© TruEarth (R) imagery Copyright TerraMetrics, Inc.
+© (MAPMYINDIA) CE Info Systems (P) Ltd
+© Map of Colombia By Gisco, Todos los derechos reservados, 2016
+© 2016 DDG Technology JSC
+Bezirksregierung Köln, Abt. Geobasis NRW
+©Emapa sp. z o.o
+©Innovation Technology of Tajikistan L.L.C.
+© Technologii de Navigatie SRL
+© ALEKI LTD.
+Ředitelství silnic a dálnic ČR, státní příspěvková organizace
+© Carlos Calle (C) GuiaCalles

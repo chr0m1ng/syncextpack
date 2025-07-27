@@ -1,0 +1,161 @@
+Ugovor o licenci uz aplikaciju Navitel Navigator
+Poštovani kupče,
+
+pročitajte molim, sljedeći ugovor o licenci sa konačnim korisnikom (javna ponuda).
+
+UGOVOR O LICENCI SA KORISNIKOM NAVIGACIJSKOG SUSTAVA „NAVITEL NAVIGATOR“
+
+Ovaj ugovor o licenci je pravno obvezni ugovor o korištenju softverskog proizvoda – navigacijskog sustava „Navitel Navigator“ (u nastavku „softverski proizvod“), sklopljen između Vas (fizičke ili pravne osobe, u nastavku „korisnik“) i zatvorenim akcionarskim društvom „Center of Navigation Technologies“ (u nastavku „društvo NAVITEL“). Softverski proizvod obuhvaća računalni softver – navigacijski kartografski program „Navitel Navigator“ (u nastavku „navigacijski sustav“), digitalnu kartu (u nastavku „digitalni proizvod“) i prateće materijale, koji su u pisanom ili elektroničkom obliku. Digitalni proizvod je moguće nabaviti: (i) zajedno sa navigacijskim sustavom kao sastavnim dijelom softverskog proizvoda, ili (ii) kao samostalnu jedinicu za zajednički rad sa ranije nabavljenim softverskim proizvodom.
+
+Ovaj ugovor o licenci se odnosi također na aktualizacije, dopunske i dodatne komponente softverskog proizvoda, kao i na dijelove softverskog proizvoda, koje omogućuju njegovu funkciju. Društvo NAVITEL je vlasnik svih prava na softverski proizvod pod sljedećim uvjetima: isključiva autorska prava na kartografske podloge ili njhovi djelomični sastojci su imovina njihovih vlasnika u skladu sa oznakama zaštite autorskih prava koje se nalaze na svakoj kopiji softverskog proizvoda. Cijeli imenik vlasnika autorskih prava je naveden u članu AUTORSKA PRAVA.
+
+Društvo NAVITEL ima isključivo pravo na distribuciju softverskog proizvoda.
+Softverski proizvod čini cjelinu, a svi njegovi sastojci (osim drugih kartografskih materijala, baza podataka, grafičkih crteža, video i audio snimaka, tekstualnih i drugih programa) su samostalno predmeti autorskih prava te su zaštićeni ruskim i međunarodnim pravom. Instaliranjem, kopiranjem, preuzimanjem, realiziranjem pristupa i izvođenjem sličnih postupaka pomoću softverskog proizvoda se suglašavate sa uvjetima ovog ugovora o licenci. Ovaj ugovor sa konačnim korisnikom stupa na snagu čim potvrdite da ste sa istim suglasni. Ovaj ugovor sa konačnim korisnikom je važeći za cijelo vrijeme rada softverskog proizvoda. Ako niste suglasni sa nekim od uvjeta ovog ugovora o licenci, ne instalirajte i ne koristite softverski proizvod.
+
+UGOVOR O LICENCI SA KONAČNIM KORISNIKOM (JAVNA PONUDA)
+
+Ovaj softverski proizvod (uključujući pisane materijale) prenosi se na Vas u skladu s uvjetima ovog ugovora o licenci, ali VAM SE NE PRODAJE.
+
+1. PREDMET UGOVORA
+1.1. Društvo NAVITEL Vam izdaje jednostavnu neisključivu licencu, tj. pravo korištenja softverskog proizvoda samo na način kako je navedeno u daljem tekstu i pod dalje navedenim uvjetima (u nastavku „licenca“).
+1.2. Svi dalje navedeni uvjeti se odnose na softverski proizvod kao cjelinu, te na sve njegove dijelove posebno.
+
+2. INTELEKTUALNO VLASNIŠTVO
+2.1. Prava intelektualnog vlasništva na  softverski proizvod (između ostalog i prava na sve baze podataka, grafičke crteže, fotografije, video i audio snimke i druge programe, isto kao na ostale predmete intelektualnog vlasništva sadržane u softverskom proizvodu), propratni materijali u pisanom ili elektronskom obliku te bilo kakve kopije softverskog proizvoda su vlasništvo društva NAVITEL i njegovih partnera. Sva vlasnička i autorska prava na baze podataka i ostali sadržaj, prema kojima softverski proizvod omogućava pristup, su u držanju posjednika vlasničkih i autorskih prava ovih baza podataka i sadržaja, te su zaštićena pravom i drugim zakonima postojećim u okviru Ruske federacije, kao i zakonima međunarodnog prava, ugrađenih u sadržaj intelektualnog vlasništva. Ovaj ugovor Vam ne daje pravo pristupa ka sadržaju softverskog proizvoda.
+2.2. Jednostavna neisključiva licenca za korištenje softverskog proizvoda radi privatne, nekomercijalne namjene je korisniku pružana tako, kako je navedeno ovim ugovorom i to uz pretpostavku ispunjenja uvjeta navedenih u daljem tekstu.
+2.3. Društvo NAVITEL ne daje nikakva prava osim onih, koja su izričito utvrđena ovim ugovorom.
+
+3. UVJETI KORIŠTENJA
+3.1. Softverski proizvod može se prodavati kao sastavni dio računala ili može  biti isporučen zajedno sa računalom. Dobije li korisnik računalni proizvod kao sastavni dio računala ili isti dobije u okviru paketa zajedno sa računalom, uvijek je softverski proizvod licenciran kao jedini integrirani proizvod isporučivan zajedno sa računalom te se može koristiti samo u tom računalu, sa kojim je bio isporučen, ili uz koji je bio isporučen kao sastavni dio paketa.
+Prava ostvarena po ovom ugovoru može korisnik bilo kada prenijeti na drugu osobu, ali samo u slučaju istovremene, nepovratne prodaje i prijenosa računala s tim, da kod sadašnjeg korisnika ne ostanu nikakvi dijelovi ni kopije softverskog proizvoda, te da se primatelj softverskog proizvoda obveže da će poštovati uvijete ovog ugovora.
+3.2. Softverski proizvod može se prodavati i ako nije unaprijed u računalu instaliran, ili nije isporučen zajedno s računalom. Ako korisnik dobije softverski proizvod odvojeno od računala, opunomoćen je da prava koja su mu bila dana ovim ugovorom, te sastavne dijelove i kopije softverskog proizvoda prenosi na drugu osobu s tim, da kod sadašnjeg korisnika ne ostanu nikakvi dijelovi ni kopije softverskog proizvoda, te da se primatelj softverskog proizvoda obveže na poštivanje uvjeta ovog ugovora.
+3.3. Opseg licence. Ovaj ugovor daje korisniku pravo da reproducira softverski proizvod u obliku strojnog koda formom upisa u računalnu izravnu memoriju (RAM) radi izravnog izvršenja naredbi softverskog proizvoda u centralnom procesoru računala. Korisnik nema pravo koristiti ili čuvati softverski proizvod na više nego na jednom računalu (da li u stanju instaliranom ili deinstaliranom).
+3.4. Koristiti digitalni proizvod sadržan u softverskom proizvodu dozvoljeno je samo uz primjenu navigacijskog sustava, dobivenog u okviru softverskog proizvoda, a ne inače. Digitalni proizvod dobiven kao samostalna jedinica je moguće pokretati samo u okviru jednog softverskog proizvoda (tj. „po mjeri“ uz jedan unikatni licencni ključ softvera). 
+3.5. Radi obnavljanja izgubljene ili oštećene kopije softverskog proizvoda  korisnik ima pravo od službe tehničke podrške društva NAVITEL zatražiti konzultaciju. Korisnik je tom prilikom dužan predložiti ispravu o zakonskom korištenju kopije softverskog proizvoda.
+3.6. Isporuka podataka na dva tipa medija podataka. U slučaju da je softverski proizvod isporučivan na dva ili više tipa medija podataka, korisnik ima pravo koristiti samo jedan medij i to takav kakav je za njega u okviru paketa najpogodniji. Smatra se da svi mediji podataka koji se nalaze u jednoj kopiji softverskog proizvoda sadrže identičnu kopiju softverskog proizvoda te da ih korisnik može koristiti samo na jednom računalu.
+3.7. Korisnik ima pravo napraviti samo 1 (jednu) kopiju softverskog proizvoda, koja će služiti isključivo za čuvanje.
+3.8. Korisnik se obvezuje da neće sam obavljati sljedeće radnje, te neće dozvoliti ni drugim fizičkim ili pravnim osobama obavljanje sljedećih radnji:
+- korištenje softverskog proizvoda radi izravne dobiti;
+- posuđivanje, iznajmljivanje ili davanje softverskog proizvoda na privremeno korištenje;
+- korištenje softverskog proizvoda radi pružanja mrežnih usluga, uključujući ostalo, kao objavljivanje na internetskim stranicama po komercijalnoj ili nekomercijalnoj osnovi;
+- stvaranje pogodnih uvjeta za korištenje softverskog proizvoda od strane osoba, koje nemaju pravo koristiti određeni softver (uključujući osobe koje s Vama rade na istoj mreži ili u višekorisničkom sustavu), prenošenje licence softverskog proizvoda;
+- navođenje (objavljivanje) bilo kakvih dijelova ili komponenata softverskog proizvoda, uključujući ostalo, kao pružanje prilika za njihovo kopiranje trećim osobama;
+- pokušaj obilaženja tehničkih ograničenja softverskog proizvoda;
+- izravan pristup podacima digitalnog proizvoda, ispitivanje strukture i formata memorije digitalnog proizvoda, restrukturiranje pohrane digitalnog proizvoda, donekle mijenjati podatke učlanjivanja u softverskom proizvodu, mijenjanje (konverzija) i prilagođavanje softverskog proizvoda, analiza, dekompiliranje (pretvorba strojnog koda u izvorni tekst) programa, baza podataka i drugih sastavnih dijelova softverskog proizvoda;
+- vršenje izmjena u strojnom kodu programa ili baze podataka sa izuzetkom takvih, koje se vrše pomoću instrumenata učlanjenih u paket softverskog proizvoda i opisane u pratećim materijalima;
+- prenošenje prava korištenja na treće osobe sa izuzetkom situacija opisanih u točkama 3.1 i 3.2 ovog ugovora o licenci uz osiguranje usklađenosti sa zahtjevima navedenim u prethodnim točkama;
+- postupanje u vezi softverskog proizvoda suprotno pravnim propisima i drugim važećim zakonima Ruske federacije ili zakonima međunarodnog prava, koji su ugrađeni u sadržaj pravne zaštite računalskog softvera i baza podataka;
+- korištenje digitalnog proizvoda sa drugim softverskim programima osim navigacijskog sustava.
+3.9. U slučaju da korisnik počini neko od djela navedenih u točki 3.8, zadržava NAVITEL pravo da kadgod, jednostrano raskine ovaj ugovor o licenci i to bez bilo kakve opomene ili upozorenja.
+3.10. Korisnik snosi za softverski proizvod isključivu odgovornost kao i sav rizik vezan za njegovo korištenje.
+3.11. Aktivacija licencnog ključa softverskog proizvoda je legitiman mehanizam koji potvrđuje ispravno korištenje softverskog proizvoda od strane korisnika.
+3.12. Deaktivacija licencnog ključa uz kopiju softverskog proizvoda je dozvoljena najviše jedanput (iz bilo kojeg razloga). Uz kopiju digitalnog proizvoda, koji je bio pribavljen kao samostalna jedinica, ne postoji nikakva deaktivacija licencnog ključa. Ponovna aktivacija licencnog ključa je dozvoljena na uređaju istog modela sa istim zvaničnim operativnim sustavom. Više informacija o deaktivaciji/reaktivaciji licencnog ključa naći ćete na službenim web stranama društva NAVITEL na adresi http://navitel.cz.
+
+3.13. UPOZORAVAMO da društvo NAVITEL pruža tehničku podršku samo za zvanične verzije softverskog proizvoda i njegove aktualizacije koje društvo NAVITEL izda tjeko 1 (jedne) godine nakon kupnje.
+
+Primjena drugih verzija navigacijskog sustava, digitalnih proizvoda i njihovih aktualizacija, proizvedenih ili uređivanih drugim komunitama ili pojedincima, može uzrokovat oštećenja uređaja, koja zahtjevaju opravak. Takve proizvode koristi korisnik na vlastiti rizik i osobnu odgovornost.
+
+4. AKTUALIZACIJE
+4.1. Za korištenje softvera, koji prema društvu NAVITEL pripada kategoriji aktualizacije, neophodno je imati licencu uz softverski proizvod, na koji se ponuda aktualizacije društva NAVITEL odnosi. Aktualizacija u potpunosti ili djelomično zamjenjuje ili proširuje softverski proizvod, koji je dokaz Vašeg prava na primanje aktualizacije. Pri instalaciji aktualizacije u računalo imate pravo koristiti aktualizaciju samo u skladu sa odredbama ovog ugovora ili sukladno sa ugovorom o licenci, koji je propratnim aktom aktualizacije.
+4.2. Nakon instaliranja aktualizacije ne možete više koristiti izvornu verziju softverskog proizvoda u koji je aktualizacija bila ugrađena, osim u slučajevima kada je takva mogućnost sastavni dio aktualizacije softvera.
+4.3. Društvo NAVITEL ni njegovi dobavljači ni partneri nemaju nikakvu izričitu niti implicitnu obvezu stvarati ili obavljati distribuciju aktualizacije softverskog proizvoda ili njegovih sastojaka, uključujući digitalni proizvod.
+4.4. Društvo NAVITEL zadržava pravo objavljivanja aktualizacije softverskog proizvoda i njegovih dijelova i to besplatno ili za naplatu.
+
+5. SOFTVER „NIJE NAMJENJEN ZA DALJNJU PRODAJU“
+5.1. Ako softverski proizvod ima naslov „Nije namijenjen za daljnju prodaju“ ili „NFR“, postojeća licenca dozvoljava, bez obzira na ostale uvijete ovog ugovora, da se takav softverski proizvod koristi samo za prezentaciju, isprobavanje ili prosuđivanje softverskog proizvoda, te je svaka prodaja ili prijenos softverskog proizvoda za naplatu ovim zabranjen.
+
+6. SUGLASNOST SA KORIŠTENJEM PODATAKA
+6.1. Aktivacijom softverskog proizvoda se korisnik suglašava da društvo NAVITEL može prikupljati i koristiti bilo kakve tehničke informacije vezane za softverski proizvod, a koje su pribavljene u okviru korisničkih usluga, pružanih korisniku. Društvo NAVITEL ove informacije može koristiti za usavršavanje svojih proizvoda te u svrhe marketinga ili reklame. Društvo NAVITEL neće dozvoliti pristup nikakvim osobnim podacima korisnika. 
+
+7. RASKID LICENCNOG UGOVORA
+7.1. Bez utjecaja na bilo koje njegovo pravo, društvo NAVITEL ovaj ugovor može raskinuti u slučaju nepoštivanja uvjeta utvrđenih ugovorom.
+7.2. Ako dođe do raskida ugovora, dužni ste uništiti sve kopije softverskog proizvoda koje imate (uključujući sve komponente softverskog proizvoda na bilo kakvom mediju, aktualizacije, ovaj ugovor i druge propratne materijale).
+
+8. ODGOVORNOST
+8.1. Korištenje, distribucija i reprodukcija (kopiranje) softverskog proizvoda i bilo kojih njegovih dijelova u suprotnosti su sa uvjetima ovog ugovora te u sukobu sa isključivim pravima vlasnika, a prema zakonu se kažnjavaju.
+8.1.1. Mjerodavno pravo za ovaj ugovor je pravo Ruske federacije.
+8.2. Ako korisnik povrijedi ovaj ugovor, gubi pravo na korištenje ovog softverskog proizvoda isto kao i ograničenu garanciju, navedenu u sljedećem tekstu pod točkom 9.
+
+9. OGRANIČENA GARANCIJA
+9.1. Društvo NAVITEL jamči ispravnost programa sadržanih u softverskom proizvodu pod uvjetima utvrđenim u dokumentaciji isporučenoj skupa sa softverskim proizvodom.
+9.2. Ostatak softverskog proizvoda se isporučuje „kakav jeste“. NAVITEL ne snosi nikakvu odgovornost u slučaju da softverski proizvod ne zadovoljava očekivanja korisnika ili se razlikuje od njegovih stavova, ne ispunjava analogije ili normative koji nisu opisani u specifikacijama i u povezanoj dokumentaciji ili sadrži greške, isto kao što ne odgovara za neposredne i posredne posljedice uslijed korištenja softverskog proizvoda, uključujući one do kojih je došlo zbog mogućih nedostataka ili tiskarskih grešaka na omotu softverskog proizvoda.
+9.2.1. UPOZORAVAMO da vrijeme rada digitalnog proizvoda (kao sastavnog dijela softverskog proizvoda) može biti ograničeno. Informacije o digitalnom proizvodu, kao sastavnom dijelu softverskog proizvoda i o vremenu njegovog funkcioniranja bit će Vam pristupačne neposredno nakon aktiviranja softverskog proizvoda.
+9.3. Društvo NAVITEL ne jamči funkcioniranje softverskog proizvoda u sklopu sa softverom i hardverom trećih osoba i organizacija, posebno sa hardverom proizvedenim kasnije nego što je bila proizvedena verzija danog softverskog proizvoda.
+
+10. VRAĆANJE SOFTVERSKOG PROIZVODA
+10.1. Prihvaćanjem uvjeta iz ovog ugovora o licenci i aktivacijom licencnog ključa softverskog proizvoda također ste izrazili suglasnost s „Ugovorima vraćanja kupljenog softverskog proizvoda“.  Više informacija o vraćanju saznat ćete na zvaničnim web stranicama društva NAVITEL na adresi http://navitel.cz. 
+
+AUTORSKA PRAVA:
+"Навигационная картографическая программа" ("Навител Навигатор"), Навигационная система "Навител Навигатор 3.2.5" (Navigation system "Navitel Navigator 3.2.5"),  "Навигационная система "Навител Навигатор 5.0" (Navigation system "Navitel Navigator 5.0"), а также все последующие версии Навигационной системы - © АО «ЦНТ», 2007-2015, версии с "Навигационная система "Навител Навигатор 3.2" (Navigation system "Navitel Navigator 3.2") по "Навигационная система "Навител Навигатор 9.6" (Navigation system "Navitel Navigator 9.6") включительно
+© NAVITEL s.r.o., 2016
+© CENTRE OF NAVIGATION TECHNOLOGY
+Погода Gismeteo. Данные о погоде предоставлены Gismeteo.ru. ©НПЦ Мэп Мейкер, 1998-2012
+Zlib ©Jean-loup Gailly and Mark Adler. 1995-2005
+FreeType 2 ©David Turner, Robert Wilhelm and Werner Lemberg, 1996-2002, 2006
+Libogg ©Xiph.org Foundation, 2002
+Libspeex ©Jean-Marc Valin/Xiph.org Foundation, 2002-2007
+Libpng ©Glenn Randers-Pehrson, 1998 -2004
+Ogles ©The Android Open Source Project, 2005-2011
+Arian ANU ©Ruben Hakobyan (Tarumyan), 1998-2011
+DirectXTex (с) Microsoft Corporation, 2006-2013
+© Картографическая основа Роскартография
+© ФГУП "Уралаэрогеодезия", 2006-2010г.
+© ФГУП "ПО Инжгеодезия", 2007г.
+© Картографическая основа. РОСРЕЕСТР, 2013г., 2014г.
+© ФГУП "Северо-Кавказское аэрогеодезическое предприятие", 2007г., 2008г., 2011г.
+© ООО "Отрок"
+© ФГУП "Южное АГП", 2007г., 2010г.
+© ООО "Гискарт"
+© ФГУП "Госцентр "Природа", 2007г., 2008г.
+© МУ "Городской информационный центр"
+© ФГУП ВАГП 2008г., 2010г.
+© ФГУП "Балт АГП"
+© Картографическая основа ООО "Карты Сибири"
+© КГЦ ФГУП "Уралаэрогеодезия", 2007г
+© ФГУП "Новгородское АГП"
+© СГГА
+© МП города Омска "Омскархитектура"
+© ФГУП "Средневолжское АГП" 2008г.
+© ООО "ГИС-Проект"
+© ФГУП "ЗапсибАГП", 2007г., 2009г.
+© ФГУП "ЦТМП Центрмаркшейдерия"
+© AND International Publishers NV
+© DATUM LLC
+© GDi GISDATA, www.gisdata.com
+© РУП "БелНИЦзем"
+© Государственный комитет по имуществу Республики Беларусь
+© ГУП "Национальное кадастровое агентство"
+© DataMap Europe Ltd.
+Contains Ordnance Survey data  ©Crown copyright and database right 2013
+Contains Royal Mail data © Royal Mail copyright and database right 2013
+Contains National Statistics data © Crown copyright and database right 2013
+© Business listings data ©Infobel
+© MemNav Ltd., MemNav.com
+© Картографическая основа Guidejet ® MAPS
+© Basarsoft, 2010
+© GEODATA S.A.
+© REGIO
+©Latvijas Geotelpiskās informācijas agentūra / ©Агентство геопространственной информации Латвии
+© Справочная служба 118
+© GEOVISION NC
+© Rock Mars Maps
+© PLANstudio s.r.o.
+© Mapy.cz, s.r.o.
+© MAPA Slovakia Digital
+© Geodetic institute of Slovenia
+© Картографическая основа ГНПП "Картография" (© Картографічна основа ДНВП "Картогафія")
+© carNAVi Corporation
+© Finnish Road Administration/Digiroad
+© Jose Alberto Najero Cruz, powered By BiciMapas ®
+© MULTISPECTRAL
+© TruEarth (R) imagery Copyright TerraMetrics, Inc.
+© (MAPMYINDIA) CE Info Systems (P) Ltd
+© Map of Colombia By Gisco, Todos los derechos reservados, 2016
+© 2016 DDG Technology JSC
+Bezirksregierung Köln, Abt. Geobasis NRW
+©Emapa sp. z o.o
+©Innovation Technology of Tajikistan L.L.C.
+© Technologii de Navigatie SRL
+© ALEKI LTD.
+Ředitelství silnic a dálnic ČR, státní příspěvková organizace
+© Carlos Calle (C) GuiaCalles

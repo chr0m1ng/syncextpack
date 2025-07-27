@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<service CarMan="net.easyconn.carman" ver="306"/>
+	<driverload delete="0" write="1"/>
+	<blackwhitescreen advancemode="2"/>
+	<isoutputlog output="0"/>
+	<autoconnect autocon="2"/>
+	<channel xc_code="88880001"/>
+	<easyver ver="1013"/>
+	<topmost top="0"/>
+	<startmonitor monitor="0"/>
+	<compatible cmp="0"/>
+	<version ver="4.4.32"/>
+	<versioncode vercode="404032"/>
+	<versiones es="146"/>
+	<versionrv rv="4055"/>
+	<versioncm cm="321"/>
+</root>

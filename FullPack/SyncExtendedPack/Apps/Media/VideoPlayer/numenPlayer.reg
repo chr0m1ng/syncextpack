@@ -1,0 +1,81 @@
+HKCU,Software\VisualOn\numenStudio\Setting,Version,0x00010001,2048
+HKCU,Software\VisualOn\numenStudio\Setting,Language,0x00000000,"English"
+HKCU,Software\VisualOn\numenStudio\Setting,SDCARD,0x00000000,"\"
+HKCU,Software\VisualOn\numenStudio\Setting,FileFormat,0x00010001,0X9F1F109F
+HKCU,Software\VisualOn\Filters\VideoRender,ScreenText,0x00010001,1
+HKCU,Software\VisualOn\Filters\FileReader,SeekMode,0x00010001,0
+;HKCU,Software\VisualOn\Filters\VideoRender,DrawMode,0x00010001,3
+;HKCU,Software\VisualOn\Filters\VideoRender,DrawMemory,0x00010001,1
+
+; ******************************************************************************
+; *                     DirectShow System Core
+; ******************************************************************************
+; Filter Mapper interface
+HKCR,CLSID\{e436ebb2-524f-11ce-9f53-0020af0ba770},,0x00000000,"Filter Mapper"
+HKCR,CLSID\{e436ebb2-524f-11ce-9f53-0020af0ba770}\InprocServer32,,0x00000000,"#quartz.dll"
+HKCR,CLSID\{e436ebb2-524f-11ce-9f53-0020af0ba770}\InprocServer32,ThreadingModel,0x00000000,"Both"
+
+; Filter Graph interface
+HKCR,CLSID\{e436ebb3-524f-11ce-9f53-0020af0ba770},,0x00000000,"Filter Graph"
+HKCR,CLSID\{e436ebb3-524f-11ce-9f53-0020af0ba770}\InprocServer32,,0x00000000,"#quartz.dll"
+HKCR,CLSID\{e436ebb3-524f-11ce-9f53-0020af0ba770}\InprocServer32,ThreadingModel,0x00000000,"Both"
+
+; Filter Graph no thread interface
+HKCR,CLSID\{e436ebb8-524f-11ce-9f53-0020af0ba770},,0x00000000,"Filter Graph no thread"
+HKCR,CLSID\{e436ebb8-524f-11ce-9f53-0020af0ba770}\InprocServer32,,0x00000000,"#quartz.dll"
+HKCR,CLSID\{e436ebb8-524f-11ce-9f53-0020af0ba770}\InprocServer32,ThreadingModel,0x00000000,"Both"
+
+; System Clock interface
+HKCR,CLSID\{e436ebb1-524f-11ce-9f53-0020af0ba770},,0x00000000,"System Clock"
+HKCR,CLSID\{e436ebb1-524f-11ce-9f53-0020af0ba770}\InprocServer32,,0x00000000,"#quartz.dll"
+HKCR,CLSID\{e436ebb1-524f-11ce-9f53-0020af0ba770}\InprocServer32,ThreadingModel,0x00000000,"Both"
+
+; Memory Allocator interface
+HKCR,CLSID\{1e651cc0-b199-11d0-8212-00c04fc32c45},,0x00000000,"Memory Allocator"
+HKCR,CLSID\{1e651cc0-b199-11d0-8212-00c04fc32c45}\InprocServer32,,0x00000000,"#quartz.dll"
+HKCR,CLSID\{1e651cc0-b199-11d0-8212-00c04fc32c45}\InprocServer32,ThreadingModel,0x00000000,"Both"
+
+; Seeking interface
+HKCR,CLSID\{060AF76C-68DD-11d0-8FC1-00C04FD9189D},,0x00000000,"Seeking"
+HKCR,CLSID\{060AF76C-68DD-11d0-8FC1-00C04FD9189D}\InprocServer32,,0x00000000,"#quartz.dll"
+HKCR,CLSID\{060AF76C-68DD-11d0-8FC1-00C04FD9189D}\InprocServer32,ThreadingModel,0x00000000,"Both"
+
+; Direct Show Plug In Control interface
+HKCR,CLSID\{e436ebb4-524f-11ce-9f53-0020af0ba770},,0x00000000,"Filter Graph Control Plug In Distributor"
+HKCR,CLSID\{e436ebb4-524f-11ce-9f53-0020af0ba770}\InprocServer32,,0x00000000,"#quartz.dll"
+HKCR,CLSID\{e436ebb4-524f-11ce-9f53-0020af0ba770}\InprocServer32,ThreadingModel,0x00000000,"Both"
+
+
+; Register the interface for graph
+;56a868b2-0ad4-11ce-b03a-0020af0ba770    IMediaPosition
+HKCR,Interface\{56a868b2-0ad4-11ce-b03a-0020af0ba770}\Distributor,,0x00000000,"{e436ebb4-524f-11ce-9f53-0020af0ba770}"
+
+;56a868ae-0ad4-11ce-b03a-0020af0ba770    IMediaSelection
+HKCR,Interface\{56a868ae-0ad4-11ce-b03a-0020af0ba770}\Distributor,,0x00000000,"{e436ebb4-524f-11ce-9f53-0020af0ba770}"
+
+;36b73880-c2c8-11cf-8b46-00805f6cef60    IMediaSeeking
+HKCR,Interface\{36b73880-c2c8-11cf-8b46-00805f6cef60}\Distributor,,0x00000000,"{e436ebb4-524f-11ce-9f53-0020af0ba770}"
+
+;56a868b3-0ad4-11ce-b03a-0020af0ba770    IBasicAudio
+HKCR,Interface\{56a868b3-0ad4-11ce-b03a-0020af0ba770}\Distributor,,0x00000000,"{e436ebb4-524f-11ce-9f53-0020af0ba770}"
+
+;56a868b4-0ad4-11ce-b03a-0020af0ba770    IVideoWindow
+HKCR,Interface\{56a868b4-0ad4-11ce-b03a-0020af0ba770}\Distributor,,0x00000000,"{e436ebb4-524f-11ce-9f53-0020af0ba770}"
+
+;56a868b5-0ad4-11ce-b03a-0020af0ba770    IBasicVideo
+HKCR,Interface\{56a868b5-0ad4-11ce-b03a-0020af0ba770}\Distributor,,0x00000000,"{e436ebb4-524f-11ce-9f53-0020af0ba770}"
+
+;56a868b6-0ad4-11ce-b03a-0020af0ba770    IMediaEvent
+HKCR,Interface\{56a868b6-0ad4-11ce-b03a-0020af0ba770}\Distributor,,0x00000000,"{e436ebb4-524f-11ce-9f53-0020af0ba770}"
+
+;56a868b7-0ad4-11ce-b03a-0020af0ba770    IQueueCommand
+HKCR,Interface\{56a868b7-0ad4-11ce-b03a-0020af0ba770}\Distributor,,0x00000000,"{e436ebb4-524f-11ce-9f53-0020af0ba770}"
+
+;56a868a2-0ad4-11ce-b03a-0020af0ba770    IMediaEventSink
+HKCR,Interface\{56a868a2-0ad4-11ce-b03a-0020af0ba770}\Distributor,,0x00000000,"{e436ebb4-524f-11ce-9f53-0020af0ba770}"
+
+;56a868b1-0ad4-11ce-b03a-0020af0ba770    IMediaControl
+HKCR,Interface\{56a868b1-0ad4-11ce-b03a-0020af0ba770}\Distributor,,0x00000000,"{e436ebb4-524f-11ce-9f53-0020af0ba770}"
+
+;56a868ac-0ad4-11ce-b03a-0020af0ba770    IResourceManager
+HKCR,Interface\{56a868ac-0ad4-11ce-b03a-0020af0ba770}\Distributor,,0x00000000,"{e436ebb4-524f-11ce-9f53-0020af0ba770}"

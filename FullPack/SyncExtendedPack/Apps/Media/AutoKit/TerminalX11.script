@@ -1,0 +1,97 @@
+#A=\Box\; //APP RESOURCE
+#Z=\win8\common\;
+#K=\kewei\common\;
+#J=\Jiayitian\Audio\;
+uipath="";
+[APP(CWndManage)]animate=0;[/]
+
+//天派A6车机，UIGear会自动将窗口Title和Class名字修改为GPS - Navigation。否则会没有声音。
+[APP:AutoPlay(CBox_MainWnd)]classname=AutoPlay;descx=full;descy=full;z-order=TOP;[/]
+	//[::bkg(CBmpbutton)]desx=center;desy=center;bmp=%A%bkg.png;[/]
+	[::bkg(CColorbutton)]color=<0,0,0>;cx=full;cy=full;[/]
+	[::bkg(CVolumeWarningTxt)]cx=full;cy=50;z=100;desy=full-50;txt="音量增益大于50可能会带来轻微背景噪音";[/]
+	[:CheckEnvWnd(CLogic_Box_PageWnd)]parent=AutoPlay;descx=full;descy=full;z=1;page=1;[/]
+		[::s(CTxt)]txtcolor=<0xff,0xff,0xff>;cx=full;cy=full;desy=center;txtpos=1|4;txtsize=40;bold=1;langid=14091;[/]//txt="Checking Env";
+	[:UpdateWnd(CLogic_Box_PageWnd)]parent=AutoPlay;descx=full;descy=full;z=1;page=5;[/]
+		[::updatewords(CTxt)]txtcolor=<0xff,0xff,0xff>;cx=full;cy=full;desy=center;txtpos=1|4;txtsize=40;bold=1;txt="Updating... Please wait";[/]//txt="Checking Env";
+	
+	[App:IdleWnd(CLogic_Box_PageWnd)]parent=AutoPlay;descx=full;descy=full;z=1;page=2;[/]
+
+		[::s(CBoxBoxSoftVersion)]txtcolor=<0xAA,0xAA,0xAA>;desx=10;desy=full-16;txtsize=13;cx=full;cy=16;txtpos=4;z=20;[/]
+		[::s(CBoxAppSoftVersion)]txtcolor=<0xAA,0xAA,0xAA>;desx=10;desy=full-16;txtsize=13;cx=full;cy=16;txtpos=4;z=20;[/]
+		[::s(CBoxLogicLangBtn)]id=x;desx=730;desy=432;bmp=%A%lang.png;[/]
+		[::exitlog(CTxtButton)]txtcolor=<0x00,0xA3,0xD8>;bpushup=1;bmp=%A%quitbkg.png;desx=center;desy=356;txtpos=1|4;txtsize=50;bold=1;langid=14092;[/]//txt="退出";
+		
+		[:InstWnd0(CLogic_Box_InstWnd)]parent=IdleWnd;descx=full;descy=full;z=1;words=0;[/]//在未插入盒子时显示界面
+			[:InstWnd0_0(CLogic_Box_InstWnd1st)]parent=InstWnd0;descx=full;descy=full;z=1;[/] //提示用户插入盒子
+				[::doUSBcheck(CTxtButton)]txtcolor=<0x00,0xA3,0xD8>;bpushup=1;cx=800-609;cy=30;desx=609;desy=150;txtpos=0;txtsize=24;bold=1;langid=14106;[/]//txt="USB检查";
+				[::s(CTxt)]txtcolor=<0xff,0xff,0xff>;cx=full;cy=50;desy=188;txtpos=1|4;txtsize=44;bold=1;langid=14094;[/]//txt="请使用车机USB接口";
+				[::s(CTxt)]txtcolor=<0xff,0xff,0xff>;cx=full;cy=50;desy=240;txtpos=1|4;txtsize=44;bold=1;langid=14095;[/]//txt="连接 AutoPlay 盒";
+			[:InstWnd0_1(CLogic_Box_InstWnd1st)]parent=InstWnd0;descx=full;descy=full;z=1;[/] //正在USB检查
+				[::doQuitUSBcheck(CColorbutton)]color=<0,0,0>;alpha=10;cx=full;desy=(full-100)/2;cy=100;[/]
+				[::s(CLogic_Box_UsbCheck_tiptxt)]txtcolor=<0xff,0xff,0xff>;cx=full;cy=50;desy=188;txtpos=1|4;txtsize=40;bold=1;z=3;[/]//txt="";
+				[::s(CUSBCheckOK)]bmp=%A%check.png;desx=center;desy=188+60;z=3;[/]
+				
+		[:InstWnd1(CLogic_Box_InstWnd)]parent=IdleWnd;descx=full;descy=full;z=1;words=1;[/]//插入盒子后的显示界面
+            [::s(CTxt)]txtcolor=<0xff,0xff,0xff>;cx=full;cy=50;desy=188;txtpos=1|4;txtsize=44;bold=1;langid=14096;[/]//txt="请使用 AutoPlay 盒USB口";
+			[::s(CTxt)]txtcolor=<0xff,0xff,0xff>;cx=full;cy=50;desy=240;txtpos=1|4;txtsize=44;bold=1;langid=14097;[/]//txt="连接手机";
+		[:InstWnd2(CLogic_Box_InstWnd)]parent=IdleWnd;descx=full;descy=full;z=1;words=2;[/]
+			[::s(CTxt)]txtcolor=<0xff,0x00,0x00>;cx=full;cy=50;desy=188;txtpos=1|4;txtsize=44;bold=1;langid=14100;[/]//txt="不适配的盒子";
+        [:InstWnd3(CLogic_Box_InstWnd)]parent=IdleWnd;descx=full;descy=full;z=1;words=3;[/]//插入盒子后的显示界面，支持无线连接
+			[::s(CAutoConnectBtn)]txtcolor=<0x00,0xA3,0xD8>;bpushup=1;cx=800-609;cy=30;desx=609;desy=130;txtpos=0;txtsize=24;bold=1;langid=14115;id=x;hide=1;[/]//txt="自动连接";
+            [::s(CBoxBluetoothNameTips)]txtcolor=<0xff,0xff,0xff>;cx=full;cy=50;desy=188;txtpos=1|4;txtsize=36;bold=1;langid=14121;[/]//txt="请在iPhone手机端连接蓝牙%s";
+			[::s(CTxt)]txtcolor=<0xff,0xff,0xff>;cx=full;cy=50;desy=240;txtpos=1|4;txtsize=36;bold=1;langid=14122;[/]//txt="或使用AutoPlay盒的USB口连接手机";
+		
+        [:SettingWnd(CLogic_Box_SettingWnd)]parent=IdleWnd;descx=full;descy=0;desy=-1000;z=1;[/]
+			[::bkg(CLogic_Box_SettingWndbkg)]color=<0x20,0x20,0x20>;alpha=180;cx=full;cy=full;[/]			
+			[:SettingWnd0(CLogic_Box_SettingWndLine)]parent=SettingWnd;descx=full;descy=30;z=1;[/]
+				[::s(CBoxMachineInfoTxt)]cx=full;cy=full;desy=center;[/] //显示机器信息如 CPU:mt33XX MEM:197M
+			
+			[:SettingWnd1(CLogic_Box_SettingWndLine)]parent=SettingWnd;descx=full;descy=60;z=1;[/]			
+				[::s(CBoxDispStuckWarnTxt)]txtcolor=<0xd8,0x6c,0x00>;cx=full;cy=full;desy=center;langid=14099;hide=1;[/] //显示机器性能不足
+				[::s(CBoxDecodeTogglerTxt)]txtcolor=<0xff,0xff,0xff>;cx=full/2;cy=full;desy=center;txtpos=2|4;txtsize=30;bold=1;langid=14107;z=3;[/]
+				[::bkg(CBoxDecodeToggler)]cnt=2;cx=194;id=x;hide=1; //显示选择流畅、兼容模式选择
+					bkgl=%Z%dl.png;bkgm=%Z%dm.png;bkgr=%Z%dr.png;bmpl=%Z%sl.png;bmpm=%Z%sm.png;bmpr=%Z%sr.png;
+					desx=full/2 + (full/2 - 194)/2;;desy=center;txt="SLOW";txt="FAST";z=1;[/] 
+            
+			[:SettingWnd2(CLogic_Box_SettingWndLine)]parent=SettingWnd;descx=full;descy=60;z=1;[/]//音量调节
+				[::s(CTxt)]txtcolor=<0xff,0xff,0xff>;cx=full/2;cy=full;desy=center;txtpos=2|4;txtsize=30;bold=1;langid=14101;z=3;[/]
+				[::s(CBoxVolumeSubBtn)]id=x;abmp=%J%Minus.png;bmp=%J%eqslid.png;bpushup=1;desx=full/2+(full/2-228)/2;desy=center;z=3;[/]
+				[::s(CCurVolumeTxt)]txtcolor=<0x00,0xA3,0xD8>;cx=60;cy=full;desx=full/2+(full/2-228)/2+80;desy=center;txtpos=1|4;txtsize=38;bold=5;txt="0";z=3;[/]
+				[::s(CBoxVolumeAddBtn)]id=x;abmp=%J%Add.png;bmp=%J%eqslid.png;bpushup=1;desx=full/2+(full/2-228)/2+155;desy=center;z=3;[/]
+			
+			[:SettingWnd3(CLogic_Box_SettingWndLine)]parent=SettingWnd;descx=full;descy=60;z=1;[/]//防止倒车黑屏选择
+				[::s(CTxt)]txtcolor=<0xff,0xff,0xff>;cx=full/2;cy=full;desy=center;txtpos=2|4;txtsize=30;bold=1;langid=14103;z=3;[/]
+				[::bkg(CBackCarbugToggler)]cnt=2;cx=194;id=x;hide=0;
+					bkgl=%Z%dl.png;bkgm=%Z%dm.png;bkgr=%Z%dr.png;bmpl=%Z%sl.png;bmpm=%Z%sm.png;bmpr=%Z%sr.png;
+					desx=full/2 + (full/2 - 194)/2;desy=center;txt="OFF";txt="ON";z=1;[/] 
+            
+            [:SettingWnd6(CLogic_Box_SettingWndLine)]parent=SettingWnd;descx=full;descy=60;z=1;[/]//充电模式选择
+				[::s(CTxt)]txtcolor=<0xff,0xff,0xff>;cx=full/2;cy=full;desy=center;txtpos=2|4;txtsize=30;bold=1;langid=14112;z=3;[/]
+				[::bkg(CChargeModeToggler)]cnt=2;cx=194;id=x;hide=0;
+					bkgl=%Z%dl.png;bkgm=%Z%dm.png;bkgr=%Z%dr.png;bmpl=%Z%sl.png;bmpm=%Z%sm.png;bmpr=%Z%sr.png;
+					desx=full/2 + (full/2 - 194)/2;desy=center;langid=14113;langid=14114;z=1;[/]
+                    
+            [:SettingWnd7(CLogic_Box_ConnectModeSettingWnd)]parent=SettingWnd;descx=full;descy=60;z=1;hide=1;[/]//连接模式选择
+				[::s(CTxt)]txtcolor=<0xff,0xff,0xff>;cx=full/2;cy=full;desy=center;txtpos=2|4;txtsize=30;bold=1;langid=14116;z=3;[/]
+				[::bkg(CConnectModeToggler)]cnt=2;cx=194;id=x;hide=0;
+					bkgl=%Z%dl.png;bkgm=%Z%dm.png;bkgr=%Z%dr.png;bmpl=%Z%sl.png;bmpm=%Z%sm.png;bmpr=%Z%sr.png;
+					desx=full/2 + (full/2 - 194)/2;desy=center;langid=14117;langid=14118;z=1;[/]        
+                
+            [:SettingWnd4(CLogic_Box_MicSettingWnd)]parent=SettingWnd;descx=full;descy=60;hide=1;[/]
+                [::s(CTxt)]txtcolor=<0xff,0xff,0xff>;cx=full/2;cy=full;desy=center;txtpos=2|4;txtsize=30;bold=1;langid=14105;z=3;[/]//使用盒子麦克风
+                [::bkg(CBoxMicToggler)]cnt=2;cx=194;id=x;hide=0;
+                bkgl=%Z%dl.png;bkgm=%Z%dm.png;bkgr=%Z%dr.png;bmpl=%Z%sl.png;bmpm=%Z%sm.png;bmpr=%Z%sr.png;
+                desx=full/2 + (full/2 - 194)/2;desy=center;txt="OFF";txt="ON";z=1;[/] 
+				
+			[:SettingWnd5(CLogic_Box_SettingWndLine)]parent=SettingWnd;descx=full;descy=60;z=1;[/]	
+				[::s(CBoxLogicEntSettingBtnOn)]id=x;desx=center;desy=down;bmp=%A%settingOnTriger.png;[/]
+				[::s(CBoxLogicEntSettingBtnOff)]id=x;desx=center;desy=down;bmp=%A%settingOffTriger.png;[/]
+			
+            
+	[App:WaitWnd(CLogic_Box_PageWnd)]parent=AutoPlay;descx=full;descy=full;z=1;page=3;[/]
+		[::wait(BoxWaitAnimate)]desx=center;cy=full;desy=center;bmp=%K%loadsmall.png;z=2;hide=1;[/] 
+		[::s(CTxt)]txtcolor=<0xff,0xff,0xff>;cx=full;cy=50;desy=80;txtpos=1|4;txtsize=48;bold=1;langid=14017;[/]//txt="请稍后...";
+        [::s(CWirelessConnectTips)]txtcolor=<0x00,0xAA,0x00>;cx=full;desx=center;desy=350*CYPARENT/420;txtsize=24;txtpos=1|4;bold=1;z=20;[/]
+	[App:WorkWnd(CLogic_Box_PageWnd)]parent=AutoPlay;descx=full;descy=full;z=8;page=4;[/]
+		[::bkg(CLogic_BoxTouch)]id=x;color=<0,0,0>;cx=full;cy=full;[/]

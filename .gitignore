@@ -1,0 +1,26 @@
+.venv/
+.idea/
+
+# Build outputs and logs
+/*.log
+/*.zip
+builder.log
+
+# Test files and backups
+*TEST*
+*.backup
+*.bak
+
+# FlashTools generated files
+/FlashTools/Installer.xml
+
+# Python cache
+*.pyc
+__pycache__/
+
+# macOS specific
+.DS_Store
+.DS_Store?
+
+# Temporary build directories
+/SyncExtPack/*/

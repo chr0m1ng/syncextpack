@@ -1,0 +1,163 @@
+Navitel Navigator licencijos sutartis
+
+Brangus kliente,
+
+perskaitykite žemiau pateiktą Galutinio naudotojo licencijos sutartį (oficialų pasiūlymą).
+
+LICENCIJOS SUTARTIS SU NAVIGACIJOS SISTEMOS „NAVITEL NAVIGATOR“ NAUDOTOJU
+
+Ši Sutartis yra teisiškai įpareigojanti sutartis tarp Jūsų (fizinio arba juridinio asmens), toliau vadinamo „Naudotoju“, ir uždarosios akcinės bendrovės „Center of Navigation Technologies“ (toliau vadinama „NAVITEL“) dėl navigacijos sistemos „Navitel Navigator“ programinės įrangos produkto (toliau vadinama „Programinės įrangos produktas“) naudojimo. Programinės įrangos produktą sudaro „Navitel Navigator“ navigacinės kartografinės programos kompiuterinė programinė įranga (toliau vadinama „Navigacijos sistema“), skaitmeninis žemėlapis (toliau vadinama „Skaitmeninis produktas“) ir lydimoji medžiaga spausdintine arba elektronine forma. Skaitmeninį produktą galima įsigyti: (i) kartu su Navigacijos sistema, kaip neatsiejamą Programinės įrangos produkto dalį, arba (ii) kaip atskirą elementą, skirtą naudojimai kartu su anksčiau įsigytu Programinės įrangos produktu.
+
+Ši Sutartis apima Programinės įrangos produkto naujinimus, priedus, papildomus komponentus ir pagrindinius komponentus, užtikrinančius Programinės įrangos produkto veikimą. NAVITEL priklauso visos teisės į Programinės įrangos produktą su šiomis išlygomis: išskirtinės autorinės teisės į kartografines bazes ir/arba jų elementus atskirai priklauso jų savininkams laikantis autorinių teisių apsaugos požymių, esančių kiekvienoje Programinės įrangos produkto kopijoje. Peržiūrėkite straipsnį AUTORINĖS TEISĖS, kad sužinotumėte visą teisių savininkų sąrašą.
+
+NAVITEL turi išskirtines Programinės įrangos produkto platinimo teises.
+Programinės įrangos produktas arba atskiri jo elementai (įskaitant, tačiau neapsiribojant kartografine medžiaga, duomenų basėmis, grafiniais vaizdais, vaizdo ir garso įrašais, tekstais ir papildomomis programomis) yra autorinių teisių objektai ir juos saugo Rusijos ir tarptautinė teisė. Diegdami, kopijuodami, parsisiųsdami, naudodamiesi prieiga ar kitaip naudodamiesi Programinės įrangos produktu sutinkate su šios Licencijos sutarties sąlygomis. Degdami, kopijuodami, parsisiųsdami, naudodamiesi prieiga arba kitu būdu naudodamiesi Programinės įrangos produktu, Jūs sutinkate su šios Licencijos sutarties sąlygomis. Ši Galutinio naudotojo licencijos sutartis įsigalioja nedelsiant po to, kai Jūs patvirtiname savo sutikimą. Ši Galutinio naudotojo licencijos sutartis galios Programinės įrangos produkto naudojimo laikotarpiu. Jeigu nesutinkate su bet kuria šios Sutarties sąlyga, nediekite ir nenaudokite Programinės įrangos produkto.
+
+GALUTINIO NAUDOTOJO LICENCIJOS SUTARTIS (OFICIALUS PASIŪLYMAS)
+
+Programinės įrangos produktas (įskaitant spausdintinę medžiagą) yra Jums perduodamas pagal Sutarties sąlygas ir nuostatas. Programinės įrangos produktas NĖRA JUMS PARDUODAMAS.
+
+1. SUTARTIES OBJEKTAS
+1.1. NAVITEL Jums suteikia paprastą, neišskirtinę licenciją, t.y., teisę naudoti Programinės įrangos produktą tik žemiau nurodytu būdu ir sąlygomis (toliau vadinama „Licencija“).
+1.2. Visos žemiau nustatytos sąlygos yra susijusios su Programinės įrangos produktu kaip visuma ir su visais jo elementais atskirai.
+
+2. INTELEKTINĖ NUOSAVYBĖ
+2.1. Intelektinės nuosavybės teisės į Programinės įrangos produktą (įskaitant, tačiau neapsiribojant teisėmis į bet kurias duomenų bazes, grafinius vaizdus, fotografijas, vaizdi ir garso įrašus, papildomas programas, o taip pat visus kitus intelektinės nuosavybės objektus, sudarančius Programinės įrangos produktą), pridedamą spausdintinę ar elektroninę medžiagą ir bet kokias Programinės įrangos produkto kopijas priklauso NAVITEL ir jos partneriams. Visos nuosavybės teisės ir autorinės teisės į duomenų bazes ir kitą turinį, prie kurių prieigą suteikia Programinės įrangos produktas, priklauso tų duomenų bazių ir turinio nuosavybės ir autorinių teisių savininkams ir yra apsaugotos Rusijos Federacijoje galiojančiais įstatymais ir teisės aktais, o taip pat tarptautinės teisės įstatymais, reglamentuojančiais intelektinę nuosavybę. Ši Sutartis Jums nesuteikia prieigos prie Programinės įrangos produkto turinio.
+2.2. Paprasta, neišskirtinė licencija, skirta Programinės įrangos produkto naudojimui asmeniniais, nekomerciniais tikslais, yra suteikiama Naudotojui žemiau išvardytais būdais su sąlyga, kad yra laikomasi nurodytų sąlygų.
+2.3. NAVITEL nesuteikia jokių kitų teisių, išskyrus tas, aiškiai nurodytas toliau.
+
+3. NAUDOJIMOSI SĄLYGOS
+3.1. Programinės įrangos produktas gali būti parduodamas kaip kompiuterio komponentas arba gali būti susietas su kompiuterio rinkiniu ir iš anksto į jį įdiegtas. Jeigu Naudotojas gauna Programinės įrangos produktą kaip kompiuterio komponentą arba Programinės įrangos produktas yra susietas su kompiuterio rinkiniu, Programinės įrangos produktas yra licencijuotas kaip atskiras integruotas produktas, susietas su kompiuterio rinkiniu, ir gali būti naudojamas tik su kompiuteriu, kompiuterio rinkiniu, kurį sudaro arba rinkinyje, kuriame jis pristatomas.
+Naudotojas visuomet gali perleisti jam/jai šia Sutartimis suteiktas teises kitam asmeniui, tačiau tik vienalaikio negrąžinamo pardavimo ir kompiuterio perdavimo atveju, su sąlyga, kad Naudotojas nepasilieka jokių kompiuterio komponentų ar Programinės įrangos produkto kopijų, o Programinės įrangos gavėjas įsipareigoja laikytis šios Sutarties sąlygų ir nuostatų.
+3.2. Programinės įrangos produktas gali būti parduodamas kaip iš anksto į kompiuterį neįdiegtas ir nesusietas su kompiuterio rinkiniu produktas. Jeigu Naudotojas gauna Programinės įrangos produktą atskirai nuo kompiuterio, Naudotojas turi teisę perduoti jam/jai šia Sutartimi suteiktas teises, Programinės įrangos produkto komponentus ir kopijas kitam asmeniui, su sąlyga, kad Naudotojas nepasilieka jokių kompiuterio komponentų ar Programinės įrangos produkto kopijų, o Programinės įrangos gavėjas įsipareigoja laikytis šios Sutarties sąlygų ir nuostatų.
+3.3. Licencijos apimtis. Ši Sutartis suteikia Naudotojui Programinės įrangos produkto reprodukcijos teisę objektinio kodo forma įrašant jį į kompiuterio laisvosios kreipties atmintį Programinės įrangos produkto instrukcijų vykdymo tikslu centriniame kompiuterio procesoriuje. Naudotojas neturi teisės naudoti arba laikyti Programinės įrangos produkto daugiau nei viename kompiuteryje (nesvarbu, įdiegto, ar neįdiegto).
+3.4. Skaitmeninio produkto, sudarančio Programinės įrangos produktą, naudojimas yra leidžiamas tik naudojant navigacijos sistemą, pateiktą Programinės įrangos produkte. Skaitmenis produktas įsigytas kaip atskiras elementas gali veikti tik su vienu Programinės įrangos produktu (t.y., „pritaikytas“ atskiram unikaliam Programinės įrangos produkto licencijos raktui).
+3.5. Naudotojas turi teisę kreiptis dėl konsultacijos į NAVITEL techninio palaikymo tarnybą norėdamas atkurti pamestą ar sugadintą Programinės įrangos produkto kopiją. Naudotojas privalo pateikti įrodymus apie teisėtą jo/jos Programinės įrangos produkto kopijos naudojimą.
+3.6. Pristatymas dviejų tipų laikmenose. Jeigu Programinės įrangos produktas yra pristatomas dviejų tipų laikmenose, Naudotojas turi teisę naudoti tik vieną laikmeną, kuri yra jam/jai patogiausia. Visa duomenų laikmena patalpinta vienoje Programinės įrangos kopijoje yra laikoma sudaryta iš tos pačios Programinės įrangos produkto kopijos, o Naudotojas ją gali naudoti tik viename kompiuteryje.
+3.7. Naudotojas turi teisę padaryti 1 (vieną) Programinės įrangos produkto kopiją, kuri bus naudojama tik atsarginės kopijos tikslu.
+3.8. Naudotojas įsipareigoja nesielgti pats ir neleisti kitiems fiziniams arba juridiniams asmenims elgtis taip, kaip išvardyta toliau:
+- naudoti Programinės įrangos produktą tiesioginio pelno gavimo tikslu;
+- nuomoti ar suteikti laikino naudojimosi Programinės įrangos produktu;
+- naudoti Programinės įrangos produktą tinklo pagrindo paslaugų tiekimui, įskaitant, tačiau neapsiribojant transliavimu internetinėse svetainėse komerciniu ir nekomerciniu tikslu;
+- suteikti palankias Programinės įrangos produkto naudojimo sąlygas asmenims, kurie neturi asmeninių teisių naudoti programinę įrangą (įskaitant asmenis, kurie dirba tame pačiame tinkle ar daugelio naudotojų sistemoje kartu su Jumis), priskirti Programinės įrangos produkto licenciją;
+- išleisti (paskelbti) bet kuriuos Programinės įrangos produkto fragmentus ar elementus, įskaitant, tačiau neapsiribojant galimybės trečiosioms šalims kopijuoti Programinės įrangos produktą suteikimu;
+- bandyti apeiti techninius Programinės įrangos produkto apribojimus;
+- gauti tiesioginę prieigą prie Skaitmeninio produkto duomenų, tyrinėti Skaitmeninio produkto struktūrą ir atminties įrenginio formatą, pakeisti Skaitmeninio produkto atminties įrenginio struktūrą, pakeisti duomenis, esančius Programinės įrangos produkte, pakeisti (konvertuoti) ir pritaikyti Programinės įrangos produktą, išardyti, dekompiliuoti (konvertuoti objektinį kodą į originalų tekstą) programą, duomenų bazes ir kitus Programinės įrangos produkto komponentus;
+- atlikti objektinio programos ar duomenų bazės kodo pakeitimus, išskyrus tuos, kurie atliekami naudojantis Programinės įrangos produkte įtrauktomis ir pridedamoje medžiagoje aprašytomis priemonėmis;
+- perkelti teisies naudotis Programinės įrangos produktu trečiosioms šalims, išskyrus atvejus, aprašytus šios Sutarties 3.1. ir 3.2. punktuose, su sąlyga, kad bus laikomasi reikalavimų, nurodytų minėtuose punktuose;
+- Programinės įrangos produkto atžvilgiu veikti pažeidžiant Rusijos Federacijos įstatymus ir teisės aktus, o taip pat tarptautinę teisę, taikomą teisinės kompiuterinės programinės įrangos ir duomenų bazių apsaugos srityje;
+- naudoti Skaitmeninį produktą su kita programinę įranga, išskyrus Navigacijos sistemą.
+3.9. Jeigu Naudotojas atlieka bet kuriuos veiksmus, nurodytus 3.8. punkte, „NAVITEL“ išsaugo teisę nutraukti šią Galutinio naudotojo licencijos sutartį vienašališkai bet kuriuo metu be jokio pranešimo ar įspėjimo.
+3.10. Naudotojas yra išimtinai atsakingas ir prisiima visas rizikas, susijusias su Programinės įrangos produkto naudojimu.
+3.11. Programinės įrangos produkto licencijos rakto aktyvavimas yra teisėtas mechanizmas, kuris patvirtina, kad Naudotojas Programinės įrangos produktą naudoja teisingai.
+3.12. Licencijos rakto deaktyvavimas Programinės įrangos produkto kopijoje yra leidžiamas ne daugiau negu 1 kartą (dėl bet kurios priežasties). Licencijos raktas negali būti deaktyvuojamas Skaitmeninio produkto, įsigyto kaip atskiras elementas, kopijoje. Pakartotinis Licencijos rakto aktyvavimas yra leidžiamas tik to paties modelio, turinčio tą pačią oficialią operacinę sistemą, įrenginyje. Norėdami sužinoti daugiau informacijos apie deaktyvavimą/pakartotinį Licencijos rakto aktyvavimą, apsilankykite oficialioje „NAVITEL“ svetainėje adresu http://navitel.cz.
+
+3.13. ATKREIPIAME DĖMESĮ, kad „NAVITEL“ bendrovė teikia techninę pagalbą tik oficialiai Programinės įrangos produkto versijai ir jos naujinimus, kuriuos išplatino „NAVITEL“ 1 (vienus) metus po įsigijimo datos.
+
+Kitų bendruomenių ir/arba asmenų sukurtų/pakeistų Navigacijos sistemų, Skaitmeninių produktų ir jų naujinimų naudojimas gali pakenkti viso Programinės įrangos produkto ar jo elementų veikimui, taip pat sugadinti Įrangą. Naudotojas tokius pakeitimus naudoja savo rizika ir atsakomybe.
+
+
+4. NAUJINIMAS
+4.1. Norint naudotis programine įranga, kuri pagal NAVITEL patenka į naujinimo kategoriją, reikia turėti Programinės įrangos produkto, kuris patenka į NAVITEL naujinimo pasiūlymą, licenciją. Naujinimai visiškai ar iš dalies pakeičia arba išplečia Programinės įrangos produktą, o tai yra jūsų teisės gauti Naujinimą įrodymas. Diegiant Naujinimą kompiuteryje, jūs turite teisę Naujinimą naudoti tik laikantis visų šios Sutarties sąlygų ir nuostatų arba laikantis licencijos sutarties, pridedamos prie Naujinimo, sąlygų.
+4.2. Po naujinimo diegimo, jūs negalėsite naudotis pradine Programinės įrangos produkto versija, kuriai buvo pritaikytas naujinimas, išskyrus atvejus, kai tai yra programinės įrangos naujinimas.
+4.3. NAVITEL ir jos tiekėjai bei partneriai neprisiima jokios išreikštos ar numanomos atsakomybės sukurti ir platinti Programinės įrangos produkto ar bet kurio jo komponento, įskaitant Skaitmeninį produktą, naujinimą.
+4.4. NAVITEL išsaugo teisę išleisti Programinės įrangos produkto, jo komponentų mokamus ir nemokamus naujinimus.
+
+5. „NEPERPARDUODAMA“ PROGRAMINĖ ĮRANGA
+5.1. Jeigu Programinės įrangos produktas turi užrašą „NEPERPARDUOTI“ arba „NFR“, nepriklausomai nuo kitų šios Sutarties sąlygų ir nuostatų, ši Licencija Naudotojui suteikia teisę naudotis Programinės įrangos produktu tik demonstravimo tikslu, Programinės įrangos produkto patikrinimui ir įvertinimui; bet koks Programinės įrangos produkto pardavimas ar perdavimas draudžiamas.
+
+6. SUTIKIMAS NAUDOTI DUOMENIS
+6.1. Aktyvuodamas Programinės įrangos produktą Naudotojas sutinka, kad NAVITEL kauptų ir naudotų bet kokią techninę informaciją, renkamą kaip palaikymo paslaugų, teikiamų Naudotojui ir susijusių su Programinės įrangos produktų, dalį. NAVITEL gali naudoti šią informaciją norėdama patobulinti savo produktus, rinkodaros ir kitais reklamos tikslais. NAVITEL neatskleis Naudotojo asmeninės informacijos.
+
+7. LICENCIJOS SUTARTIES NUTRAUKIMAS
+7.1. Nepažeisdama jokių savo teisių, NAVITEL gali nutraukti šią Sutartį dėl jos sąlygų ir nuostatų nevykdymo.
+7.2. Jeigu Sutartis yra nutraukiama, Jūs privalote sunaikinti visas Programinės įrangos produkto kopijas, kurias turite (įskaitant bet kuriuos Programinės įrangos produkto komponentus bet kurioje laikmenoje, naujinimus, šią Sutartį ir kitą pridedamą medžiagą).
+
+8. ATSAKOMYBĖ
+8.1. Programinės įrangos produkto ir bet kurio jo elemento naudojimas, platinimas ir dauginimas (kopijavimas) pažeidžiant šios Sutarties sąlygas ir nuostatas, o taip pat pažeidžiant bet kokias išskirtines savininko teises gali užtraukti baudžiamąją atsakomybę.
+8.1.1. Šiai Sutarčiai taikoma Rusijos Federacijos teisė.
+8.2. Jeigu Naudotojas pažeidžia šią Sutartį, Naudotojas praranda teisę naudoti Programinės įrangos produktą, o taip pat ribotą garantiją, nurodytą 9 punkte.
+
+9. RIBOTA GARANTIJA
+9.1. NAVITEL užtikrina Programinės įrangos produkto programų veikimą pagal sąlygas ir nuostatas nustatytas dokumentacijoje, pristatomoje kartu su Programinės įrangos produktu.
+9.2. Programinės įrangos produktas yra pristatomas tokios būklės, kokios yra. NAVITEL neatsako už tai, kad Programinės įrangos produktas neatitinka Naudotojo lūkesčių ir nuomonės, neatitinka analogų ir/arba standartų, neaprašytų specifikacijose ir pridedamoje dokumentacijoje, jame nėra klaidų, o taip pat neatsako už tiesiogines ar netiesiogines Programinės įrangos produkto naudojimo pasekmes, įskaitant tas, kurios įvyksta dėl galimų apsirikimų ar spaudos klaidų ant Programinės įrangos produkto pakuotės.
+9.2.1. ATKREIPKITE DĖMESĮ, kad Skaitmeninio produkto (kaip Programinės įrangos produkto dalies) veikimo laikotarpis gali būti ribotas. Informacija apie Skaitmeninį produktą, kaip Programinės įrangos produkto dalį, o taip pat jo veikimo laikotarpį tampa Jums prieinama iš karto po Programinės įrangos produkto aktyvavimo.
+9.3. NAVITEL negarantuoja Programinės įrangos produkto veikimo kartu su trečiųjų šalių ir organizacijų programine ir technine įranga, ypač su technine įranga, pagaminta vėliau negu pateikta Programinės įrangos produkto versija.
+
+10. PROGRAMINĖS ĮRANGOS PRODUKTO GRĄŽINIMAS
+10.1. Sutikdami su šios Sutarties sąlygomis ir nuostatomis ir aktyvuodamas Programinės įrangos produkto Licencijos raktą, Jūs taip pat sutinkate su „Įsigyto Programinės įrangos produkto grąžinimo sąlygomis“. Norėdami sužinoti daugiau informacijos apie grąžinimą, apsilankykite oficialioje NAVITEL svetainėje adresu http://navitel.cz.
+
+TEISĖS:
+"Навигационная картографическая программа" ("Навител Навигатор"), Навигационная система "Навител Навигатор 3.2.5" (Navigation system "Navitel Navigator 3.2.5"),  "Навигационная система "Навител Навигатор 5.0" (Navigation system "Navitel Navigator 5.0"), а также все последующие версии Навигационной системы - © АО «ЦНТ», 2007-2015, версии с "Навигационная система "Навител Навигатор 3.2" (Navigation system "Navitel Navigator 3.2") по "Навигационная система "Навител Навигатор 9.6" (Navigation system "Navitel Navigator 9.6") включительно
+© NAVITEL s.r.o., 2016
+© CENTRE OF NAVIGATION TECHNOLOGY
+Погода Gismeteo. Данные о погоде предоставлены Gismeteo.ru. ©НПЦ Мэп Мейкер, 1998-2012
+Zlib ©Jean-loup Gailly and Mark Adler. 1995-2005
+FreeType 2 ©David Turner, Robert Wilhelm and Werner Lemberg, 1996-2002, 2006
+Libogg ©Xiph.org Foundation, 2002
+Libspeex ©Jean-Marc Valin/Xiph.org Foundation, 2002-2007
+Libpng ©Glenn Randers-Pehrson, 1998 -2004
+Ogles ©The Android Open Source Project, 2005-2011
+Arian ANU ©Ruben Hakobyan (Tarumyan), 1998-2011
+DirectXTex (с) Microsoft Corporation, 2006-2013
+© Картографическая основа Роскартография
+© ФГУП "Уралаэрогеодезия", 2006-2010г.
+© ФГУП "ПО Инжгеодезия", 2007г.
+© Картографическая основа. РОСРЕЕСТР, 2013г., 2014г.
+© ФГУП "Северо-Кавказское аэрогеодезическое предприятие", 2007г., 2008г., 2011г.
+© ООО "Отрок"
+© ФГУП "Южное АГП", 2007г., 2010г.
+© ООО "Гискарт"
+© ФГУП "Госцентр "Природа", 2007г., 2008г.
+© МУ "Городской информационный центр"
+© ФГУП ВАГП 2008г., 2010г.
+© ФГУП "Балт АГП"
+© Картографическая основа ООО "Карты Сибири"
+© КГЦ ФГУП "Уралаэрогеодезия", 2007г
+© ФГУП "Новгородское АГП"
+© СГГА
+© МП города Омска "Омскархитектура"
+© ФГУП "Средневолжское АГП" 2008г.
+© ООО "ГИС-Проект"
+© ФГУП "ЗапсибАГП", 2007г., 2009г.
+© ФГУП "ЦТМП Центрмаркшейдерия"
+© AND International Publishers NV
+© DATUM LLC
+© GDi GISDATA, www.gisdata.com
+© РУП "БелНИЦзем"
+© Государственный комитет по имуществу Республики Беларусь
+© ГУП "Национальное кадастровое агентство"
+© DataMap Europe Ltd.
+Contains Ordnance Survey data  ©Crown copyright and database right 2013
+Contains Royal Mail data © Royal Mail copyright and database right 2013
+Contains National Statistics data © Crown copyright and database right 2013
+© Business listings data ©Infobel
+© MemNav Ltd., MemNav.com
+© Картографическая основа Guidejet ® MAPS
+© Basarsoft, 2010
+© GEODATA S.A.
+© REGIO
+©Latvijas Geotelpiskās informācijas agentūra / ©Агентство геопространственной информации Латвии
+© Справочная служба 118
+© GEOVISION NC
+© Rock Mars Maps
+© PLANstudio s.r.o.
+© Mapy.cz, s.r.o.
+© MAPA Slovakia Digital
+© Geodetic institute of Slovenia
+© Картографическая основа ГНПП "Картография" (© Картографічна основа ДНВП "Картогафія")
+© carNAVi Corporation
+© Finnish Road Administration/Digiroad
+© Jose Alberto Najero Cruz, powered By BiciMapas ®
+© MULTISPECTRAL
+© TruEarth (R) imagery Copyright TerraMetrics, Inc.
+© (MAPMYINDIA) CE Info Systems (P) Ltd
+© Map of Colombia By Gisco, Todos los derechos reservados, 2016
+© 2016 DDG Technology JSC
+Bezirksregierung Köln, Abt. Geobasis NRW
+©Emapa sp. z o.o
+©Innovation Technology of Tajikistan L.L.C.
+© Technologii de Navigatie SRL
+© ALEKI LTD.
+Ředitelství silnic a dálnic ČR, státní příspěvková organizace
+© Carlos Calle (C) GuiaCalles

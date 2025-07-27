@@ -1,0 +1,166 @@
+Licenčná dohoda k aplikácii Navitel Navigator
+
+Vážený zákazník,
+
+prečítajte si, prosím, nasledujúcu Licenčnú dohodu s koncovým používateľom (verejná ponuka).
+
+LICENČNÁ DOHODA S POUŽÍVATEĽOM NAVIGAČNÉHO SYSTÉMU „NAVITEL NAVIGATOR“
+
+Táto dohoda predstavuje právne záväznú dohodu o použití softvérového produktu – navigačného systému „Navitel Navigator“ (ďalej len „softvérový produkt“), uzavretú medzi Vami (fyzickou alebo právnickou osobou, ďalej len „používateľ“) a uzavretou akciovou spoločnosťou „Center of Navigation Technologies“ (ďalej len „spoločnosť NAVITEL“). Softvérový produkt zahŕňa počítačový softvér – navigačný kartografický program „Navitel Navigator“ (ďalej len „navigačný systém“), digitálnu mapu (ďalej len „digitálny produkt“) a sprievodné materiály, či už v tlačenej alebo elektronickej podobe. Digitálny produkt možno získať: (i) spoločne s navigačným systémom ako neoddeliteľnú súčasť softvérového produktu, alebo (ii) ako samostatnú časť, ktorá funguje spoločne s prv získaným softvérovým produktom.
+
+Táto dohoda sa vzťahuje aj na aktualizácie, doplnky, dodatočné komponenty a súčasti softvérového produktu, ktoré zabezpečujú jeho funkciu. Spoločnosť NAVITEL je vlastníkom všetkých práv k softvérovému produktu, a to za týchto podmienok: výhradné autorské práva ku kartografickým podkladom alebo ich čiastkovým prvkom patria ich vlastníkom v súlade s označením ochrany autorských práv umiestneným na každej kópii softvérového produktu. Úplný zoznam vlastníkov práv je uvedený v článku AUTORSKÉ PRÁVA.
+
+Spoločnosť NAVITEL má výlučné právo na distribúciu softvérového produktu. Softvérový produkt vcelku a všetky jeho prvky samostatne (okrem iných kartografické materiály, databázy, grafické vyobrazenia, obrazové a zvukové nahrávky, textové a ďalšie programy) sú predmetom autorského práva a sú chránené ruským a medzinárodným právom. Inštaláciou, kopírovaním, sťahovaním, realizovaním prístupu a vykonávaním podobných činností pomocou softvérového produktu súhlasíte s podmienkami tejto licenčnej dohody. Táto dohoda s koncovým používateľom nadobúda účinnosť okamihom, keď potvrdíte, že s ňou súhlasíte. Táto dohoda s koncovým používateľom je účinná po celý čas používania softvérového produktu. Ak nesúhlasíte s niektorou z podmienok tejto dohody, softvérový produkt neinštalujte a nepoužívajte.
+
+LICENČNÁ DOHODA S KONCOVÝM POUŽÍVATEĽOM (VEREJNÁ PONUKA)
+
+Tento softvérový produkt (vrátane tlačených materiálov) je na Vás prevedený v súlade s ustanoveniami tejto dohody a NIE JE VÁM PREDÁVANÝ.
+
+1. PREDMET DOHODY
+1.1. Spoločnosť NAVITEL Vám udeľuje jednoduchú nevýhradnú licenciu, t. j. právo používať softvérový produkt výhradne spôsobom a za podmienok, ktoré sú uvedené nižšie (ďalej len „licencia“).
+1.2. Všetky uvedené ustanovenia sa vzťahujú na softvérový produkt ako celok i na všetky jeho prvky samostatne.
+
+2. DUŠEVNÉ VLASTNÍCTVO
+2.1. Práva duševného vlastníctva k softvérovému produktu (okrem iných práva ku všetkým databázam, grafickým vyobrazeniam, fotografiám, videám a zvukovým nahrávkam a ďalším programom, takisto ako k iným predmetom duševného vlastníctva obsiahnutým v softvérovom produkte), k sprievodným materiálom v tlačenej alebo elektronickej podobe a ku všetkým kópiám softvérového produktu sú majetkom spoločnosti NAVITEL a jej partnerov. Všetky vlastnícke a autorské práva k databázam a ďalšiemu obsahu, ku ktorému softvérový produkt umožňuje prístup, patria príslušným vlastníkom vlastníckych a autorských práv k týmto databázam a obsahu a sú chránené právami a inými zákonmi existujúcimi v rámci Ruskej federácie, ako aj zákonmi medzinárodného práva platnými v oblasti duševného vlastníctva. Táto dohoda Vám neudeľuje prístup k obsahu softvérového produktu.
+2.2. Jednoduchá nevýhradná licencia na použitie softvérového produktu na súkromné nekomerčné účely je poskytovaná používateľovi tak, ako je uvedené v tejto dohode, a to za predpokladu, že sú dodržané podmienky stanovené nižšie.
+
+2.3. Spoločnosť NAVITEL neudeľuje žiadne ďalšie práva s výnimkou tých, ktoré sú výslovne uvedené v tejto dohode.
+
+3. PODMIENKY POUŽITIA
+3.1. Softvérový produkt môže byť predávaný ako súčasť počítača alebo môže byť s počítačom dodávaný v rámci balíčka a predinštalovaný na ňom. Ak používateľ dostane počítačový produkt ako súčasť počítača alebo ho v balíčku dodávanom s počítačom, softvérový produkt je licencovaný ako jeden integrovaný produkt dodávaný s počítačom a môže byť používaný iba s počítačom, ktorého balíčka je súčasťou alebo s ktorým bol v rámci balíčka dodaný.
+Práva poskytnuté touto dohodou môže používateľ kedykoľvek previesť na inú osobu, ale iba pod podmienkou súčasného nenávratného predaja a prevodu uvedeného počítača a za predpokladu, že u používateľa nezostanú žiadne súčasti ani kópie softvérového produktu a že príjemca softvérového produktu sa zaviaže dodržiavať ustanovenia tejto dohody.
+3.2. Softvérový produkt môže byť predávaný aj tak, že nie je na počítači vopred nainštalovaný alebo nie je dodaný s počítačom v rámci balíčka. Ak používateľ dostane softvérový produkt oddelene od počítača, je oprávnený previesť práva, ktoré mu boli udelené touto dohodou, súčasti a kópie softvérového produktu na inú osobu, pod podmienkou, že u používateľa nezostanú žiadne súčasti ani kópie softvérového produktu a že príjemca softvérového produktu sa zaviaže dodržiavať ustanovenia tejto dohody.
+3.3. Rozsah licencie. Táto dohoda udeľuje používateľovi právo umiestniť softvérový produkt v podobe strojového kódu formou záznamu do počítačovej pamäte s priamym prístupom (RAM) na účely priameho vykonávania príkazov softvérového produktu v centrálnom procesore počítača. Používateľ nie je oprávnený používať ani uchovávať softvérový produkt na viac ako jednom počítači (či už v inštalovanej alebo odinštalovanej podobe).
+3.4. Použitie digitálneho produktu obsiahnutého v softvérovom produkte je povolené iba prostredníctvom navigačného systému poskytnutého v rámci softvérového produktu, a nie inak. Digitálny produkt získaný ako samostatná časť môže byť spustený iba v rámci jedného softvérového produktu (t. j. „na mieru“ k jedinému unikátnemu licenčnému kľúču softvéru).
+3.5. S cieľom obnoviť stratené alebo poškodené kópie softvérového produktu má používateľ právo požiadať o konzultáciu službu technickej podpory spoločnosti NAVITEL. Používateľ je týmto povinný predložiť doklad o zákonnom používaní kópie softvérového produktu.
+3.6. Dodávka na dvoch typoch dátových nosičov. Ak je softvérový produkt dodávaný na dvoch alebo viacerých typoch dátových nosičov, používateľ má právo používať iba jeden nosič, a to ten, ktorý je preňho vhodnejší. Má sa za to, že všetky dátové nosiče obsiahnuté v jednej kópii softvérového produktu obsahujú rovnakú kópiu softvérového produktu a používateľ ich môže použiť iba na jednom počítači.
+3.7. Používateľ je oprávnený vytvoriť iba 1 (jednu) kópiu softvérového produktu, ktorá slúži výhradne na účely zálohovania.
+3.8. Používateľ sa zaväzuje, že nebude sám vykonávať nasledujúce činnosti, a ani nepripustí, aby ich vykonávala iná fyzická alebo právnická osoba:
+– používať softvérový produkt na účely priameho dosiahnutia zisku;
+– požičiavať, prenajímať alebo dočasne poskytovať softvérový produkt;
+– používať softvérový produkt na poskytovanie sieťových služieb, okrem iných vrátane šírenia na internetových stránkach, a to na komerčnej i nekomerčnej báze;
+– umožniť používanie softvérového produktu osobám, ktoré nemajú práva na používanie tohto softvéru (vrátane osôb, ktoré s Vami pracujú v rovnakej sieti alebo v systéme viacerých používateľov), prevádzať licencie k softvérovému produktu;
+– zverejňovať (vydávať) akékoľvek fragmenty alebo prvky softvérového produktu, okrem iných vrátane poskytovania príležitosti tretím osobám na ich kopírovanie;
+– pokúšať sa obísť alebo prelomiť technické obmedzenia softvérového produktu;
+– priamo vstupovať do dát digitálneho produktu, preskúmavať štruktúru a formát pamäte digitálneho produktu, reštrukturalizovať pamäť digitálneho produktu, pozmeňovať dáta obsiahnuté v softvérovom produkte, pozmeňovať (vykonávať konverziu) a prispôsobovať softvérový produkt, disassemblovať alebo dekompilovať aplikáciu (konverzia strojového kódu do zdrojovej formy), databázy a ďalšie súčasti strojového kódu softvérového produktu;
+– vykonávať zmeny strojového kódu programu alebo databázy s výnimkou tých, ktoré sú urobené pomocou prostriedkov začlenených do balíčka softvérového produktu a opísané v sprievodných materiáloch;
+– prevádzať práva na používanie softvérového produktu na tretie strany s výnimkou prípadov opísaných v bodoch 3.1 a 3.2 tejto dohody pod podmienkou zabezpečenia súladu s požiadavkami uvedenými v spomínaných bodoch;
+– konať v súvislosti so softvérovým produktom v rozpore s právnymi predpismi a inými existujúcimi zákonmi Ruskej federácie alebo zákonmi medzinárodného práva, ktoré platia v oblasti právnej ochrany počítačového softvéru a databáz;
+– používať digitálny produkt s inými softvérovými programami, než je navigačný systém.
+3.9. V prípade, že sa používateľ dopustí niektorého z činov uvedených v bode 3.8, spoločnosť NAVITEL si vyhradzuje právo jednostranne ukončiť túto licenčnú dohodu s koncovým používateľom, a to kedykoľvek a bez akéhokoľvek upozornenia alebo varovania.
+3.10. Používateľ je za softvérový produkt výlučne zodpovedný a znáša všetky riziká spojené s jeho používaním.
+3.11. Aktivácia licenčného kľúča softvérového produktu je legitímny mechanizmus, ktorý potvrdzuje riadne používanie softvérového produktu používateľom.
+3.12. Deaktivácia licenčného kľúča ku kópii softvérového produktu je povolená najviac raz (z akéhokoľvek dôvodu). Ku kópii digitálneho produktu, ktorý bol obstaraný ako samostatná jednotka, žiadna deaktivácia licenčného kľúča neexistuje. Opätovná aktivácia licenčného kľúča je povolená iba na rovnakom modeli zariadenia s rovnakým oficiálnym operačným systémom. Viac informácií o deaktivácii/reaktivácii licenčného kľúča sa dočítate na oficiálnych webových stránkach spoločnosti NAVITEL na adrese http://navitel.cz.
+
+3.13. UPOZORŇUJEME, že spoločnosť NAVITEL poskytuje technickú podporu len na oficiálne verzie softvérového produktu a jeho aktualizácie, ktoré spoločnosť NAVITEL vydáva počas 1 (jedného) roka od nákupu.
+
+Použitie verzií navigačných systémov, digitálnych produktov a ich aktualizácií, ktoré boli vyvinuté alebo upravené inými komunitami alebo jednotlivcami, môže spôsobiť nefunkčnosť softvérového produktu alebo jeho častí a môže spôsobiť poškodenie zariadenia, ktoré vyžaduje opravu. Takéto produkty používa používateľ na vlastné riziko a zodpovednosť.
+
+4. AKTUALIZÁCIA
+4.1. Na použitie softvéru, ktorý podľa spoločnosti NAVITEL patrí do kategórie aktualizácie, je potrebné mať platnú licenciu k softvérovému produktu, na ktorý sa ponuka spoločnosti NAVITEL na aktualizáciu vzťahuje. Aktualizácia úplne alebo čiastočne nahrádza alebo rozširuje softvérový produkt, ktorý je dôkazom Vášho práva na prijatie aktualizácie. Pri inštalácii aktualizácie na počítač máte právo používať aktualizáciu iba v súlade s podmienkami tejto dohody alebo v súlade s podmienkami licenčnej dohody priloženej k aktualizácii.
+4.2. Po inštalácii aktualizácie už nemôžete používať pôvodnú verziu softvérového produktu, ktorý bol aktualizovaný, s výnimkou prípadov, keď je taká možnosť súčasťou aktualizácie softvéru.
+4.3. Spoločnosť NAVITEL ani jej dodávatelia alebo partneri nemajú žiadnu výslovnú ani implicitnú povinnosť vytvárať alebo distribuovať aktualizácie softvérového produktu alebo jeho častí vrátane digitálneho produktu.
+4.4. Spoločnosť NAVITEL si vyhradzuje právo oznamovať bezplatné aj spoplatnené aktualizácie softvérového produktu a jeho zložiek.
+
+5. SOFTVÉR „NIE JE URČENÝ NA ĎALŠÍ PREDAJ“
+5.1. Ak je softvérový produkt označený nápisom „Nie je určený na ďalší predaj“ alebo „NFR“, umožňuje existujúca licencia bez ohľadu na ďalšie podmienky tejto dohody použitie takého softvérového produktu iba na účely predvedenia, vyskúšania alebo posúdenia softvérového produktu a akýkoľvek predaj alebo prevod softvérového produktu za úplatu je týmto zakázaný.
+
+6. SÚHLAS S POUŽITÍM ÚDAJOV
+6.1. Aktiváciou softvérového produktu súhlasí používateľ s tým, že spoločnosť NAVITEL môže zhromažďovať a používať akékoľvek technické informácie vzťahujúce sa na softvérový produkt, ktoré získala v rámci podporných služieb poskytovaných používateľovi. Spoločnosť NAVITEL môže tieto informácie použiť na zdokonalenie svojich produktov a na marketingové alebo iné reklamné účely. Spoločnosť NAVITEL sa zaväzuje nesprístupniť žiadne osobné údaje používateľa.
+
+7. ZRUŠENIE LICENČNEJ DOHODY
+7.1. Bez toho, aby bolo dotknuté ktorékoľvek z jej práv, môže spoločnosť NAVITEL túto dohodu vypovedať v prípade neplnenia podmienok v nej stanovených.
+
+7.2. Ak dôjde k zrušeniu dohody, ste povinní zničiť všetky kópie softvérového produktu, ktoré máte (vrátane všetkých súčastí softvérového produktu na akomkoľvek nosiči, aktualizácií, tejto dohody a ďalších sprievodných materiálov).
+
+8. ZODPOVEDNOSŤ
+8.1. Použitie, distribúcia a reprodukcia (kopírovanie) softvérového produktu a akýchkoľvek jeho prvkov v rozpore s ustanoveniami tejto dohody a v rozpore s výlučnými právami vlastníka práv sa trestajú podľa zákona.
+8.1.1. Rozhodným právom pre túto dohodu je právo Ruskej federácie.
+8.2. Ak by používateľ porušil túto dohodu, stráca právo softvérový produkt používať, takisto ako obmedzenú záruku uvedenú v bode 9 ďalej.
+
+9. OBMEDZENÁ ZÁRUKA
+9.1. Spoločnosť NAVITEL zaručuje funkčnosť programov obsiahnutých v softvérovom produkte podľa podmienok stanovených v dokumentácii dodanej spolu so softvérovým produktom.
+9.2. Zvyšok softvérového produktu je dodávaný „tak, ako je“. Spoločnosť NAVITEL nenesie žiadnu zodpovednosť za prípady, keď softvérový produkt nespĺňa očakávania a nároky používateľa, nezodpovedá ekvivalentom alebo normám, ktoré nie sú opísané v špecifikáciách a v súvisiacej dokumentácii, alebo obsahuje chyby, takisto ako nezodpovedá za priame alebo nepriame dôsledky používania softvérového produktu vrátane tých, ku ktorým došlo v dôsledku možných chýb alebo tlačových chýb na obale softvérového produktu.
+9.2.1. UPOZORŇUJEME, že doba použitie digitálneho produktu (ako súčasti softvérového produktu) môže byť obmedzená. Informácie o digitálnom produkte ako súčasti softvérového produktu a o dobe použitia Vám budú poskytnuté bezprostredne po aktivácii softvérového produktu.
+9.2.2. NAVITEL zaručuje kompatibilitu Softvérového produktu v súlade s popisom uvedeným v užívateľskej príručke a v tejto Zmluve.
+9.2.3. NAVITEL nezaručuje kompatibilitu Softvérového produktu v prípade nedodržania podmienok uvedených v užívateľskej príručke, ako aj v prípade porušenia podmienok uvedených v tejto Zmluve.
+9.3. NAVITEL nezaručuje kvalitu kompatibility Softvérového produktu so softvérom a hardvérom tretích osôb a organizácií, ani so softvérom a hardvérom užívateľov  jednotlivcov, v prípade, že pri nákupe Užívateľom není integrovaným produktom počítačového softvéru, najmä so zariadením a vybavením, ktoré je novšie ako aktuálna verzia daného Softvérového produktu.
+Užívateľ súhlasí s podmienkami tejto Zmluvy a berie na vedomie, že v prípade nekompatibility verzie Softvérového produktu s nastavením hardvéru/zariadenia nenesie zodpovednosť spoločnosť "NAVITEL".
+
+10. VRÁTENIE SOFTVÉROVÉHO PRODUKTU
+10.1. Prijatím podmienok tejto dohody a aktiváciou licenčného kľúča softvérového produktu súhlasíte aj s „Podmienkami vrátenia zakúpeného softvérového produktu“. Viac informácií o vrátení sa dozviete na oficiálnych stránkach spoločnosti NAVITEL na adrese http://navitel.cz.
+
+COPYRIGHT:
+"Навигационная картографическая программа" ("Навител Навигатор"), Навигационная система "Навител Навигатор 3.2.5" (Navigation system "Navitel Navigator 3.2.5"),  "Навигационная система "Навител Навигатор 5.0" (Navigation system "Navitel Navigator 5.0"), а также все последующие версии Навигационной системы - © АО «ЦНТ», 2007-2015, версии с "Навигационная система "Навител Навигатор 3.2" (Navigation system "Navitel Navigator 3.2") по "Навигационная система "Навител Навигатор 9.6" (Navigation system "Navitel Navigator 9.6") включительно
+© NAVITEL s.r.o., 2016
+© CENTRE OF NAVIGATION TECHNOLOGY
+Погода Gismeteo. Данные о погоде предоставлены Gismeteo.ru. ©НПЦ Мэп Мейкер, 1998-2012
+Zlib ©Jean-loup Gailly and Mark Adler. 1995-2005
+FreeType 2 ©David Turner, Robert Wilhelm and Werner Lemberg, 1996-2002, 2006
+Libogg ©Xiph.org Foundation, 2002
+Libspeex ©Jean-Marc Valin/Xiph.org Foundation, 2002-2007
+Libpng ©Glenn Randers-Pehrson, 1998 -2004
+Ogles ©The Android Open Source Project, 2005-2011
+Arian ANU ©Ruben Hakobyan (Tarumyan), 1998-2011
+DirectXTex (с) Microsoft Corporation, 2006-2013
+© Картографическая основа Роскартография
+© ФГУП "Уралаэрогеодезия", 2006-2010г.
+© ФГУП "ПО Инжгеодезия", 2007г.
+© Картографическая основа. РОСРЕЕСТР, 2013г., 2014г.
+© ФГУП "Северо-Кавказское аэрогеодезическое предприятие", 2007г., 2008г., 2011г.
+© ООО "Отрок"
+© ФГУП "Южное АГП", 2007г., 2010г.
+© ООО "Гискарт"
+© ФГУП "Госцентр "Природа", 2007г., 2008г.
+© МУ "Городской информационный центр"
+© ФГУП ВАГП 2008г., 2010г.
+© ФГУП "Балт АГП"
+© Картографическая основа ООО "Карты Сибири"
+© КГЦ ФГУП "Уралаэрогеодезия", 2007г
+© ФГУП "Новгородское АГП"
+© СГГА
+© МП города Омска "Омскархитектура"
+© ФГУП "Средневолжское АГП" 2008г.
+© ООО "ГИС-Проект"
+© ФГУП "ЗапсибАГП", 2007г., 2009г.
+© ФГУП "ЦТМП Центрмаркшейдерия"
+© AND International Publishers NV
+© DATUM LLC
+© GDi GISDATA, www.gisdata.com
+© РУП "БелНИЦзем"
+© Государственный комитет по имуществу Республики Беларусь
+© ГУП "Национальное кадастровое агентство"
+© DataMap Europe Ltd.
+Contains Ordnance Survey data  ©Crown copyright and database right 2013
+Contains Royal Mail data © Royal Mail copyright and database right 2013
+Contains National Statistics data © Crown copyright and database right 2013
+© Business listings data ©Infobel
+© MemNav Ltd., MemNav.com
+© Картографическая основа Guidejet ® MAPS
+© Basarsoft, 2010
+© GEODATA S.A.
+© REGIO
+©Latvijas Geotelpiskās informācijas agentūra / ©Агентство геопространственной информации Латвии
+© Справочная служба 118
+© GEOVISION NC
+© Rock Mars Maps
+© PLANstudio s.r.o.
+© Mapy.cz, s.r.o.
+© MAPA Slovakia Digital
+© Geodetic institute of Slovenia
+© Картографическая основа ГНПП "Картография" (© Картографічна основа ДНВП "Картогафія")
+© carNAVi Corporation
+© Finnish Road Administration/Digiroad
+© Jose Alberto Najero Cruz, powered By BiciMapas ®
+© MULTISPECTRAL
+© TruEarth (R) imagery Copyright TerraMetrics, Inc.
+© (MAPMYINDIA) CE Info Systems (P) Ltd
+© Map of Colombia By Gisco, Todos los derechos reservados, 2016
+© 2016 DDG Technology JSC
+Bezirksregierung Köln, Abt. Geobasis NRW
+©Emapa sp. z o.o
+©Innovation Technology of Tajikistan L.L.C.
+© Technologii de Navigatie SRL
+© ALEKI LTD.
+Ředitelství silnic a dálnic ČR, státní příspěvková organizace
+© Carlos Calle (C) GuiaCalles

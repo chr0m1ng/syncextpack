@@ -1,0 +1,160 @@
+﻿Lizenzvereinbarung zur Anwendung Navitel Navigator
+Sehr geehrte Kunden,
+
+lesen Sie sich bitte die nachfolgende Lizenzvereinbarung mit dem Endverbraucher (öffentliches Angebot) durch.
+
+LIZENZVEREINBARUNG MIT DEM NUTZER DES NAVIGATIONSSYSTEMS „NAVITEL NAVIGATOR“
+
+Diese Vereinbarung stellt eine rechtlich verbindliche Vereinbarung über die Nutzung eines Softwareprodukts – des Navigationssystems „Navitel Navigator“ (nachfolgend nur „Softwareprodukt“), abgeschlossen zwischen Ihnen (einer natürlichen oder juristischen Person, nachfolgend nur „Nutzer“) und der Aktiengesellschaft „Center of Navigation Technologies“ (nachfolgend nur „Gesellschaft NAVITEL“) dar. Das Softwareprodukt beinhaltet eine Computersoftware – das kartografische Navigationsprogramm „Navitel Navigator“ (nachfolgend nur „Navigationssystem“), eine digitale Karte (nachfolgend nur „digitales Produkt“) und begleitende Materialien, die entweder eine gedruckte oder elektronische Form haben. Das digitale Produkt kann erworben werden: (i) gemeinsam mit dem Navigationssystem als untrennbarer Bestandteil des Softwareprodukts, oder (ii) als eigenständige Einheit für den Betrieb gemeinsam mit einem schon früher erworbenen Softwareprodukt.
+
+Diese Vereinbarung bezieht sich auch auf Aktualisierungen, Ergänzungen und nachträgliche Komponenten des Softwareprodukts, und ebenfalls auf Bestandteile des Softwareprodukts, die seine Funktion absichern. Die Gesellschaft NAVITEL ist Eigentümer aller Rechte zu dem Softwareprodukt, und zwar unter diesen Bedingungen: exklusive Urheberrechte auf kartografische Unterlagen oder deren Teilelemente sind Eigentum von deren Eigentümern in Übereinstimmung mit den Schutzmarken der Urheberrechte, die sich auf jeder Kopie des Softwareprodukts befinden. Eine vollständige Aufstellung der Eigentümer der Rechte ist im Artikel URHEBERRECHTE aufgeführt.
+
+Die Gesellschaft NAVITEL hat das exklusive Vertriebsrecht zum Softwareprodukt. Das Softwareprodukt bildet eine Einheit und alle dessen Elemente (unter anderem kartografische Materialien, Datenbanken, grafische Darstellungen, Bild- und Tonaufzeichnungen, Text- und andere Programme) sind eigenständige Gegenstände des Urheberrechts und sind durch das russische und internationale Recht geschützt. Mit der Installation, dem Kopieren, dem Herunterladen, der Realisierung eines Zugangs und der Durchführung von ähnlichen Tätigkeiten mit Hilfe des Softwareprodukts stimmen Sie den Bedingungen dieser Lizenzvereinbarung zu. Diese Vereinbarung mit dem Endverbraucher tritt in dem Moment in Kraft, wenn Sie ihre Zustimmung damit bestätigen. Diese Vereinbarung mit dem Endverbraucher ist während des gesamten Zeitraums des Betriebs des Softwareprodukts wirksam. Installieren Sie das Softwareprodukt nicht und verwenden Sie es nicht, wenn Sie nicht einer der Bedingungen dieser Vereinbarung zustimmen.
+
+LIZENZVEREINBARUNG MIT DEM ENDVERBRAUCHER (ÖFFENTLICHES ANGEBOT)
+
+Dieses Softwareprodukt (einschließlich gedruckter Materialien) wird auf Sie in Übereinstimmung mit den Bedingungen dieser Vereinbarung übertragen und WIRD IHNEN NICHT VERKAUFT.
+
+1. GEGENSTAND DER VEREINBARUNG
+1.1. Die Gesellschaft NAVITEL erteilt Ihnen eine einfache, nicht exklusive Lizenz, d. h. das Recht, das Softwareprodukt ausschließlich in der unten aufgeführten Weise und zu den unten aufgeführten Bedingungen zu nutzen (nachfolgend nur „Lizenz“).
+1.2. Alle unten aufgeführten Bedingungen beziehen sich zu dem Softwareprodukt als Ganzes sowie auf alle seine Elemente eigenständig.
+
+2. GEISTIGES EIGENTUM
+2.1. Die Rechte des geistigen Eigentums zu dem Softwareprodukt (unter anderem Rechte zu allen Datenbanken, grafischen Abbildungen, Fotos, Videos und Tonaufzeichnungen und weiteren Programmen sowie zu anderen Gegenständen des geistigen Eigentums, die im Softwareprodukt enthalten sind), Begleitmaterialien in gedruckter oder elektronischer Form und jegliche Kopien des Softwareprodukts sind Eigentum der Gesellschaft NAVITEL und von deren Partnern. Sämtliche Eigentums- und Urheberrechte zu Datenbanken und dem weiteren Inhalt, zu dem das Softwareprodukt einen Zugang ermöglicht, sind in Besitz der Eigentümer der Eigentums- und Urheberrechte zu diesen Datenbanken und dem Inhalt und sind durch Rechte und andere Gesetze, die im Rahmen der Russischen Föderation bestehen, sowie durch Gesetze des internationalen Rechts, die im Bereich des geistigen Eigentums angewandt werden, geschützt. Diese Vereinbarung erteilt Ihnen keinen Zugang zum Inhalt des Softwareprodukts.
+2.2. Die einfache, nicht exklusive Lizenz für die Nutzung des Softwareprodukts für private, nicht gewerbliche Zwecke wird dem Nutzer so gewährt, wie es nach dieser Vereinbarung aufgeführt ist, und zwar unter der Voraussetzung, dass die unten festgelegten Bedingungen erfüllt sind.
+2.3. Die Gesellschaft NAVITEL erteilt keine weiteren Rechte mit Ausnahme derer, die ausdrücklich in dieser Vereinbarung festgelegt sind.
+
+3. NUTZUNGSBEDINGUNGEN
+3.1. Das Softwareprodukt kann als Bestandteil eines Rechners verkauft werden oder kann mit einem Rechner im Rahmen eines Pakets verkauft und auf ihm installiert sein. Wenn der Nutzer das Softwareprodukt als Bestandteil eines Rechners erhält oder es im Rahmen eines Pakets mit einem Rechner geliefert bekommt, ist das Softwareprodukt als ein einziges integriertes, mit dem Rechner geliefertes Produkt lizenziert und kann nur mit dem Rechner verwendet werden, dessen Pakets es Bestandteil ist oder mit dem es im Rahmen eines Pakets geliefert wurde.
+Die durch diese Vereinbarung gewährten Rechte kann der Nutzer jederzeit auf eine andere Person übertragen, aber nur im Fall eines gleichzeitigen nicht rückgängig machbaren Verkaufs und der Übertragung des Rechners und unter der Voraussetzung, dass beim Nutzer kein Bestandteil und auch keine Kopie des Softwareprodukts verbleibt und dass sich der Empfänger des Softwareprodukts verpflichtet, die Bedingungen dieser Vereinbarung einzuhalten.
+3.2. Das Softwareprodukt kann auch so verkauft werden, dass es nicht im Voraus auf einem Rechner installiert ist oder es nicht mit einem Rechner im Rahmen eines Pakets geliefert wird. Wenn der Nutzer das Softwareprodukt getrennt von einem Rechner erhält, ist er berechtigt, die Rechte, die ihm durch diese Vereinbarung erteilt wurden, Bestandteile und die Kopie des Softwareprodukts auf eine andere Person zu übertragen, aber nur unter der Voraussetzung, dass beim Nutzer kein Bestandteil und auch keine Kopie des Softwareprodukts verbleibt und dass sich der Empfänger des Softwareprodukts verpflichtet, die Bedingungen dieser Vereinbarung einzuhalten.
+3.3. Umfang der Lizenz. Diese Vereinbarung erteilt dem Nutzer das Recht, das Softwareprodukt in Form des Programmcodes als Aufzeichnung in den Rechnerspeicher mit direktem Zugriff (RAM) zum Zweck der direkten Ausführung der Anweisungen des Softwareprodukts im Zentralprozessor des Rechners zu reproduzieren. Der Nutzer ist nicht berechtigt, das Softwareprodukt auf mehr als einem Rechner zu verwenden oder zu speichern (egal ob installiert oder deinstalliert).
+3.4. Die Verwendung des in dem Softwareprodukt beinhalteten digitalen Produkts ist nur unter Verwendung eines Navigationssystems, das im Rahmen des Softwareprodukts gewährt wurde, und nicht anderweitig erlaubt. Ein digitales Produkt, das als eigenständige Einheit erworben wurde, darf nur im Rahmen eines Softwareprodukts gestartet werden (d. h. „auf Maß“ zu einem einzigen einzigartigen Lizenzschlüssel der Software).
+3.5. Zum Zweck der Erneuerung einer verlorenen oder beschädigten Kopie des Softwareprodukts hat der Nutzer das Recht, eine Konsultation der technischen Unterstützung der Gesellschaft NAVITEL zu fordern. Der Nutzer ist dabei verpflichtet, einen Beleg über die rechtmäßige Nutzung der Kopie des Softwareprodukts vorzulegen.
+3.6. Lieferung auf zwei Datenträgertypen. Im dem Fall, dass das Softwareprodukt auf zwei oder mehreren Typen von Datenträgern geliefert wird, hat der Nutzer das Recht, nur einen Träger zu verwenden, und zwar den, der für ihn im Rahmen des Pakets am besten geeignet ist. Es wird angenommen, dass alle in einer Kopie des Softwareprodukts enthaltenen Datenträger die gleiche Kopie des Softwareprodukts beinhalten und dass der Nutzer sie nur auf einem Rechner verwenden kann.
+3.7. Der Nutzer ist berechtigt, nur 1 (eine) Kopie des Softwareprodukts anzufertigen, die ausschließlich für Sicherungszwecke verwendet wird.
+3.8. Der Nutzer verpflichtet sich, dass er selbst keine der nachfolgenden Tätigkeiten durchführen wird, und es auch nicht zulässt, dass eine andere natürliche oder juristische Person sie durchführt:
+- die Verwendung des Softwareprodukts zum Zweck der Gewinnerzielung;
+- der Verleih, die Vermietung oder Gewährleistung des Softwareprodukts für eine vorübergehende Nutzung;
+- die Verwendung des Softwareprodukts für die Gewährleistung von Netzwerkdiensten, einschließlich, unter anderem, der Sendung auf Internetseiten, auf kommerzieller sowie nicht kommerzieller Basis;
+- die Schaffung von günstigen Bedingungen für die Verwendung des Softwareprodukts durch Personen, die zur Verwendung der entsprechenden Software keine Rechte haben (einschließlich der Personen, die mit Ihnen im gleichen Netzwerk oder in einem System mit mehreren Nutzern arbeiten), die Übertragung der Lizenz des Softwareprodukts;
+- das Inverkehrbringen (die Veröffentlichung) von jedweden Fragmenten oder Elementen des Softwareprodukts, einschließlich, unter anderem, der Gewährung von Gelegenheiten für dritte Personen zu deren Kopieren;
+- der Versuch, die technischen Beschränkungen des Softwareprodukts zu umgehen;
+- der direkte Zugang zu den Daten des digitalen Produkts, die Erforschung der Struktur und des Formats des Speichers des digitalen Produkts, die Restrukturierung des Speichers des digitalen Produkts, die Veränderung von Daten, die im Softwareprodukt eingebunden sind, die Veränderung (Konversion) und Anpassung des Softwareprodukts, die Analyse, die Dekompilation (Konversion des Programmcodes in den ursprünglichen Text) des Programms, der Datenbanken und der weiteren Bestandteile des Programmcodes des Softwareprodukts;
+- die Durchführung von Änderungen im Programmcode des Programms oder den Datenbanken mit Ausnahme derer, die mit Hilfe von Mitteln durchgeführt werden, die im Paket des Softwareprodukts eingeschlossen und in den Begleitmaterialien beschrieben sind;
+- die Übertragung von Rechten zur Nutzung des Softwareprodukts auf eine dritte Partei mit Ausnahme der Fälle, die in den Punkten 3.1 und 3.2 dieser Vereinbarung beschrieben sind, unter Absicherung der Übereinstimmung mit den in den oben aufgeführten Punkten dargelegten Anforderungen;
+- Handlungen bezüglich des Softwareprodukts im Widerspruch zu den Rechtsvorschriften und anderen bestehenden Gesetzen der Russischen Föderation sowie den Gesetzen des internationalen Rechts, die im Bereich des Rechtsschutzes von Computersoftware und Datenbanken implementiert sind;
+- die Verwendung des digitalen Produkts mit anderen Softwareprogrammen als dem Navigationssystem.
+3.9. Im dem Fall, dass der Nutzer eine der im Punkt 3.8 aufgeführten Handlungen begeht, behält sich die Gesellschaft NAVITEL das Recht vor, diese Lizenzvereinbarung mit dem Endverbraucher einseitig zu beenden, und zwar jederzeit und ohne jeglichen Hinweis sowie Warnung.
+3.10. Der Nutzer ist für das Softwareprodukt ausdrücklich verantwortlich und trägt sämtliche Risiken, die mit dessen Nutzung verbunden sind.
+3.11. Die Aktivierung des Lizenzschlüssels des Softwareprodukts ist ein legitimer Mechanismus, der die richtige Nutzung des Softwareprodukts durch den Nutzer bestätigt.
+3.12. Die Deaktivierung des Lizenzschlüssels zur Kopie des Softwareprodukts ist höchstens einmal erlaubt (egal aus welchem Grund). Zu einer Kopie eines digitalen Produkts, das als eigenständige Einheit erworben wurde, gibt es keine Deaktivierung des Lizenzschlüssels. Eine wiederholte Aktivierung des Lizenzschlüssels ist nur auf einem Gerät des gleichen Modells mit dem gleichen offiziellen Betriebssystem erlaubt. Weitere Informationen über die Deaktivierung/Reaktivierung des Lizenzschlüssels lesen Sie auf den offiziellen Internetseiten der Gesellschaft NAVITEL unter der Adresse http://navitel.cz.
+
+3.13. WIR WEISEN DARAUF HIN, dass die Gesellschaft NAVITEL nur für die offizielle Version des Softwareprodukts und dessen Aktualisierungen, welche die Gesellschaft NAVITEL während 1 (eines) Jahres ab dem Kauf herausgibt, eine technische Unterstützung gewährt.
+
+Die Verwendung von Versionen von Navigationssystemen, digitalen Produkten und deren Aktualisierungen, die durch andere Gruppierungen sowie Einzelne entwickelt oder angepasst wurden, kann eine Nichtfunktionsfähigkeit des Softwareprodukts sowie dessen Teile verursachen und kann zu einer Beschädigung des Gerät führen, die eine Reparatur erfordert. Solche Produkte verwendet der Nutzer auf eigenes Risiko und Verantwortung.
+
+4. AKTUALISIERUNG
+4.1. Für die Verwendung einer Software, die nach der Gesellschaft NAVITEL in die Kategorie einer Aktualisierung fällt, muss eine Lizenz zu einem Softwareprodukt vorhanden sein, das in das Angebot der Gesellschaft NAVITEL für eine Aktualisierung fällt. Eine Aktualisierung ersetzt vollständig oder teilweise ein Softwareprodukt oder erweitert es, das Nachweis Ihres Rechts auf Empfang einer Aktualisierung ist. Bei der Installation einer Aktualisierung auf dem Rechner haben Sie das Recht, die Aktualisierung nur in Übereinstimmung mit den Bedingungen dieser Vereinbarung zu nutzen, oder in Übereinstimmung mit den Bedingungen der Lizenzvereinbarung, welche die Aktualisierung begleitet.
+4.2. Nach der Installation der Aktualisierung können Sie schon nicht mehr die ursprüngliche Version des Softwareprodukts verwenden, in das die Aktualisierung implementiert wurde, mit Ausnahme der Fälle, wo eine solche Möglichkeit Bestandteil der Aktualisierung der Software ist.
+4.3. Die Gesellschaft NAVITEL und auch deren Lieferanten sowie Partner haben keine ausdrückliche und auch keine implizite Verpflichtung, eine Aktualisierung des Softwareprodukts sowie dessen Bestandteile, einschließlich des digitalen Produkts, zu erstellen oder zu vertreiben.
+4.4. Die Gesellschaft NAVITEL behält sich das Recht vor, eine Aktualisierung des Softwareprodukts und dessen Bestandteile, sei es kostenlos oder kostenpflichtig, bekannt zu geben.
+
+5. DIE SOFTWARE IST „NICHT ZUM WEITEREN VERKAUF BESTIMMT“
+5.1. Wenn das Softwareprodukt die Aufschrift „Nicht zum weiteren Verkauf bestimmt“ oder „NFR“ trägt, ermöglicht die bestehende Lizenz ohne Rücksicht auf die weiteren Bedingungen dieser Vereinbarung eine Nutzung eines solchen Softwareprodukts nur für die Zwecke der Vorführung, des Tests oder der Begutachtung des Softwareprodukts, und jedweder entgeltlicher Verkauf oder die entgeltliche Übertragung des Softwareprodukts sind damit verboten.
+
+6. ZUSTIMMUNG ZUR VERWENDUNG VON ANGABEN
+6.1. Durch die Aktivierung des Softwareprodukts stimmt der Nutzer zu, dass die Gesellschaft NAVITEL jegliche technische Informationen sammeln und verwenden kann, die sich zum Softwareprodukt beziehen, die sie im Rahmen von unterstützenden, dem Nutzer gewährten Dienstleistungen erlangte. Die Gesellschaft NAVITEL kann diese Informationen zur Verbesserung ihrer Produkte und für Marketingzwecke oder andere Werbezwecke verwenden. Die Gesellschaft NAVITEL macht keine persönlichen Angaben eines Nutzers öffentlich.
+
+7. AUFHEBUNG DER LIZENZVEREINBARUNG
+7.1. Ungeachtet ihrer Rechte kann die Gesellschaft NAVITEL diese Vereinbarung bei einer Nichterfüllung der darin festgelegten Bedingungen kündigen.
+7.2. Wenn es zu einer Aufhebung der Vereinbarung kommt, sind Sie verpflichtet, alle Kopien des Softwareprodukts, die Sie besitzen (einschließlich aller Bestandteile des Softwareprodukts auf jedwedem Datenträger, Aktualisierungen, dieser Vereinbarung und weiterer Begleitmaterialien) zu vernichten.
+
+8. HAFTUNG
+8.1. Die Verwendung, der Vertrieb und die Reproduktion (Kopieren) des Softwareprodukts und dessen Teile im Widerspruch zu den Bedingungen dieser Vereinbarung und in Widerspruch zu den ausdrücklichen Rechten des Rechtsinhabers werden nach dem Gesetz bestraft.
+8.1.1. Anwendbares Recht für diese Vereinbarung ist das Recht der Russischen Föderation.
+8.2. Sollte ein Nutzer diese Vereinbarung verletzen, verliert er das Recht, das Softwareprodukt zu verwenden, sowie die im Punkt 9 unten aufgeführte eingeschränkte Garantie.
+
+9. EINGESCHRÄNKTE GARANTIE
+9.1. Die Gesellschaft NAVITEL garantiert die Funktionsfähigkeit der Programme, die im Softwareprodukt enthalten sind, nach den in der gemeinsam mit dem Softwareprodukt gelieferten Dokumentation aufgeführten Bedingungen.
+9.2. Der Rest des Softwareprodukts wird „wie es steht und liegt“ geliefert. Die Gesellschaft NAVITEL trägt keine Verantwortung für Fälle, wo das Softwareprodukt nicht die Erwartungen des Nutzers erfüllt oder es nicht seiner Anschauung entspricht, nicht in den Spezifikationen und in der damit zusammenhängenden Dokumentation nicht beschriebene Vergleiche oder Standards erfüllt, oder Fehler enthält, ebenfalls haftet sie nicht für direkte oder indirekte Folgen der Verwendung des Softwareprodukts, einschließlich derer, zu denen es in Folge möglicher Fehler oder Druckfehler auf der Verpackung des Softwareprodukts kam.
+9.2.1. WIR WEISEN DARAUF HIN, dass der Zeitraum des Betriebs des digitalen Produkts (als Bestandteil des Softwareprodukts) eingeschränkt sein kann. Informationen über das digitale Produkt als Bestandteil des Softwareprodukts sowie über dessen Betriebszeit werden Ihnen unmittelbar nach der Aktivierung des Softwareprodukts zugänglich gemacht.
+9.3. Die Gesellschaft NAVITEL garantiert nicht die Funktionsfähigkeit des Softwareprodukts in Verbindung mit Software und Hardware dritter Personen und Organisationen, insbesondere mit Hardware, die später als die Version des jeweiligen Softwareprodukts hergestellt wurde.
+
+10. RÜCKGABE DES SOFTWAREPRODUKTS
+10.1. Mit der Annahme der Bedingungen dieser Vereinbarung und der Aktivierung des Lizenzschlüssels des Softwareprodukts stimmen Sie auch den „Rückgabebedingungen eines gekauften Softwareprodukts“ zu. Mehr Informationen über eine Rückgabe erfahren Sie auf den offiziellen Seiten der Gesellschaft NAVITEL unter der Adresse http://navitel.cz.
+
+URHEBERRECHTE:
+"Навигационная картографическая программа" ("Навител Навигатор"), Навигационная система "Навител Навигатор 3.2.5" (Navigation system "Navitel Navigator 3.2.5"),  "Навигационная система "Навител Навигатор 5.0" (Navigation system "Navitel Navigator 5.0"), а также все последующие версии Навигационной системы - © АО «ЦНТ», 2007-2015, версии с "Навигационная система "Навител Навигатор 3.2" (Navigation system "Navitel Navigator 3.2") по "Навигационная система "Навител Навигатор 9.6" (Navigation system "Navitel Navigator 9.6") включительно
+© NAVITEL s.r.o., 2016
+© CENTRE OF NAVIGATION TECHNOLOGY
+Погода Gismeteo. Данные о погоде предоставлены Gismeteo.ru. ©НПЦ Мэп Мейкер, 1998-2012
+Zlib ©Jean-loup Gailly and Mark Adler. 1995-2005
+FreeType 2 ©David Turner, Robert Wilhelm and Werner Lemberg, 1996-2002, 2006
+Libogg ©Xiph.org Foundation, 2002
+Libspeex ©Jean-Marc Valin/Xiph.org Foundation, 2002-2007
+Libpng ©Glenn Randers-Pehrson, 1998 -2004
+Ogles ©The Android Open Source Project, 2005-2011
+Arian ANU ©Ruben Hakobyan (Tarumyan), 1998-2011
+DirectXTex (с) Microsoft Corporation, 2006-2013
+© Картографическая основа Роскартография
+© ФГУП "Уралаэрогеодезия", 2006-2010г.
+© ФГУП "ПО Инжгеодезия", 2007г.
+© Картографическая основа. РОСРЕЕСТР, 2013г., 2014г.
+© ФГУП "Северо-Кавказское аэрогеодезическое предприятие", 2007г., 2008г., 2011г.
+© ООО "Отрок"
+© ФГУП "Южное АГП", 2007г., 2010г.
+© ООО "Гискарт"
+© ФГУП "Госцентр "Природа", 2007г., 2008г.
+© МУ "Городской информационный центр"
+© ФГУП ВАГП 2008г., 2010г.
+© ФГУП "Балт АГП"
+© Картографическая основа ООО "Карты Сибири"
+© КГЦ ФГУП "Уралаэрогеодезия", 2007г
+© ФГУП "Новгородское АГП"
+© СГГА
+© МП города Омска "Омскархитектура"
+© ФГУП "Средневолжское АГП" 2008г.
+© ООО "ГИС-Проект"
+© ФГУП "ЗапсибАГП", 2007г., 2009г.
+© ФГУП "ЦТМП Центрмаркшейдерия"
+© AND International Publishers NV
+© DATUM LLC
+© GDi GISDATA, www.gisdata.com
+© РУП "БелНИЦзем"
+© Государственный комитет по имуществу Республики Беларусь
+© ГУП "Национальное кадастровое агентство"
+© DataMap Europe Ltd.
+Contains Ordnance Survey data  ©Crown copyright and database right 2013
+Contains Royal Mail data © Royal Mail copyright and database right 2013
+Contains National Statistics data © Crown copyright and database right 2013
+© Business listings data ©Infobel
+© MemNav Ltd., MemNav.com
+© Картографическая основа Guidejet ® MAPS
+© Basarsoft, 2010
+© GEODATA S.A.
+© REGIO
+©Latvijas Geotelpiskās informācijas agentūra / ©Агентство геопространственной информации Латвии
+© Справочная служба 118
+© GEOVISION NC
+© Rock Mars Maps
+© PLANstudio s.r.o.
+© Mapy.cz, s.r.o.
+© MAPA Slovakia Digital
+© Geodetic institute of Slovenia
+© Картографическая основа ГНПП "Картография" (© Картографічна основа ДНВП "Картогафія")
+© carNAVi Corporation
+© Finnish Road Administration/Digiroad
+© Jose Alberto Najero Cruz, powered By BiciMapas ®
+© MULTISPECTRAL
+© TruEarth (R) imagery Copyright TerraMetrics, Inc.
+© (MAPMYINDIA) CE Info Systems (P) Ltd
+© Map of Colombia By Gisco, Todos los derechos reservados, 2016
+© 2016 DDG Technology JSC
+Bezirksregierung Köln, Abt. Geobasis NRW
+©Emapa sp. z o.o
+©Innovation Technology of Tajikistan L.L.C.
+© Technologii de Navigatie SRL
+© ALEKI LTD.
+Ředitelství silnic a dálnic ČR, státní příspěvková organizace
+© Carlos Calle (C) GuiaCalles

@@ -1,0 +1,165 @@
+Litsentsileping Navitel Navigator rakendamisel
+
+Lugupeetud klient,
+
+lugege palun läbi käesoleva Loppkasutaja Litsentsilepingu (avalik pakkumine).
+
+LITSENSILEPING NAVIGATSIOONISÜSTEEMI KASUTAJAGA „NAVITEL NAVIGATOR“
+
+Käesolev leping kujutab endast oiguslikult siduvat kokkuleppet tarkvaratoote kasutamise kohta –„Navitel Navigator“ (edaspidi „tarkvaratoode“) navigatsioonisüsteemi, solmitud Teie vahel (füüsiline voi juriidiline isik, edaspidi „tarbija“) ning solmitud aktsiaseltsi „Center of Navigation Technologies“ („edaspidi NAVITEL“) vahel. Tarkaratoode sisaldab arvutitarkvara - kartograafilise navigatsiooni programmi „Navitel Navigator“ (edaspidi „navigatsioonisüsteem“), digitaalset kaarti (edaspidi digitaalne toode) ja lisamaterjale, mis on kas trükitud voi elektroonilises vormis. Digitaalset toodet on voimalik saada: (i) koos navigatsioonisüsteemiga kui tarkvara toote lahutamatut osa, voi (ii) kui iseseisvat tööühikut koos eelnevat saadud tarkvara tootega.
+
+Käesoleva leping on kohaldatav ka uueduste, täienduste ja tarkvara toodete lisa komponentide korral, ning samuti tarkvara toodete osade korral, mis tagavad selle funktsionaalsuse. Firma NAVITEL omab tarkvaratoodete koiki oigusi ja seda järgmistel tingimustel: ainuoiguslikud autori oigused kartograafilistele dokumentidele voi nende koostiselemendile mis kuuluvad nende omanikele vastavalt autorioiguste kaitse märgistusega, mis paiknevad iga tarkvaratoote koopial. Kogu omanikuoiguste nimekri on ära toodud peatükis AUTORI OIGUSED.
+
+Firma NAVITEL omab ainuoigust oma tarkvara levitamiseks.
+Tarkvaratoode moodustab terviku ning koik selle osad (sealjuures kartograafilised materjalid, andmebaasid, graafilised kujutused, video ja audio salvestused, tekstid ja muud programmid) mis on autorioiguse eraldiseisvad objektid ning on kaitstud Vene ja rahvusvahelise oigusega. Installeerimisel, kopeerimisel, allalaadimisel, juurdepääsu realiseerimisel ning sarnaste tegevuste korraldamisel tarkvaratoote abil noustute käesoleva litsentsi lepinguga. See loppkasutajaga leping joustub kohe, kui kinnitate, et sellega noustute. Käesolev loppkasutajaga leping on kehtiv kogu tarkvaratoote tööaja jooksul. Kui Te ei noustu mone käesolevas lepingus äratoodud tingimusega, ärge tarvaratoodet installeerige ega kasutage.
+
+LITSENTSILEPING LOPPKASUTAJAGA (AVALIK PAKKUMINE)
+
+Käesolev tarkvaratoode (kaasaarvatud trükitud materjalid) on Teile ülekantud kooskolas käesoleva kokkuleppe tingimustega ja MIS POLE TEILE MÜÜDUD.
+
+1. LEPINGU OBJEKT
+1.1. Firma NAVITEL annab Teile lihtsa mitte ainuoigusliku litsentsi, st. oiguse kasutada tarkvara toodet ainult allpool äratoodud viisil ja allpool äratoodud tingimustel (edaspidi ainult „litsents“).
+1.2. Koik allpool määratud tingimused kehtivad tarkvara tootega kui tervikuga ning iga selle üksikosaga eraldi.
+
+2. INTELLEKTUAALOMAND
+2.1. Tarkvaratoote intellektuaalomandi oigused (muuhulgas oigus koikidele andmebaasidele, graaflistele kujutistele, fotodele, videodele ja helisalvestistele ja teistele programmidele, samamoodi nagu ka teistele intellektuaalomandi objektidele mida sisaldab tarkvara), trükisena voi elektroonilises formaadis tugimaterjalid ja igasugused tarkvaratoote koopiad on NAVITEL firma ja tema partnerite omand. Kogu käesolevate andmebaaside omandi ja autorioigused ja kogu selle muu sisu, mille juurde annab tarkavara voimaluse pääseda ning mis on kaitstud Vene Föderatsioonis olevate teiste oiguste raames , nagu on seda rahvusvahelised oigused, mida kasutatakse intellektuaalomandi valdkonnas. Käesolev leping ei anna Teile oigust juurdepääsuks tarkvaratoote sisule.
+2.2. Lihtne mittevälistav litsents tarkvaratoote kasutamiseks erasektoris mitteärilistel eesmärkidel on kasutajale antud niimoodi, nagu on käesolevas lepingus ära märgitud, ning niisugustel eeldustel, et täidetakse allpool määratud tingimused.
+
+2.3. Firma NAVITEL ei määra ühtegi teist oigust kui välja arvatud need, mis on selgesonaliselt kinnitatud käesolevas lepingus.
+
+3. KASUTAMISTINGIMUSED
+3.1. Tarkvaratoode voib olla müüdud arvuti osana voi voib olla tarnitud koos arvutiga voi voib olla tarnitud paketina ning selles eelinstalleerituna. Kui tarbija saab arvutitoote arvuti lisa osana voi tarnitakse see talle paketina koos arvutiga, on tarvaratoode litsentsitud integreeritud produktina mida tarnitakse koos arvutiga ja mida voib kasutada ainul koos arvutiga, mille paketi osa see on voi millega see on paketi raamis tarnitud.
+Oiguste alusel, mis on antud käesoleva lepinguga, voib kasutaja kanda üle igal ajal teisele isikule, kuid ainult käesoleva mitte tagastatava müügi ja arvuti ülekande puhul ning juhul, et kasutajale ei jää mingeid tarkvara koopiate osi ning et tarkvara toote ülevotja kohustub täitma käesoleva lepingu tingimusi.
+3.2. Tarkvara toodet voib müüa ka niimoodi, et pole eelnevalt arvutisse installeeritud, voi et pole antud koos arvutiga käesoleva paketi raamides. Kui kasutajale tarnitakse tarkvaratoode eraldi ilma arvutita, on tal oigus viia osad ja tarkvaratoote oigused üle, mis olid talle käeoleva lepinguga antud, teisele isikule, kuid ainult niisugusel eeldusel, et tarbija juurde ei jää mingeid osi voi tarkvara koopiaid ning et tarkvara toote ülevotja täidab käesoleva lepingu tingimusi.
+3.3. Litsentsi ulatus. Käesolev leping annab kasutajale oiguse paljundada tarkvara toodet objektikoodi kirje vormis arvutimälusse otsese juurdepääsuga (RAM) eesmärgiga otseseks tarkvara toodete whiste rakendamiseks keskarvuti protsessoris. Kasutajal pole oigust kasutada voi hoida tarkvaratoodet rohkem kui ühes arvutis (olgu see siis installeritud voi mitteinstalleritud kujul).
+3.4. Digitaalset toodet, mis sisaldab tarkvaratoodet on lubatud kasutada ainult navigatsioonisüsteemiga, mida osutatakse tarkvaratoote raamis ja mitte teisiti. Digitaalset toodet, mis on saadud iseseisva tootena, voib käivitada ainult ühe tarkvaratoote raamis (st. vastavalt ühele unikaalsele tarkvara litsentsi votme „mootmele“).
+3.5. Kaotatud voi vigastatud tarkvaratoote koopia taastamisel on kasutajal oigus nouda firmalt NAVITEL tehnilise toe konsultatsiooni. Kasutaja on selletottu kohustatud esitama oigustatud tarkvaratoote kasutamise dokumendi.
+3.6. Tarnimine kahel andmekandja tüübil. Juhul, kui tarkvaratoode on tarnitud kahel voi enamal andmekandja tüübil, on kasutajal oigus kasutada ainult ühte andmekandja tüüpi, ning seda, mis sobib talle pakutud pakettidest koige paremini. Leitakse, et koik andmekandjad ühes tarkvaratoote koopias sisaldavad samasugust tarkvaratoote koopiat ja kasutaja voib seda kasutada ainult ühel arvutil.
+3.7. Kasutajal on oigus luua ainult 1 (ühte) tarkvaratoote koopiat, mida kasutatakse ainult varukoopia tegemise eesmärgil.
+3.8. Kasutaja kohustub, et ei soorita ise järgmisi tegevusi, ega ei voimalda, et seda sooritaks keegi teine füüsiline voi juriidiline isik:
+– ei kasutada tarkvaratoodet otseselt kasumi teenimise eesmärgil;
+– ei laena, ega rendi voi ei anna tarkvaratoodet kellelegi ajutiseks kasutamiseks;
+– ei anna tarkvaratoodet vorguteenuse osutamiseks, kaasaarvatud, ei edasta seda veebilehekülgedel ning seda nii kommerts kui ka mitte- kommertslikel eesmärkidel;
+– ei loo soodsaid tingimusi tarkvaratoote kasutamiseks isikutele, kellele pole antud käesoleva tarkvara kasutamise oigust (kaasaarvatud iskutele, kes teiega töötavad samas vorgustikus voi mitme kasutajaga süsteemis), tarkvaratoote litsentsi ülekandmiseks;
+– ei luba ükskoik missuguste tarvaratoote fragmendi voi elemendi kasutuselevottu (avalikustamist), sealhulgas kaasaarvatud niisuguse voimaluse pakkumist kolmandale isikule;
+– ei ürita korvale hoida tarkvaratoote tehnilistest piirangutest;
+– ei voimalda otsest juurdepääsu digitaalse toote andmetele, ei luba digitaalse toote struktuuri ja formaadi uuringu tegemist ja digitaalse toote mälu restrukuraliseerimist, muuta tarkvaratootes olevaid andmeid, muuta ( konversioon) ja kohandada tarkvaratoodet, analüüsida, dekompileerida (teha seade konversioon esialgsesse teksti) programmi, muuta andmebaasi ning muid tarkvaratoote seadme koodi koostiosi ;
+– ei tee seadme koodi programmi voi andmebaasi muutusi väljaarvatud niisuguseid, mis on tehtud tarkvaratoote paketiga kaasaantud vahenditega ning kirjeldatud kaasaantud lisamaterjalides;
+– ei tee tarkvaratoote kasutamse oiguste ülekandmist kolmandale isikule väljaarvatud juhtudel, mis on kirjeldatud käesoleva lepingu punktides 3.1 ja 3.2 tagades eespool nimetatud punktides kehtestatud nouete vastavuse;
+
+– ei tee läbirääkimisi mis on seotud tarkvaratootega, mis on vastuolus oiguslike eeskirjadega ning teiste Vene Föderatsiooni- voi rahvusvahelise seadusega, mis on implementeeritud tarkvaratoodete ja andmebaaside oiguste kaitsesse.
+– ei kasuta digitaalset toodet teiste tarkvaraprogrammidega, kui seda on navigatsiooni süsteem.
+3.9. Juhul, kui kasutaja eirab punktis 3.8 äratoodut, jätab fima NAVITEL endale oiguse lopetada käesoleva Loppkasutajaga Litsentsilepingu ühepoolselt, ning seda ükskoik millal ilma igasuguse eelneva teate ning hoiatuseta.
+3.10. Kasutaja on tarkvaratoote eest ainuisikuliselt vastutav ning kannab koiki riske seotud toote kasutamisega.
+3.11. Tarkvaratoote litsentsivotme aktiveerimine on legitiimne mehhanism, mis kinnitab nouetekohast tarkvaratoote kasutamist kasutaja poolt.
+3.12. Litsentsivotme deaktiveerimine tarkvaratoote koopia juurde on lubatud maksimaalselt üks kord (olgu see siis ükskoik missugusel pohjusel). Digitaalse toote koopia juurde, mis on saadud iseseisva ühikuna, ei eksisteeri litsentsivotme mingit deaktiveerimist. Litsentsivotme korduv aktiveerimine on lubatud ainult sama mudeli seadmel, samasuguse ametliku operasioonisüsteemiga. Lisateavet deaktiveerimise/reaktiveerimise kohta saate firma NAVITEL ametlikel veebileheküljgede aadressil http://navitel.cz.
+
+3.13. PANGE TÄHELE, et firma NAVITEL annab tehnilist tuge ainult ametlikule tarkvaratoote versioonile ning selle aktiveerimisele, mille firma NAVITEL annab välja 1 (ühe) ostuaasta jooksul.
+
+Navigatsiooni süsteemide versiooni, digitaalsete toodete ja nende aktualiseerimise kasutamine, mis olid arendatud teiste ühenduste voi üksiksikute poolt, voivad tekitada tarkvaratoote voi selle osale talitlushäireid ning voib kahjustada seadet, mis vajab remonti. Niisugust toodet tarbib kasutaja omal riisikol ja vastutusel.
+
+4. UUENDAMINE
+4.1. Tarkvara kasutamiseks, mis firma NAVITEL arvamusel kuulub kategooriasse uuendused, on vajalik omada tarkvaratoote litsentsi, mis kuulub firma NAVITEL uuenduste pakkumistesse. Uuendus asendab voi laiendab kas täielikult voi osaliselt tarkvaratoodet, mis toendab Teie oigust uuenduse vastuvotmiseks. Uuenduste installeerimisel arvutil on Teil oigus kasutada uuendust ainult kooskolas käesoleva lepinguga, voi kooskolas uuendusega kaasnevate litsentsilepingu tingimustega.
+4.2. Peale uuenduse installeerimist ei saa Te kasutada algset tarkvaratoote versiooni, millesse oli uuendus rakendatud, väljaarvatud juhtudel, kui niisugune uuenduse voimalus on tarkvara osal.
+4.3. Firma NAVITEL ega tema lepinguosalistel voi partneritel pole mingeid otseseid ega kaudseid kohustusi luua voi distribueerida tarkvaratoote uuendusi voi selle osi, kaasaarvatud digitaalset toodet.
+4.4. Firma NAVITEL jätab endale oiguse anda teada tarkvaratoote ja tema osade uuendamise kohta, olgu see siis tasuta voi tasuline.
+
+5. TARKVARA „POLE LUBATUD EDASIMÜÜGIKS“
+5.1. Kui tarkvaratoode kannab pealkirja „Pole lubatud edasimüügiks“ voi „NFR“, voimaldab olemasolev litsents olenemata selle lepingu teistest tingimustest, kasutada niisugust tarkvaratoodet ainult näitlikustamise, katsetamise voi hinnagu andmise eesmärgil ning igasugune tarkvaratoote ülekandmine tasu eest on sellega keelatud.
+
+6. NOUSOLEK ANDMETE KASUTAMISEKS
+6.1. Tarkvaratoote aktiveerimisel annab kasutaja sellega nousoleku, et firma NAVITEL voib koguda ja kasutada igasugust tehnilist teavet mis on seotud tarkvaratootega, mille on saanud kasutajalt toetusteenuste andmise raamis. Firma NAVITEL voib seda teavet kasutada oma toote täiustamiseks ning turundamiseks voi muu reklaami tegemise eesmägil. Firma NAVITEL ei avalda mingeid kasutajate isikuandmeid.
+
+7. LITSENTSILEPINGU TÜHISTAMINE
+7.1. Ilma, et oleks piiratud ükskoik missugune nendest oigustest, voib firma NAVITEL lepingu denonsseerida juhul, kui ei täideta selles kehtestatud tingimusi.
+
+7.2. Kui tahate toote üles öelda, olete sunnitud hävitama koik tarkvaratoote paljundused, mis Teil on (kaasaarvatud koik selle lepingu tarkvaratoodete komponendid, ükskoik millisel kandjal, uuendused, ja muud lisamaterjalid).
+
+8. VASTUTUS
+8.1. Tarkvaratoote ja selle mistahes komponendi kasutamist, distributsiooni ja reproduktsiooni (paljundamine), mis on vastuolus käesoleva lepingu tingimustega ning vastuolus ainuoiguslike omaniku oigustega on karistatav vastavalt seadusele.
+8.1.1. Käesoleva lepingu oigusi kohaldatakse vastavalt Vene Föderatsooni oigustele.
+8.2. Kui kasutaja rikkus käesolevat lepingut, kaotab ta oiguse kasutada tarkvaratoodet, samuti nagu ka piiratud garantiid, mis on ära toodud allpool olevas punktis 9.
+
+9. PIIRATUD GARANTII
+9.1. Firma NAVITEL garanteerib programmi funktsioneerimist, mis sisaldab tarkvaratoodet tingimustel mis on sätestatud tarkvaratootega koos tarnitud dokumendis.
+9.2. Ülejäänud tarkvaratoodet tarnitakse "nii, nagu see on". Firma NAVITEL ei kanna vastutust nendel juhtudel, mil tarkvaratoode ei täida kasutaja ootusi voi ei noustu tema seisukohtadega, ei vasta analoogidele, voi standarditele mida pole kirjeldatud spetsifikatsioonides ja nendega seotud dokumentides voi sisaldab vigu, samamoodi nagu ei vastuta otseste voi mitte otseste tarkvaratoote kasutamisest lähtuvaid pohjusi kaasaarvatud need, mis on tingitud tarkvaratoote pakendil olevatest voimalikest vigadest voi trükivigadest.
+9.2.1. JUHIME TÄHELEPANU SELLELE, et digitaalse toote kasutusaeg (tarkvaratoote komponendina) voib olla piiratud. Teavet digitaalse toote kui tarkvaratoote komponendi ning selle kasutusaja kohta tehakse kättesaadavaks kohe pärast tarkvaratoote aktiveerimist.
+9.3. Firma NAVITEL ei taga tarkvaratoote funktsioneerimist koostoimimist kolmandate isikute ja organisastioonide tarkvara- ja riistvaraga, eelkoige aga riistvaraga, mis on toodetud hiljem kui käesolev tarkvara toode.
+
+10. TARKVARATOOTE TAGASTAMINE
+10.1. Käesoleva lepingu tingimuste vastuvotmisel ning tarkvara toote litsentsivotme aktiveerimsel noustute samuti „ Ostetud tarkvaratoote tagastamise tingimustega“. Rohkem teavet tagastamise kohta saate ametlikul firma NAVITEL leheküljel aadressiga http://navitel.cz.
+
+Autorioigus:
+"Навигационная картографическая программа" ("Навител Навигатор"), Навигационная система "Навител Навигатор 3.2.5" (Navigation system "Navitel Navigator 3.2.5"),  "Навигационная система "Навител Навигатор 5.0" (Navigation system "Navitel Navigator 5.0"), а также все последующие версии Навигационной системы - © АО «ЦНТ», 2007-2015, версии с "Навигационная система "Навител Навигатор 3.2" (Navigation system "Navitel Navigator 3.2") по "Навигационная система "Навител Навигатор 9.6" (Navigation system "Navitel Navigator 9.6") включительно
+© NAVITEL s.r.o., 2016
+© CENTRE OF NAVIGATION TECHNOLOGY
+Погода Gismeteo. Данные о погоде предоставлены Gismeteo.ru. ©НПЦ Мэп Мейкер, 1998-2012
+Zlib ©Jean-loup Gailly and Mark Adler. 1995-2005
+FreeType 2 ©David Turner, Robert Wilhelm and Werner Lemberg, 1996-2002, 2006
+Libogg ©Xiph.org Foundation, 2002
+Libspeex ©Jean-Marc Valin/Xiph.org Foundation, 2002-2007
+Libpng ©Glenn Randers-Pehrson, 1998 -2004
+Ogles ©The Android Open Source Project, 2005-2011
+Arian ANU ©Ruben Hakobyan (Tarumyan), 1998-2011
+DirectXTex (с) Microsoft Corporation, 2006-2013
+© Картографическая основа Роскартография
+© ФГУП "Уралаэрогеодезия", 2006-2010г.
+© ФГУП "ПО Инжгеодезия", 2007г.
+© Картографическая основа. РОСРЕЕСТР, 2013г., 2014г.
+© ФГУП "Северо-Кавказское аэрогеодезическое предприятие", 2007г., 2008г., 2011г.
+© ООО "Отрок"
+© ФГУП "Южное АГП", 2007г., 2010г.
+© ООО "Гискарт"
+© ФГУП "Госцентр "Природа", 2007г., 2008г.
+© МУ "Городской информационный центр"
+© ФГУП ВАГП 2008г., 2010г.
+© ФГУП "Балт АГП"
+© Картографическая основа ООО "Карты Сибири"
+© КГЦ ФГУП "Уралаэрогеодезия", 2007г
+© ФГУП "Новгородское АГП"
+© СГГА
+© МП города Омска "Омскархитектура"
+© ФГУП "Средневолжское АГП" 2008г.
+© ООО "ГИС-Проект"
+© ФГУП "ЗапсибАГП", 2007г., 2009г.
+© ФГУП "ЦТМП Центрмаркшейдерия"
+© AND International Publishers NV
+© DATUM LLC
+© GDi GISDATA, www.gisdata.com
+© РУП "БелНИЦзем"
+© Государственный комитет по имуществу Республики Беларусь
+© ГУП "Национальное кадастровое агентство"
+© DataMap Europe Ltd.
+Contains Ordnance Survey data  ©Crown copyright and database right 2013
+Contains Royal Mail data © Royal Mail copyright and database right 2013
+Contains National Statistics data © Crown copyright and database right 2013
+© Business listings data ©Infobel
+© MemNav Ltd., MemNav.com
+© Картографическая основа Guidejet ® MAPS
+© Basarsoft, 2010
+© GEODATA S.A.
+© REGIO
+©Latvijas Geotelpiskās informācijas agentūra / ©Агентство геопространственной информации Латвии
+© Справочная служба 118
+© GEOVISION NC
+© Rock Mars Maps
+© PLANstudio s.r.o.
+© Mapy.cz, s.r.o.
+© MAPA Slovakia Digital
+© Geodetic institute of Slovenia
+© Картографическая основа ГНПП "Картография" (© Картографічна основа ДНВП "Картогафія")
+© carNAVi Corporation
+© Finnish Road Administration/Digiroad
+© Jose Alberto Najero Cruz, powered By BiciMapas ®
+© MULTISPECTRAL
+© TruEarth (R) imagery Copyright TerraMetrics, Inc.
+© (MAPMYINDIA) CE Info Systems (P) Ltd
+© Map of Colombia By Gisco, Todos los derechos reservados, 2016
+© 2016 DDG Technology JSC
+Bezirksregierung Köln, Abt. Geobasis NRW
+©Emapa sp. z o.o
+©Innovation Technology of Tajikistan L.L.C.
+© Technologii de Navigatie SRL
+© ALEKI LTD.
+Ředitelství silnic a dálnic ČR, státní příspěvková organizace
+© Carlos Calle (C) GuiaCalles

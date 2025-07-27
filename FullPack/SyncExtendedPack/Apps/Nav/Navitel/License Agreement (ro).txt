@@ -1,0 +1,165 @@
+Acord de licenţă pentru aplicaţia Navitel Navigator
+
+Stimate client,
+
+Vă rugăm să citiţi cu atenţie următorul Acord de licenţă cu utilizatorul final (ofertă publică).
+
+ACORD DE LICENŢĂ CU UTILIZATORUL SISTEMULUI DE NAVIGARE „NAVITEL NAVIGATOR“
+
+Acest acord de licenţă este un contract obligatoriu cu forţă juridică, încheiat între dvs. (persoană fizică sau juridică, în continuare numai "utilizator", şi societatea pe acţiuni închisă „Center of Navigation Technologies“ (în continuare numai „NAVITEL“), privind utilizarea produsul software – sistem de navigare „Navitel Navigator“ (în continuare numai „produs software“). Produsul software include un software de computer - programul de navigaţie cartografică „Navitel Navigator“ (în continuare numai "sistem de navigare"), harta digitală (în continuare numai "produs digital") şi materialele de însoţire, care sunt sub formă imprimată sau electronică. Produsul digital se poate dobândi: (i) împreună cu sistemul de navigare, ca parte integrată a produsului software, sau (ii) ca o unitate separată, care funcţionează împreună cu produsul software dobândit anterior.
+
+Acest acord se raportează şi la actualizări, componente suplimentare şi componente ale produsului software care asigură funcţionarea acestuia. Compania NAVITEL este proprietarul tuturor drepturilor asupra produsului software, cu respectarea următoarelor condiţii: drepturi exclusive de autor pentru bazele cartografice, sau la elemente individuale ale lor, sunt deţinute de proprietarii acestora, în conformitate cu mărcile de protecţie a drepturilor de autor, plasate pe fiecare copie a produsului software. Pentru o listă completă a titularilor de drepturi, vă rugăm să consultaţi articolul DREPTURI DE AUTOR.
+
+Compania NAVITEL deţine dreptul exclusiv de distribuţie a produsului software. Produsul software în ansamblul său şi toate elementele sale individuale (inclusiv, dar nu limitat la materiale cartografice, bazele de date, imaginile grafice, înregistrările video, înregistrările audio, textele şi programele suplimentare) sunt obiecte separate ale dreptului de autor şi sunt protejate prin lege rusă şi internaţională. Prin instalarea, copierea, descărcarea, accesarea şi executarea altor operaţiuni asemănătoare cu ajutorul produsului software, sunteţi astfel de acord cu prevederile acestui Acord de licenţă. Acest Acord de licenţă cu utilizatorul final intră în vigoare imediat după ce confirmaţi acordul dvs. Acest Acord de licenţă cu utilizatorul final are efect pe toată durata de utilizare a produsului software. Dacă nu sunteţi de acord cu oricare dintre prevederile acestui Acord de licenţă, nu instalaţi şi nu utilizaţi produsul software.
+
+ACORD DE LICENŢĂ CU UTILIZATORUL FINAL (OFERTĂ PUBLICĂ)
+
+În conformitate cu prezentul Acord de licenţă, acest produs software (inclusiv materialele imprimate) este transferat la dvs. şi NU VĂ ESTE VÂNDUT.
+
+1. OBIECTUL ACORDULUI
+1.1. Compania NAVITEL vă acordă o licenţă simplă fără exclusivitate, şi anume dreptul de a utiliza produsul software numai în modul şi în condiţiile care sunt menţionate mai jos (în continuare numai "licenţă").
+1.2. Toate condiţiile prevăzute mai jos se referă la produsul software, în totalitate, precum şi la toate elementele individuale ale acestuia.
+
+2. PROPRIETATEA INTELECTUALĂ
+2.1. Drepturi de proprietate intelectuală pentru produsul software (inclusiv, dar nu limitat la toate bazele de date, imaginile grafice, fotografiile, înregistrările video, înregistrările audio, şi programele suplimentare, precum şi alte obiecte de proprietate intelectuală incluse în produsul software), pentru materialele însoţitoare sun formă imprimată sau electronică şi pentru orice copie a produsului software, sunt proprietate a companiei NAVITEL şi a partenerilor acesteia. Toate drepturile de autor şi de proprietate asupra bazelor de date şi altor tipuri de conţinut la care produsul software permite accesul, sunt ale proprietarilor corespunzători de drepturi de autor şi de proprietate asupra bazelor de date şi altor tipuri de conţinut şi sunt protejate de legislaţia aplicabilă în cadrul Federaţie Ruse, precum şi de legislaţia internaţională aplicabilă în domeniul proprietăţii intelectuale. Acest Acord nu vă permite accesul la conţinutul produsului software.
+
+2.2. Licenţa simplă fără exclusivitate, pentru utilizarea produsului software în scopuri personale non-comerciale, este acordată utilizatorului aşa cum se specifică în prezentul acord, dacă sunt respectate condiţiile impuse de mai jos.
+
+2.3. NAVITEL nu acordă alte drepturi cu excepţia celor care sunt specificate în mod expres în acest Acord.
+
+3. CONDIŢII DE UTILIZARE
+3.1. Produsul software poate fi vândut ca o componentă a computerului sau la pachet cu un calculator şi pre-instalat pe acesta. În cazul în care utilizatorul primeşte produsul software ca o componentă a unui computer sau la pachet cu un computer, produsul software este licenţiat ca un singur produs integrat la pachet cu un computerul ?i produsul poate fi utilizat numai cu computerul în cauză, în pachetul în care aceasta este conţinut sau cu care este livrat.
+Utilizatorul poate transfera oricând altei persoane drepturile dobândite prin acest Acord, dar numai cu condiţia unei vânzări irecuperabile simultane şi transferului computerului în cauză şi numai dacă utilizatorului nu-i rămân în posesie niciun fel de componente sau copii ale produsului software şi dacă beneficiarul produsului software se obligă să respecte termenii din acest Acord.
+3.2. Produsul software poate fi vândut şi fără a fi pre-instalat într-un computer sau fără a fi livrat împreună cu un computer în cadrul unui pachet. Dacă utilizatorul primeşte produsul software separat de computer, are dreptul de a transfera către altă persoană drepturile dobândite prin acest acord, componentele şi copiile produsului software, cu condiţia utilizatorului să nu-i rămână în posesie niciun fel de componente sau copii ale produsului software şi dacă beneficiarul produsului software se obligă să respecte termenii din acest Acord.
+3.3. Domeniul de aplicare al licenţei. Prezentul acord acordă utilizatorului dreptul de instala produsul software sub formă de cod de obiect în Random Access Memory (RAM) al computerului, în scopul executării directe a instrucţiunilor produsului software în procesorul central al computerului. Utilizatorul nu are dreptul de a folosi sau stoca produsul software în mai mult de un calculator (fie instalat sau dezinstalat).
+3.4. Utilizarea unui produs digital cuprins în produsul software este permisă numai prin intermediul utilizării sistemului de navigare în cadrul produsului software şi nu altfel. Produsul digital dobândit ca o unitate separată poate rula numai în cadrul unui produs software (adică "personalizat" pentru o cheie unică de licenţă pentru software).
+3.5. Utilizatorul are dreptul de consulta serviciul de suport tehnic al companiei NAVITEL pentru reînnoirea copiei produsului software pierdută sau deteriorată. În acest caz, utilizatorul este obligat să prezinte o dovadă a legalităţii copiei produsului software.
+3.6. Livrarea pe două tipuri de suport de date. Dacă produsul software este livrat pe două sau mai multe tipuri de suport de date, utilizatorul are dreptul de a utiliza un singur suport, cel care este mai convenabil pentru el. Toate suporturile de date conţinute într-o copie a produsului software sunt considerate a conţine aceeaşi copie a produsului software şi pot fi utilizate de către utilizator numai pe un singur computer.
+3.7. Utilizatorul are dreptul de a face o (1) singură copie de rezervă a produsului software.
+3.8. Utilizatorul se obligă ca, singur sau prin intermediul unei alte persoane fizice sau juridice, să nu efectueze următoarele activităţi:
+– utilizarea produsului software în scopul generării unui profit direct;
+– împrumutarea, închirierea sau punerea la dispoziţie a produsului software în scopul unei utilizări temporare;
+– utilizarea produsului software pentru prestarea de servicii bazate pe reţea, inclusiv, dar nu limitat la difuzarea în site-uri de Internet, pe bază pe comercială, precum ?i non-comercială;
+– să creeze condiţii favorabile de utilizare a produsului software de către persoane care nu au drepturi cu caracter personal pentru a utiliza software-ul în cauză(inclusiv cei care lucrează în aceeaşi reţea sau în sistem multi-utilizator cu dvs.), să aloce licenţa produsului software;
+– să comunice (publice) orice fragmente sau elemente ale produsului software, inclusiv, dar nu limitat la asigurare oportunităţi de copiere a acestor pentru terţi;
+– să încerce evitarea soluţionărilor tehnice de restricţionare ale produsului software;
+– să acceseze direct datele produsului digital, să studieze structura şi formatul memoriei produsului digital, să restructureze spaţiul de stocare al produsului digital, să modifice datele conţinute în produsul software, să decompileze (convertirea codului obiectului în textul original) programul, bazele de date şi alte componente ale codului produsului software;
+– să facă modificări în codul obiect al programului sau bazei de date, cu excepţia celor care sunt făcute de către mijloacele incluse în pachetul de produse software şi descrise în materialele de însoţire;
+– să transfere drepturile de utilizare a produsului către terţi, cu excepţia cazurilor specificate în punctele 3.1 şi 3.2 din prezentul Acord de licenţă, cu condiţia să se asigure conformitate cu cerinţele menţionate în punctele de mai sus.
+
+– să acţioneze în ceea ce priveşte produsul software prin încălcarea legilor şi a altor acte existente în cadrul Federaţiei Ruse, precum şi a actelor de drept internaţional, implementate în domeniul protecţiei juridice a programelor de computer şi a bazelor de date.
+– să utilizeze produsul digital cu alte programe software cu sistem de navigare.
+3.9. În cazul încălcării prevederilor din punctul 3.8 de către utilizator, NAVITEL îşi rezervă dreptul de a rezilia unilateral acest Acord cu utilizatorul final, oricând, chiar fără orice avertizare sau atenţionare prealabilă.
+3.10. Utilizator este singurul răspunzător pentru produsul software şi poartă toate riscurile de utilizare a produsului software.
+3.11. Activarea cheii de licenţă a produsului software este un mecanism legitim, care confirmă utilizarea corespunzătoare a produsului software de către utilizator.
+3.12. Dezactivarea cheii de licenţă a produsului software este permisă numai o singură dată (indiferent de motiv). Cheia de licenţă pentru copia produsului digital, procurată ca unitate separată, nu poate fi activată. Reactivarea cheii de licenţă este permisă exclusiv pe acelaşi model de dispozitiv cu sistem de operare original identic. Pentru mai multe informaţii privind dezactivarea/reactivarea cheii de licenţă vizitaţi site-ul companiei NAVITEL la http://navitel.cz.
+
+3.13. ATRAGEM ATENŢIA că, compania NAVITEL oferă suport tehnic doar de versiunea oficială a produsului software şi pentru actualizările acesteia, eliberate de "NAVITEL " în decurs de 1 (un) an de la cumpărare.
+
+Utilizarea unor versiuni de sisteme de navigare, produse digitale şi alte actualizări, dezvoltate sau adaptate de către alţi comunităţi sau persoane fizice, poate face inoperabil produsul software sau un component al acestuia şi poate cauza daune la dispozitiv, care va necesita reparaţii. Utilizatorul foloseşte aceste produse pe risc şi responsabilitate proprie.
+
+4. ACTUALIZĂRI
+4.1. Pentru a utiliza software-ul care, conform NAVITEL se încadrează în categoria actualizări, trebuie să dispuneţi de o licenţă pentru produsul software care se încadrează în oferta NAVITEL pentru actualizări. Actualizarea înlocuieşte integral sau parţial sau extinde produsul software, fiind dovada dreptului dvs. de primire a actualizării. Atunci când instalaţi actualizarea pe computer, aveţi dreptul de a utiliza această actualizare numai în conformitate cu termenii şi condiţiile prezentului Acord, sau în conformitate cu termenii din acordul de licenţă care însoţeşte actualizarea.
+4.2. După instalarea actualizării nu puteţi folosi versiunea iniţială a produsului software la care a fost implementată de actualizare, cu excepţia cazurilor când este vorba de o parte a actualizării de software.
+4.3. Compania NAVITEL precum şi furnizorii şi partenerii săi nu poartă nicio responsabilitate expresă sau implicită pentru crearea sau distribuirea de actualizării ale produsului software sau ale oricăror dintre componentele acestuia, inclusiv produsul digital.
+4.4. Compania NAVITEL îşi rezervă dreptul de a anunţa actualizări gratuite sau contracost pentru produsul software şi pentru componente ale acestuia.
+
+5. SOFTWARE „NU ESTE DESTINAT PENTRU REVÂNZARE“
+5.1. În cazul în care produsul software poartă inscripţia "Not for resale" ("Nu este destinat pentru revânzare" sau "NRF"), atunci, indiferent de alte prevederi din acest Acord, o astfel de licenţă permite utilizarea acestui produs software exclusiv în scopuri de prezentare, testare sau evaluare a produsului software; se interzice orice tip de vânzare sa transfer contracost al produsului software.
+
+6. CONSIMŢĂMÂNTUL DE UTILIZARE A DATELOR
+6.1. Prin activarea produsului software, utilizatorul este de acord ca NAVITEL să stocheze şi să utilizeze orice tip de informaţii cu caracter tehnic obţinute prin intermediul serviciilor de suport oferite utilizatorului şi care se raportează la produsul software. NAVITEL are dreptul de a utiliza aceste informaţii pentru perfecţionarea produselor sale şi în scopuri de marketing sau promovare. Compania NAVITEL nu va face publice niciun fel de date personale ale utilizatorului.
+
+7. REZILIEREA ACORDULUI DE LICENŢĂ
+7.1. Fără a fi afectate drepturile sale, compania NAVITEL poate rezilia acest Acord în cazul în care nu sunt respectate prevederile acestuia.
+
+7.2. Dacă Acordul a fost reziliat, aveţi obligaţia de a distruge toate copiile produsului software aflate în posesia dvs. (inclusiv toate componentele produsului software de pe orice suport, actualizările, acest Acord şi alte materiale însoţitoare).
+
+8. RESPONSABILITATE
+8.1. Utilizarea, distribuirea şi reproducerea (copierea) produsului software şi a oricăror componente ale acestuia, în contradicţie cu prevederile din acest Acord şi în contradicţie cu drepturile exclusive ale proprietarului de drept, se pedepsesc în conformitate cu legislaţia.
+8.1.1. Legislaţia aplicabilă prezentului Acord va fi legislaţia Federaţiei Ruse.
+8.2. În cazul în care utilizatorul încalcă acest Acord, va pierde dreptul de a utiliza produsul software, precum şi dreptul la garanţia limitată specificată în punctul 9 de mai jos.
+
+9. GARANŢIE LIMITATĂ
+9.1. Compania NAVITEL asigură funcţionare programelor integrate în produsul software conform condiţiilor stabilite în documentaţia de însoţire a produsului software.
+9.2. În rest, produsul software este livrat "ca atare". Compania NAVITEL nu poartă nici o responsabilitate pentru faptul că produsul software nu satisface aşteptările şi cerinţele utilizatorului şi că nu corespunde echivalentelor şi normelor care nu sunt descrise în specificaţiile şi documentaţiile corespunzătoare. De asemenea, compania NAVITEL nu poartă nici o responsabilitate pentru erorile conţinute şi pentru consecinţele directe şi indirecte de utilizare a produsului software, inclusiv a celor apărute ca urmare a unor posibile erori sau a unor erori de imprimare pe ambalajul produsului software.
+9.2.1. ATENŢIONĂM că perioada de utilizare a produsului digital (ca o componentă a programului software) poate fi limitată. Informaţiile privind produsul digital (ca o componentă a programului software), precum şi cele privind perioada de operare, vă devin disponibile imediat după activarea produsului software.
+9.3. Compania NAVITEL nu garantează că produsul software va funcţiona cu software sau hardware de la entităţi şi organizaţii terţe, în special cu hardware produs ulterior versiunii produsului software în cauză.
+
+10. RETURNAREA PRODUSULUI SOFTWARE
+10.1. Acceptând condiţiile din acest Acord de licenţă şi prin activarea cheii de licenţă a produsului software, acceptaţi şi "Condiţiile de returnare a produsului software cumpărat". Pentru mai multe informaţii privind returnarea, vizitaţi site-ul oficial al companiei NAVITEL la adresa http://navitel.cz.
+
+COPYRIGHT:
+"Навигационная картографическая программа" ("Навител Навигатор"), Навигационная система "Навител Навигатор 3.2.5" (Navigation system "Navitel Navigator 3.2.5"),  "Навигационная система "Навител Навигатор 5.0" (Navigation system "Navitel Navigator 5.0"), а также все последующие версии Навигационной системы - © АО «ЦНТ», 2007-2015, версии с "Навигационная система "Навител Навигатор 3.2" (Navigation system "Navitel Navigator 3.2") по "Навигационная система "Навител Навигатор 9.6" (Navigation system "Navitel Navigator 9.6") включительно
+© NAVITEL s.r.o., 2016
+© CENTRE OF NAVIGATION TECHNOLOGY
+Погода Gismeteo. Данные о погоде предоставлены Gismeteo.ru. ©НПЦ Мэп Мейкер, 1998-2012
+Zlib ©Jean-loup Gailly and Mark Adler. 1995-2005
+FreeType 2 ©David Turner, Robert Wilhelm and Werner Lemberg, 1996-2002, 2006
+Libogg ©Xiph.org Foundation, 2002
+Libspeex ©Jean-Marc Valin/Xiph.org Foundation, 2002-2007
+Libpng ©Glenn Randers-Pehrson, 1998 -2004
+Ogles ©The Android Open Source Project, 2005-2011
+Arian ANU ©Ruben Hakobyan (Tarumyan), 1998-2011
+DirectXTex (с) Microsoft Corporation, 2006-2013
+© Картографическая основа Роскартография
+© ФГУП "Уралаэрогеодезия", 2006-2010г.
+© ФГУП "ПО Инжгеодезия", 2007г.
+© Картографическая основа. РОСРЕЕСТР, 2013г., 2014г.
+© ФГУП "Северо-Кавказское аэрогеодезическое предприятие", 2007г., 2008г., 2011г.
+© ООО "Отрок"
+© ФГУП "Южное АГП", 2007г., 2010г.
+© ООО "Гискарт"
+© ФГУП "Госцентр "Природа", 2007г., 2008г.
+© МУ "Городской информационный центр"
+© ФГУП ВАГП 2008г., 2010г.
+© ФГУП "Балт АГП"
+© Картографическая основа ООО "Карты Сибири"
+© КГЦ ФГУП "Уралаэрогеодезия", 2007г
+© ФГУП "Новгородское АГП"
+© СГГА
+© МП города Омска "Омскархитектура"
+© ФГУП "Средневолжское АГП" 2008г.
+© ООО "ГИС-Проект"
+© ФГУП "ЗапсибАГП", 2007г., 2009г.
+© ФГУП "ЦТМП Центрмаркшейдерия"
+© AND International Publishers NV
+© DATUM LLC
+© GDi GISDATA, www.gisdata.com
+© РУП "БелНИЦзем"
+© Государственный комитет по имуществу Республики Беларусь
+© ГУП "Национальное кадастровое агентство"
+© DataMap Europe Ltd.
+Contains Ordnance Survey data  ©Crown copyright and database right 2013
+Contains Royal Mail data © Royal Mail copyright and database right 2013
+Contains National Statistics data © Crown copyright and database right 2013
+© Business listings data ©Infobel
+© MemNav Ltd., MemNav.com
+© Картографическая основа Guidejet ® MAPS
+© Basarsoft, 2010
+© GEODATA S.A.
+© REGIO
+©Latvijas Geotelpiskās informācijas agentūra / ©Агентство геопространственной информации Латвии
+© Справочная служба 118
+© GEOVISION NC
+© Rock Mars Maps
+© PLANstudio s.r.o.
+© Mapy.cz, s.r.o.
+© MAPA Slovakia Digital
+© Geodetic institute of Slovenia
+© Картографическая основа ГНПП "Картография" (© Картографічна основа ДНВП "Картогафія")
+© carNAVi Corporation
+© Finnish Road Administration/Digiroad
+© Jose Alberto Najero Cruz, powered By BiciMapas ®
+© MULTISPECTRAL
+© TruEarth (R) imagery Copyright TerraMetrics, Inc.
+© (MAPMYINDIA) CE Info Systems (P) Ltd
+© Map of Colombia By Gisco, Todos los derechos reservados, 2016
+© 2016 DDG Technology JSC
+Bezirksregierung Köln, Abt. Geobasis NRW
+©Emapa sp. z o.o
+©Innovation Technology of Tajikistan L.L.C.
+© Technologii de Navigatie SRL
+© ALEKI LTD.
+Ředitelství silnic a dálnic ČR, státní příspěvková organizace
+© Carlos Calle (C) GuiaCalles

@@ -1,0 +1,4 @@
+If( DirExists("\SyncExtendedPack"))
+  DelTree("\SyncExtendedPack")
+  RmDir("\SyncExtendedPack")
+EndIf

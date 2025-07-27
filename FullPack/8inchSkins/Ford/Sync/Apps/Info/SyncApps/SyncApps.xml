@@ -1,0 +1,28 @@
+<root>
+    <apps>
+        <app name="Navitel">
+            <native>NavitelPlugin</native>
+            <iconPath>Apps/Info/SyncApps/Icons/Navitel.png</iconPath>
+        </app>
+        <app name="City Guide">
+            <native>CityGuidePlugin</native>
+            <iconPath>Apps/Info/SyncApps/Icons/CityGuide.png</iconPath>
+        </app>
+        <app name="Media Player">
+            <native>MediaPlayer</native>
+            <iconPath>Apps/Info/SyncApps/Icons/VideoPlayer.png</iconPath>
+        </app>
+        <app name="AutoKit">
+            <native>AutoKitPlugin</native>
+            <iconPath>Apps/Info/SyncApps/Icons/AutoKit.png</iconPath>
+        </app>
+        <app name="">
+            <native></native>
+            <iconPath></iconPath>
+        </app>
+        <app name="Reboot">
+            <native>RebootPlugin</native>
+            <iconPath>Apps/Info/SyncApps/Icons/Reboot.png</iconPath>
+        </app>
+    </apps>
+</root>

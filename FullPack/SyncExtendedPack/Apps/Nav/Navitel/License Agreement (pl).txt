@@ -1,0 +1,164 @@
+Umowa licencyjna na korzystanie z aplikacji Navitel Navigator
+
+Szanowny Kliencie,
+
+Prosimy o dokładne zapoznanie się z podaną poniżej Umową licencyjną z użytkownikiem końcowym (oferta publiczna).
+
+UMOWA LICENCYJNA Z UŻYTKOWNIKIEM SYSTEMU NAWIGACYJNEGO „NAVITEL NAVIGATOR“
+
+Niniejsza umowa jest prawnie wiążącym porozumieniem dotyczącym korzystania z oprogramowania – systemu nawigacyjnego „Navitel Navigator“ (zwanego dalej tylko „oprogramowanie“), zawartym pomiędzy Tobą (osobą fizyczną lub prawną, zwaną dalej tylko „Użytkownik”), a zamkniętą spółką akcyjną „Center of Navigation Technologies” (zwaną dalej tylko „spółka NAVITEL”). Oprogramowanie obejmuje program – oprogramowanie kartograficzne „Navitel Navigator“ (zwane dalej tylko „system nawigacyjny“), mapy cyfrowe (zwane dalej tylko „produkt cyfrowy”) oraz materiały towarzyszące, w formie drukowanej lub elektronicznej. Produkt cyfrowy można nabyć: (i) wraz z systemem nawigacyjnym jako integralną część oprogramowania, lub (ii) jako odrębną jednostkę do wykorzystania wraz z wcześniej nabytym oprogramowaniem.
+
+Niniejsza Umowa obejmuje również wszelkie aktualizacje, uzupełnienia oraz dodatkowe komponenty oprogramowania, jak również inne elementy oprogramowania zapewniające jego funkcjonalność. Spółka NAVITEL jest właścicielem wszystkich praw do oprogramowania, z następującymi zastrzeżeniami: wyłączne prawa autorskie do baz kartograficznych lub ich poszczególnych elementów składowych należą do ich właścicieli zgodnie z ustawą o ochronie praw autorskich oraz przewidzianymi przez nich znakami zastrzegającymi, które umieszczone są na każdej kopii oprogramowania. Pełny spis właścicieli praw podano w akapicie PRAWA AUTORSKIE.
+
+Spółka NAVITEL posiada wyłączne prawo do rozpowszechniania oprogramowania. Oprogramowanie tworzy całość i wszystkie jego elementy (poza innymi materiały kartograficzne, bazy danych, grafika, zapisy audio i video, materiały tekstowe i pozostałe programy) są każde z odrębna przedmiotem prawa autorskiego i są chronione prawem Federacji Rosyjskiej i prawem międzynarodowym. Instalowanie, kopiowanie, pobieranie, zrealizowane wejścia oraz dalsze podobne czynności wykonane za pomocą oprogramowania są wyrażeniem zgody na warunki niniejszej umowy licencyjnej. Niniejsza umowa licencyjna z Użytkownikiem końcowym wchodzi w życie wraz z wyrażeniem zgody przez Użytkownika na objęcie warunkami niniejszej umowy. Niniejsza umowa licencyjna obowiązuje przez cały okres użytkowania oprogramowania. Jeśli nie zgadzasz się z jakimkolwiek z warunkiem niniejszej umowy, nie instaluj i nie używaj objętego przez nią oprogramowania.
+
+UMOWA LICENCYJNA Z UŻYTKOWNIKIEM KOŃCOWYM (OFERTA PUBLICZNA)
+
+Oprogramowanie, dla którego została zawarta umowa, (w tym materiały drukowane) jest licencjonowane zgodnie z warunkami niniejszej umowy, a NIE SPRZEDAWANE UŻYTKOWNIKOWI.
+
+1. PRZEDMIOT UMOWY
+1.1. Spółka NAVITEL przekazuje Użytkownikowi niewyłączną licencję, czyli prawo do korzystania z oprogramowania, wyłącznie w sposób i na warunkach, które są określone poniżej (zwane dalej tylko „licencja”).
+1.2. Wszystkie warunki określone poniżej odnoszą się do oprogramowania w całości, jak również do wszystkich jego elementów oddzielnie.
+
+2. WŁASNOŚĆ INTELEKTUALNA
+2.1. Prawa własności intelektualnej do oprogramowania (między innymi prawa do wszelkich baz danych, opracowań graficznych, fotografii, zapisów video i audio oraz dodatkowych programów, a także innych przedmiotów własności intelektualnej zawartych w oprogramowaniu), związane z nim materiały w postaci drukowanej lub w postaci elektronicznej oraz wszelkie kopie oprogramowania są własnością spółki Navitel i jej partnerów. Wszelkie prawa własności i prawa autorskie do baz danych i innych treści, do których dostęp zapewnia oprogramowanie, są objęte prawami własności intelektualnej oraz prawami autorskimi właścicieli tychże baz danych oraz treści i są chronione przez prawo i inne ustawy obowiązujące na terenie Federacji Rosyjskiej, a także prawo międzynarodowe dotyczące własności intelektualnej. Umowa niniejsza nie udziela dostępu do treści oprogramowania.
+2.2. Prosta licencja niewyłączna uprawniająca do korzystania z oprogramowania dla prywatnych celów niekomercyjnych jest udostępniania Użytkownikowi zgodnie z niniejszą Umową i pod warunkiem spełnienia poniżej podanych warunków.
+2.3. NAVITEL nie przyznaje żadnych dalszych praw prawami jednoznacznie określonymi w niniejszej Umowie.
+
+3. WARUNKI WYKORZYSTANIA
+3.1. Oprogramowanie może być sprzedawane jako część składowa komputera lub w pakiecie dostarczanym wraz z komputerem. O ile Użytkownik otrzyma oprogramowanie jako część składową komputera, lub w pakiecie dostarczanym wraz z komputerem, oprogramowanie jest licencjonowane jako jeden zintegrowany produkt dostarczany z komputerem i z produktu można korzystać wyłącznie w tym konkretnym komputerze, w pakiecie, w jakim został dostarczony, lub z którym został dostarczony.
+Użytkownik może kiedykolwiek przekazać prawa, które zostały mu udostępnione w ramach przedmiotowej umowy na inną osobę, ale tylko pod warunkiem jednoczesnej i nieodwracalnej sprzedaży i przekazania przedmiotowego komputera i pod warunkiem, że Użytkownik nie zatrzyma żadnych części składowych ani kopii oprogramowania i że osoba, na którą zostaną przekazane prawa, zobowiąże się do akceptacji postanowień niniejszej umowy.
+3.2. Oprogramowanie może być sprzedawane również jako uprzednio niezainstalowane w komputerze i niedostarczane razem z komputerem w ramach pakietu. O ile Użytkownik otrzymał oprogramowanie oddzielnie od komputera, to uprawniony jest do przekazania praw, jakie zostały mu udostępnione w ramach przedmiotowej Umowy, części składowych oraz kopii oprogramowania na inną osobę pod warunkiem, że Użytkownik nie zatrzyma żadnych części składowych ani kopii oprogramowania i że osoba, na którą zostaną przekazane prawa, zobowiąże się do akceptacji postanowień niniejszej Umowy.
+3.3. Zakres licencji. Na podstawie niniejszej umowy Użytkownik uzyskuje prawo umieszczenia oprogramowania w postaci kodu maszynowego w formie zapisu w pamięci komputera z dostępem bezpośrednim (RAM) w celu bezpośredniego wykonywania poleceń oprogramowania w centralnym procesorze komputera. Użytkownik nie posiada uprawnienia do korzystania lub przechowywania oprogramowania na więcej niż jednym komputerze (zarówno w postaci zainstalowanej czy odinstalowanej).
+3.4. Zezwala się na wykorzystanie produktu cyfrowego zawartego w oprogramowaniu tylko za pośrednictwem systemu nawigacyjnego udostępnionego w ramach oprogramowania, w żaden inny sposób. Produkt cyfrowy pozyskany jako samodzielna część może być uruchomiony wyłącznie w ramach jednego oprogramowania (tj. „na obstalunek“ do jedynego unikatowego klucza licencyjnego oprogramowania).
+3.5. Użytkownik uprawniony jest zwrócić się o konsultacje do sekcji wsparcia technicznego spółki NAVITEL w celu wznowienia utraconej lub uszkodzonej kopii oprogramowania. Jednocześnie Użytkownik przedstawi dokument potwierdzający legalne użytkowanie kopii oprogramowania.
+3.6. Dostawa na dwóch typach nośników danych. O ile oprogramowanie dostarczone jest na dwóch lub kilku typach nośników danych, Użytkownik uprawniony jest do korzystania tylko z jednego z nich, który w ramach pakietu najbardziej mu odpowiada. Przyjmuje się, iż wszelkie nośniki danych obejmują jedną kopię oprogramowania i zawierają identyczną kopię oprogramowania, a Użytkownik może z niej korzystać tylko na jednym komputerze.
+3.7. Użytkownik uprawniony jest do wykonania tylko 1 (jednej) kopii oprogramowania, która służy wyłącznie dla celów archiwizacji.
+3.8. Użytkownik zobowiązuje się, że nie będzie sam wykonywał, ani nie dopuści do tego, aby inna osoba fizyczna lub jednostka posiadająca osobowość prawną wykonywała następujące czynności:
+-	wykorzystywała oprogramowanie w bezpośrednim celu osiągnięcia zysku;
+-	pożyczała, wynajmowała lub czasowo udostępniała oprogramowanie;
+-	wykorzystywała oprogramowanie w celu świadczenia usług w sieci, poza innymi łącznie z udostępnianiem na stronach internetowych, zarówno na bazie komercyjnej, jak i niekomercyjnej;
+-	umożliwiła wykorzystanie oprogramowania przez osoby, które nie posiadają prawa użytkowania danego oprogramowania (łącznie z tymi, którzy pracują z Tobą w jednej sieci lub grupie użytkowników), przekazywała licencję do oprogramowania;
+-	upubliczniała (wydawała) jakiekolwiek fragmenty lub elementy składowe oprogramowania, poza innymi łącznie ze stworzeniem takiej okazji osobom trzecim do ich skopiowania;
+-	próby obchodzenia lub przełamania ograniczeń natury technicznej w oprogramowaniu;
+-	bezpośrednio wchodzić do danych produktu cyfrowego, badać strukturę oraz format pamięci produktu cyfrowego, rekonstruować pamięć produktu cyfrowego, zmieniać dane zawarte w oprogramowaniu, zmieniać (wykonać konwersję) i dostosowywać oprogramowanie, disassemblować czy dekompilować aplikację (wykonanie konwersji kodu maszynowego do kodu źródłowego) programu, bazy danych i dalszych części składowych kodu maszynowego oprogramowania.
+-	zmieniała kod maszynowy programu lub bazy danych poza tymi, które zostały wykonane za pomocą środków zintegrowanych do pakietu oprogramowania i opisanych w załączonych materiałach;
+-	przekazywała prawa do korzystania z oprogramowania osobom trzecim, poza przypadkami opisanymi v punktach 3.1 i 3.2 niniejszej umowy licencyjnej pod warunkiem zapewnienia zgody z wymogami opisanymi w wyżej wymienionych punktach;
+-	podejmowała w związku z oprogramowaniem działalności pozostających w sprzeczności z przepisami prawa i innymi obowiązującymi ustawami Federacji Rosyjskiej, jak i przepisami prawa międzynarodowego, które obowiązują w dziedzinie ochrony prawnej oprogramowania komputerowego oraz baz danych.
+-	korzystała z oprogramowania w połączeniu z innym oprogramowaniem niż jest system nawigacji.
+3.9. W wypadku popełnienia przez Użytkownika któregokolwiek ze skutków opisanych w punkcie 3.8, spółka NAVITEL zastrzega sobie prawo do jednostronnego zakończenia niniejszej umowy licencyjnej z użytkownikiem końcowym i to kiedykolwiek bez jakiegokolwiek powiadomienia lub ostrzeżenia.
+3.10. Za oprogramowanie ponosi odpowiedzialność wyłącznie Użytkownik, który również ponosi wszelkie ryzyka związane z jego wykorzystaniem.
+3.11. Aktywacja klucza licencyjnego to zgodny z prawem mechanizm, który potwierdza prawidłowe korzystanie z Oprogramowania przez Użytkownika.
+3.12. Deaktywację klucza licencyjnego do kopii oprogramowania można wykonać maksymalnie jeden raz (z jakiegokolwiek powodu). Nie można wykonać deaktywacji klucza licencyjnego do kopii oprogramowania, która została pozyskana jako samodzielna część. Zezwala się na reaktywację klucza licencyjnego wyłącznie na identycznym modelu urządzenia z identycznym oficjalnym systemem operacyjnym. Więcej informacji o deaktywacji/reaktywacji klucza licencyjnego znaleźć można na oficjalnej stronie internetowej spółki NAVITEL na http://navitel.cz.
+
+3.13. NALEŻY PAMIĘTAĆ, że spółka NAVITEL zapewnia wsparcie techniczne tylko dla oryginalnej wersji Oprogramowania i jego aktualizacje wydane przez spółkę NAVITEL w ciągu 1 (jednego) roku od daty zakupu.
+
+Korzystanie z wersji systemów nawigacji, produktów cyfrowych oraz jej aktualizacji, które zostały zmodyfikowane przez różne społeczności lub przez osoby fizyczne, mogą spowodować błędy w funkcjonowaniu oprogramowania lub jej elementów, a także może doprowadzić do uszkodzenia sprzętu, który może w wyniku tego potrzebować naprawy. Z takich produktów Użytkownik korzysta na własne ryzyko i odpowiedzialność.
+
+
+4. AKTUALIZACJA
+4.1. Do korzystania z oprogramowania komputerowego, który według spółki NAVITEL zalicza się do kategorii aktualizacji, konieczne jest posiadanie licencji do tegoż oprogramowania, dla którego została wydana oferta aktualizacji przez spółkę NAVITEL. Aktualizacja w pełni lub częściowo zastępuje lub poszerza Oprogramowanie, które jest dowodem Twojego prawa przyjąć aktualizację. Po zapisaniu aktualizacji do komputera masz prawo korzystać z aktualizacji tylko w zgodzie z postanowieniami niniejszej Umowy, lub zgodnie z umową licencyjną dołączonej do aktualizacji.
+4.2. Po wykonaniu aktualizacji nie możesz już korzystać z uprzedniej wersji oprogramowania, które zostało zaktualizowane, poza wypadkami, gdy takie wykorzystanie jest częścią składową aktualizacji oprogramowania.
+4.3. Spółka NAVITEL, identycznie jak jej dostawcy lub partnerzy, nie ma jasnego ani domyślnego obowiązku wykonania lub dystrybucji aktualizacji oprogramowania lub jego części składowej, łącznie z produktem cyfrowym.
+4.4. Spółka NAVITEL zastrzega sobie prawo ogłosić bezpłatne i odpłatne aktualizacje oprogramowania i jego części składowych.
+
+5. OPROGRAMOWANIE „NIE JEST PRZEZNACZONE DO DALSZEJ SPRZEDAŻY“
+5.1. O ile oprogramowanie wyposażone jest w adnotację „Nie jest przeznaczone do dalszej sprzedaży“ lub „NFR“ to w takim wypadku, bez względu na dalsze postanowienia niniejszej Umowy, taka licencja umożliwia wykorzystanie Oprogramowania tylko dla celów prezentacji, przetestowania lub wykonania oceny oprogramowania; jakakolwiek sprzedaż lub przynoszące korzyści finansowe przekazanie oprogramowania jest niniejszym wzbronione.
+
+6. ZGODA NA WYKORZYSTANIE DANYCH
+6.1. Przez aktywację oprogramowania Użytkownik wyraża zgodę na gromadzenie i wykorzystanie przez spółkę NAVITEL jakichkolwiek informacji technicznych związanych z użytkowaniem oprogramowania, jakie pozyskała w ramach usług wsparcia technicznego świadczonych Użytkownikowi. Spółka NAVITEL może wykorzystać te informacje do udoskonalania swoich produktów oraz dla celów marketingowych i reklamowych. Spółka NAVITEL zobowiązuje się do nieupubliczniania jakichkolwiek danych osobowych użytkownika.
+
+7. WYPOWIEDZENIE UMOWY LICENCYJNEJ
+7.1. Bez wpływu na jakiekolwiek swoje prawo spółka NAVITEL może wypowiedzieć niniejszą umowę w wypadku niedopełniania postanowień niniejszej Umowy.
+7.2. O ile doszłoby do wypowiedzenia umowy, masz obowiązek zniszczenia wszystkich kopii oprogramowania, które posiadasz (łącznie z wszystkimi częściami składowymi oprogramowania na jakimkolwiek nośniku danych, aktualizacjami, niniejszą umową oraz dalszymi załączonymi dokumentami).
+
+8. ODPOWIEDZIALNOŚĆ
+8.1. Wykorzystanie, dystrybucja i reprodukcja (kopiowanie) Oprogramowania i jakichkolwiek jego części składowych pozostające w sprzeczności z postanowieniami niniejszej Umowy oraz w sprzeczności z wyłącznymi prawami właściciela praw, podlega karze zgodnie z prawem.
+8.1.1. Prawem właściwym dla niniejszej umowy jest prawo Federacji Rosyjskiej.
+8.2. W wypadku naruszenia ustanowień niniejszej umowy przez Użytkownika utraci on prawo do korzystania z oprogramowania, identycznie jak prawo do ograniczonej gwarancji podanej w punkcie 9 poniżej.
+
+9. OGRANICZONA GWARANCJA
+9.1. Spółka NAVITEL zapewnia funkcjonalność programów zawartych w oprogramowaniu zgodnie z warunkami określonymi w dokumentacji dostarczonej razem z oprogramowaniem.
+9.2. W ostatnich względach oprogramowanie dostarczane jest „tak, jak jest“. Spółka NAVITEL nie ponosi żadnej odpowiedzialności za to, że oprogramowanie nie spełniło oczekiwań i wymagań Użytkownika, nie spełnia ekwiwalenty lub normy nieopisane w specyfikacjach i w związanej z produktem dokumentacji lub zawiera błędy, identycznie nie ponosi odpowiedzialności za bezpośrednie lub pośrednie konsekwencje korzystania z oprogramowania łącznie z tymi, do jakich doszło w wyniku ewentualnych błędów lub błędów drukarskich na opakowaniu oprogramowania.
+9.2.1 PROSZĘ NIE ZAPOMINAĆ, iż czas korzystania z produktu cyfrowego (będącego częścią składową Oprogramowania) może być ograniczony. Informacja o produkcie cyfrowym, będącym częścią składową oprogramowania, oraz o czasie, gdy można z niego korzystać, zostanie Ci udostępniona bezpośrednio po aktywacji produktu cyfrowego.
+9.2.2 Navitel gwarantuje prawidłowe działanie Oprogramowania zgodnie z opisem przedstawionym w Przewodniku Użytkowania oraz w niniejszej Umowie.
+9.2.3 Navitel nie gwarantuje funkcjonowania Oprogramowania przy naruszeniu warunków opisanych w Przewodniku Użytkowania, a także w przypadku naruszenia warunków niniejszej Umowy Licencyjnej.
+9.3. Spółka NAVITEL nie gwarantuje wspólnej funkcjonalności oprogramowania z oprogramowaniem i sprzętem komputerowym osób trzecich oraz organizacji, zwłaszcza jeżeli sprzęt komputerowy został wyprodukowany później niż wersja danego oprogramowania. Użytkownik wyraża zgodę na warunki niniejszej Umowy i uznaje, że w przypadku niezgodności ustawień sprzętu/ ustawień urządzenia w wersji Oprogramowania produktu firma Navitel oraz jej dostawcy nie ponoszą odpowiedzialności.
+
+10. ZWROT OPROGRAMOWANIA
+10.1. Przez akceptację warunków niniejszej umowy licencyjnej oraz aktywację kluczu licencyjnego oprogramowania przyjmujesz automatycznie „Warunki zwrotu zakupionego oprogramowania“. Więcej informacji o możliwościach zwrotu podano na oficjalnej stronie spółki NAVITEL na http://navitel.cz.
+
+PRAWA AUTORSKIE:
+"Навигационная картографическая программа" ("Навител Навигатор"), Навигационная система "Навител Навигатор 3.2.5" (Navigation system "Navitel Navigator 3.2.5"),  "Навигационная система "Навител Навигатор 5.0" (Navigation system "Navitel Navigator 5.0"), а также все последующие версии Навигационной системы - © АО «ЦНТ», 2007-2015, версии с "Навигационная система "Навител Навигатор 3.2" (Navigation system "Navitel Navigator 3.2") по "Навигационная система "Навител Навигатор 9.6" (Navigation system "Navitel Navigator 9.6") включительно
+© NAVITEL s.r.o., 2016
+© CENTRE OF NAVIGATION TECHNOLOGY
+Погода Gismeteo. Данные о погоде предоставлены Gismeteo.ru. ©НПЦ Мэп Мейкер, 1998-2012
+Zlib ©Jean-loup Gailly and Mark Adler. 1995-2005
+FreeType 2 ©David Turner, Robert Wilhelm and Werner Lemberg, 1996-2002, 2006
+Libogg ©Xiph.org Foundation, 2002
+Libspeex ©Jean-Marc Valin/Xiph.org Foundation, 2002-2007
+Libpng ©Glenn Randers-Pehrson, 1998 -2004
+Ogles ©The Android Open Source Project, 2005-2011
+Arian ANU ©Ruben Hakobyan (Tarumyan), 1998-2011
+DirectXTex (с) Microsoft Corporation, 2006-2013
+© Картографическая основа Роскартография
+© ФГУП "Уралаэрогеодезия", 2006-2010г.
+© ФГУП "ПО Инжгеодезия", 2007г.
+© Картографическая основа. РОСРЕЕСТР, 2013г., 2014г.
+© ФГУП "Северо-Кавказское аэрогеодезическое предприятие", 2007г., 2008г., 2011г.
+© ООО "Отрок"
+© ФГУП "Южное АГП", 2007г., 2010г.
+© ООО "Гискарт"
+© ФГУП "Госцентр "Природа", 2007г., 2008г.
+© МУ "Городской информационный центр"
+© ФГУП ВАГП 2008г., 2010г.
+© ФГУП "Балт АГП"
+© Картографическая основа ООО "Карты Сибири"
+© КГЦ ФГУП "Уралаэрогеодезия", 2007г
+© ФГУП "Новгородское АГП"
+© СГГА
+© МП города Омска "Омскархитектура"
+© ФГУП "Средневолжское АГП" 2008г.
+© ООО "ГИС-Проект"
+© ФГУП "ЗапсибАГП", 2007г., 2009г.
+© ФГУП "ЦТМП Центрмаркшейдерия"
+© AND International Publishers NV
+© DATUM LLC
+© GDi GISDATA, www.gisdata.com
+© РУП "БелНИЦзем"
+© Государственный комитет по имуществу Республики Беларусь
+© ГУП "Национальное кадастровое агентство"
+© DataMap Europe Ltd.
+Contains Ordnance Survey data  ©Crown copyright and database right 2013
+Contains Royal Mail data © Royal Mail copyright and database right 2013
+Contains National Statistics data © Crown copyright and database right 2013
+© Business listings data ©Infobel
+© MemNav Ltd., MemNav.com
+© Картографическая основа Guidejet ® MAPS
+© Basarsoft, 2010
+© GEODATA S.A.
+© REGIO
+©Latvijas Geotelpiskās informācijas agentūra / ©Агентство геопространственной информации Латвии
+© Справочная служба 118
+© GEOVISION NC
+© Rock Mars Maps
+© PLANstudio s.r.o.
+© Mapy.cz, s.r.o.
+© MAPA Slovakia Digital
+© Geodetic institute of Slovenia
+© Картографическая основа ГНПП "Картография" (© Картографічна основа ДНВП "Картогафія")
+© carNAVi Corporation
+© Finnish Road Administration/Digiroad
+© Jose Alberto Najero Cruz, powered By BiciMapas ®
+© MULTISPECTRAL
+© TruEarth (R) imagery Copyright TerraMetrics, Inc.
+© (MAPMYINDIA) CE Info Systems (P) Ltd
+© Map of Colombia By Gisco, Todos los derechos reservados, 2016
+© 2016 DDG Technology JSC
+Bezirksregierung Köln, Abt. Geobasis NRW
+©Emapa sp. z o.o
+©Innovation Technology of Tajikistan L.L.C.
+© Technologii de Navigatie SRL
+© ALEKI LTD.
+Ředitelství silnic a dálnic ČR, státní příspěvková organizace
+© Carlos Calle (C) GuiaCalles

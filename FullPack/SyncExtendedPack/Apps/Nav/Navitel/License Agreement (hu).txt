@@ -1,0 +1,162 @@
+A Navitel Navigator alkalmazásra vonatkozó Licencmegállapodás
+
+Tisztelt ügyfelünk,
+
+Kérjük, olvassa el az alábbi Végfelhasználói Licencmegállapodást (Nyilvános ajánlatot)
+
+A "NAVITEL NAVIGATOR" NAVIGÁCIÓS RENDSZER FELHASZNÁLÓJÁVAL KÖTÖTT LICENCMEGÁLLAPODÁS
+
+A jelen Megállapodás egy jogilag kötelező érvényű megállapodás Ön (természetes vagy jogi személy) - a továbbiakban a Felhasználó - és a "Center of Navigation Technologies" [Navigációs Technológiai Központ] zártkörűen működő részvénytársaság (a továbbiakban: "NAVITEL") között a "Navitel Navigator" navigációs rendszer szoftvertermék (a továbbiakban: "Szoftvertermék") kapcsán. A Szoftvertermék tartalmazza a "Navitel Navigator" navigációs kartográfiai program számítógépes szoftvert (a továbbiakban: Navigációs Rendszer"), egy digitális térképet (a továbbiakban: "Digitális termék"), valamint a nyomtatott vagy elektronikus formátumban kiadott kísérőanyagokat. A Digitális Termék beszerezhető: (i) a Navigációs Rendszerrel együtt a Szoftvertermék szerves részeként, vagy (ii) az előzetesen beszerzett Szoftvertermékkel együtt futtatható külön egységként.
+
+A jelen Megállapodás vonatkozik a Szoftvertermék frissítéseire, kiegészítéseire, kiegészítő komponenseire és a működését biztosító komponenseire is. A NAVITEL birtokolja a szoftvertermékhez fűződő minden jogot, a következők szerint: a kartográfiai alapdokumentumok, ill. azok egyes elemeinek kizárólagos szerzői jogai azok tulajdonosait illetik, a Szoftvertermék minden példányában elhelyezett szerzői jogi védelmi jegyekkel összhangban. A jogtulajdonosok teljes listája a SZERZŐI JOGOK c. cikkelyben szerepel.
+
+A NAVITEL fenntartja a Szoftvertermék terjesztésének kizárólagos jogát.
+A Szoftvertermék egészére és annak egyes részeire külön-külön (ideértve, ám nem kizárólagosan: a kartográfiai anyagokra, az adatbázisokra, a képekre, videó- és hangfelvételekre, szövegekre és kiegészítő programokra) a szerzői jog vonatkozik, azokat az orosz és a nemzetközi jog védi. A Szoftvertermék telepítésével, másolásával, az ahhoz való hozzáférés gyakorlásával vagy egyéb felhasználásával Ön kifejezi egyetértését a jelen Licencmegállapodás rendelkezéseivel. A jelen Végfelhasználói Licencmegállapodás az Ön egyetértésének kifejezése után azonnal hatályba lép. A jelen Végfelhasználói Licencmegállapodás a Szoftvertermék teljes üzemeltetési időszaka során hatályban marad. Amennyiben nem ért egyet a jelen Megállapodás bármely rendelkezésével, ne telepítse és ne használja a Szoftverterméket.
+
+VÉGFELHASZNÁLÓI LICENCMEGÁLLAPODÁS (NYILVÁNOS AJÁNLAT)
+
+A Szoftvertermék (beleértve a nyomtatott anyagokat is) használati jogát Önhöz a Megállapodás rendelkezései szerint kerül átruházásra, NEM ADÁSVÉTEL KERETÉBEN.
+
+1. A MEGÁLLAPODÁS TÁRGYA
+1.1. A NAVITEL egy egyszerű, nem kizárólagos licencet, azaz a Szoftvertermékre vonatkozóan kizárólag a lentebb meghatározott módon és feltételek mellett történő használati jogot (a továbbiakban: Licenc) biztosít Önnek.
+1.2. A lenti rendelkezések a Szoftvertermék egészére és egyes elemeire egyaránt vonatkoznak.
+
+2. SZELLEMI TULAJDON
+2.1. A szoftvertermékre, a nyomtatott vagy elektronikus kísérő anyagokra és a Szoftvertermék minden példányára vonatkozó szellemi tulajdonjogok (ideértve, ám nem kizárólagosan: bármely adatbázishoz, képhez, fotóhoz, videó- és hangfelvételhez és egyéb programhoz, valamint a Szoftvertermék részét képező, a szellemi tulajdonjogok tárgyaihoz fűződő jogok) a NAVITEL és partnerei tulajdonát képezik. Minden, az adatbázisokhoz és más, a Szoftvertermék által hozzáférhető tartalomhoz fűződő vagyoni és szerzői jogokat ezen adatbázisok és tartalmak vagyoni és szerzői jogainak tulajdonosai birtokolják, ezeket az Orosz Föderáció törvényei és egyéb jogszabályok, valamint a szellemi tulajdon védelmére vonatkozó nemzetközi jog védi. A jelen Megállapodás nem nyújt Önnek hozzáférést a Szoftvertermék tartalmához.
+2.2. A Felhasználó a jelen Megállapodásban részletezett módon kapja meg a Szoftvertermék nem üzleti célú, egyszerű, nem kizárólagos felhasználási jogát, amennyiben teljesíti a lenti feltételeket.
+2.3. A NAVITEL a lentebb kifejezetten meghatározott jogokon kívül semmilyen egyéb jogot nem biztosít.
+
+3. HASZNÁLATI FELTÉTELEK
+3.1. A szoftvertermék számítógép-komponensként vagy számítógéphez kapcsolva, előtelepítve kapható. Amennyiben a felhasználó a terméket a számítógép komponensként vagy a számítógéphez kapcsolva kapta, a Szoftvertermék licencét egyetlen, a számítógéphez kapcsolt integrált termék részeként kapja meg, amely kizárólag azon a számítógépen használható, amelyhez kapcsolták és amellyel átadásra került.
+A Felhasználó minden esetben jogosult a részére a jelen egyezmény keretében nyújtott szerződést más személyre átruházni, ám kizárólag a számítógép egyidejű visszavonhatatlan eladása és átadása mellett, úgy, hogy a Felhasználónál nem marad a Szoftvertermék egyetlen komponense vagy példánya sem és a Szoftvertermék átvevője vállalja, hogy betartja a jelen Megállapodás rendelkezéseit.
+3.2. A Szoftvertermék kapható számítógépre nem előtelepített, számítógéphez nem kapcsolt formában. Amennyiben a Felhasználó a Szoftverterméket számítógép nélkül kapja, a felhasználónak jogában áll a részére a jelen egyezmény keretében nyújtott jogokat, a Szoftvertermék komponenseit és példányait más személyre átruházni, amennyiben a Felhasználónál nem marad a Szoftvertermék egyetlen komponense vagy példánya sem és amennyiben a Szoftvertermék átvevője vállalja, hogy betartja a jelen Megállapodás feltételeit.
+3.3. A licenc terjedelme. A jelen Megállapodás értelmében a Felhasználónak jogában áll a Szoftvertermék objektumkódját olyan módon reprodukálni, hogy azt a számítógép közvetlen elérésű tárába (RAM memória) beolvassa a Szoftvertermék parancsainak a számítógép központi processzora általi közvetlen futtatása érdekében. A Felhasználó nem jogosult a Szoftverterméket egynél több számítógépen használni vagy tárolni (sem telepített, sem telepítetlen alakban).
+3.4. A Szoftvertermék által tartalmazott Digitális termék használata kizárólag a Szoftvertermék részét képező Navigációs rendszer használata esetén engedélyezett, egyéb esetben nem. A külön egységként beszerzett Digitális termék kizárólag egyetlen Szoftvertermékben futhat (azaz egyetlen egyedi Szoftvertermék-licenckulcsra "szabva").
+3.5. A Felhasználónak jogában áll konzultációt kérni a NAVITEL műszaki ügyfélszolgálatától a Szoftvertermék elveszett vagy sérült példányának helyrehozatalával kapcsolatban. A Felhasználó ilyen esetben köteles bizonyítani a Szoftvertermék példányának jogszerű használatát.
+3.6. Átadás kétfajta adathordozón. Amennyiben a szoftvertermék két, ill. több fajta adathordozón kerül átadásra, a Felhasználó kizárólag egyetlen adathordozót alkalmazhat, azt, amelyik a leginkább megfelel az általa használt termékcsomagnak. Minden adathordozó a Szoftvertermék egyetlen példányát tartalmazza, amelyek a Szoftvertermék azonos példányának minősülnek; ezt a Felhasználó kizárólag egyetlen számítógépen használhatja.
+3.7. A Felhasználó mindössze 1 (egy), kizárólag biztonsági mentési célra szolgáló másolatot készíthet a Szoftvertermékből.
+3.8. A Felhasználó vállalja, hogy tartózkodik a következőktől és más természetes vagy jogi személyt is meggátol a következőkben:
+- a Szoftverterméket közvetlen haszonszerzés céljából való használata;
+- a Szoftvertermék bérbeadása, kölcsönzése vagy ideiglenes használatra való átadása;
+- a Szoftvertermék hálózat-alapú szolgáltatások nyújtására való használata, ideértve különösen, ám nem kizárólagosan a következőket: üzleti, ill. nem üzleti célú terjesztés internetoldalakon.
+- a Szoftvertermék kedvező használati feltételeinek megteremtése olyan személyek részére, akik nem rendelkeznek az adott szoftver felhasználási jogaival (ideértve az Önnel azonos hálózatban vagy több-felhasználós rendszerben dolgozókat), a Szoftvertermék licencének biztosítása;
+- a Szoftvertermék bármely részének vagy alkotóelemének kiadása, ideértve különösen, ám nem kizárólagosan a következőket: másolási lehetőség biztosítása harmadik fél részére;
+- a Szoftvertermék műszaki korlátozásainak megkerülésére tett kísérlet;
+- a Digitális termék adataihoz való közvetlen hozzáférés, a Digitális termék struktúrájának és formátumának kutatása, a Digitális termék struktúrájának átformálása, a Szoftvertermékben tárolt adatok módosítása, a Szoftvertermék módosítása (átalakítása) és adaptálása, a Szoftvertermék programjának, adatbázisainak és egyéb részegységeinek alkotóelemeire bontása, dekompilálása (az objektumkód átalakítása forrásszöveggé);
+- a program vagy az adatbázis objektumkódjának megváltoztatása; kivéve, ha azt a Szoftvertermék-csomagban található, a kísérőanyagokban leírt eszközökkel hajtják végre;
+- a Szoftvertermékhez kapcsolódó jogok harmadik félre való átruházása a jelen Megállapodás 3.1. és 3.2. cikkelyeiben leírt, az említett cikkelyek rendelkezéseinek megfelelő esetek kivételével;
+- A Szoftvertermékkel az Orosz Föderáció törvényeit és egyéb jogszabályait, valamint a számítógépes programok és adatbázisok védelme terén érvényes nemzetközi jogot sértő eljárás;
+- a Digitális termék használata a Navigációs rendszertől eltérő szoftverprogram segítségével.
+3.9. Amennyiben a Felhasználó végrehajtja a 3.8. cikkelyben meghatározott cselekmények bármelyikét, a NAVITEL fenntartja a jelen Végfelhasználói Licencmegállapodás egyoldalú, felmondás vagy felszólítás nélküli felbontásának jogát.
+3.10. A Szoftvertermék használata következtében jelentkező felelősséget és kockázatokat kizárólag a Felhasználó viseli.
+3.11. A Szoftvertermék licenckulcsának aktiválása olyan legitim mechanizmus, amely igazolja, hogy a Felhasználó a Szoftverterméket szabályszerűen használja.
+3.12. A Szoftvertermék adott példányához kapcsolódó licenckulcs deaktiválása legfeljebb 1 alkalommal történhet meg (bármilyen okból). A külön termékként beszerzett Digitális termék adott példányához kapcsolódó Licenckulcs deaktiválása nem lehetséges. A Licenckulcs újraaktiválása kizárólag azonos eszközmodellen, azonos hivatalos operációs rendszeren engedélyezett. A licenckulcs deaktiválásával/újraaktiválásával kapcsolatos további információkat megtalálja a NAVITEL hivatalos honlapján, a http://navitel.cz címen.
+
+3.13. FELHÍVJUK A FIGYELMÉT, hogy a "NAVITEL" társaság műszaki támogatást kizárólag a "NAVITEL" által kiadott Szoftvertermékre és frissítéseire, azok hivatalos változataira nyújt, mégpedig a vásárlástól számított 1 (egy) éven belül.
+
+A Navigációs Rendszer, a Digitális Termék és azok Frissítéseinek az egyéb csoportok és/vagy egyének által kifejlesztett változatai a Szoftvertermékek teljes vagy részleges működésképtelenségét, a Berendezés javítást igénylő hibáját okozhatják. A Felhasználó az ilyen jellegű fejlesztéseket saját kockázatára és felelősségére használja.
+
+4. FRISSÍTÉS
+4.1. A NAVITEL által frissítésnek minősített szoftver használatához a Felhasználónak a NAVITEL frissítésekre vonatkozó ajánlata alá tartozó Szoftvertermék-licenccel kell rendelkeznie. A frissítés teljes mértékben vagy részlegesen helyettesíti vagy kiterjeszti a Szoftverterméket, amely bizonyítja, hogy Ön rendelkezik a Frissítés átvételi jogával. A Frissítés számítógépre telepítése esetén a Frissítést kizárólag a jelen Megállapodás vagy a Frissítéshez mellékelt licencmegállapodás rendelkezéseivel összhangban használhatja.
+4.2. A frissítés telepítése után Ön nem használhatja a szoftvertermék eredeti verzióját, amelyről végrehajtotta a frissítést, kivéve azon eseteket, amelyekben az a szoftverfrissítés részét képezi.
+4.3. A NAVITEL, annak beszállítói és partnerei kifejezett vagy implicit módon nem kötelesek a Szoftvertermék vagy alkotóelemeinek - ideértve a Digitális terméket is - frissítését létrehozni vagy terjeszteni.
+4.4. A NAVITEL fenntartja magának a jogot, hogy bejelentse a Szoftvertermék, annak komponensei térítés ellenében történő vagy térítésmentes frissítését.
+
+5. "NEM VISZONTELADÁSRA KÉSZÜLT" SZOFTVER
+5.1. Amennyiben a Szoftverterméken a "Nem viszonteladásra készült" (Not for resale) vagy "NFR" felirat olvasható, a jelen Megállapodás egyéb rendelkezéseitől függetlenül a jelen Licenc kizárólag az ilyen Szoftvertermék bemutató célra, kipróbálására és megítélésére történő használatát engedélyezi; a Szoftvertermék értékesítése vagy ellenérték fejében történő átruházása tilos.
+
+6. ADATHASZNÁLATI BELEEGYEZÉS
+6.1. A Szoftvertermék aktiválásával a Felhasználó beleegyezik, hogy a NAVITEL gyűjthet és felhasználhat bármilyen, a Szoftvertermékhez kapcsolódó olyan műszaki adatot, amelyet a Felhasználónak nyújtott ügyfélszolgálati szolgáltatás részeként gyűjtött. A NAVITEL ezeket az információkat termékei fejlesztése érdekében, marketing és egyéb reklámcélokra használhatja fel. A NAVITEL nem hozza nyilvánosságra a Felhasználó személyes adatait.
+
+7. A LICENCMEGÁLLAPODÁS MEGSZÜNTETÉSE
+7.1. A NAVITEL jogai fenntartása mellett a Megállapodás rendelkezései megszegése esetén megszüntetheti a jelen Megállapodást.
+7.2. Amennyiben a Megállapodás megszűnik, Ön köteles megsemmisíteni a birtokában levő minden Szoftverterméket (ideértve a Szoftvertermék bármely adathordozón tárolt minden komponensét, a frissítéseket, a jelen Megállapodást és a többi kísérő anyagot).
+
+8. FELELŐSSÉG
+8.1. A Szoftvertermék és bármely elemének a jelen Megállapodás rendelkezéseit és a tulajdonos bármilyen exkluzív jogát sértő használatát, terjesztését és sokszorosítását (másolását) a törvény bünteti.
+8.1.1. A jelen Megállapodás esetében az irányadó jogrend az Orosz Föderáció jogrendje.
+8.2. Amennyiben a Felhasználó megsérti a jelen Megállapodást, a Felhasználó elveszti a Szoftvertermék használatának jogát, valamint a lenti 9. cikkelyben meghatározott korlátozott szavatossági és jótállási jogot.
+
+9. KORLÁTOZOTT SZAVATOSSÁG ÉS JÓTÁLLÁS
+9.1. A NAVITEL a Szoftverterméket alkotó programok működőképességét a Szoftvertermékkel együtt átadott dokumentációban meghatározott feltételek betartása esetén biztosítja.
+9.2. A továbbiakban a Szoftvertermék úgy kerül átadásra, "ahogy van". A NAVITEL-t nem terheli semmilyen felelősség, amennyiben a Szoftvertermék nem teljesíti a Felhasználó elvárásait és követelményeit, nem egyezik az ekvivalens termékekkel vagy nem teljesíti a specifikációkban és a kísérődokumentációban nem szereplő szabványokat, ha hibákat tartalmaz, valamint a Szoftvertermék használatának közvetett vagy közvetlen következményeiért, ideértve a Szoftvertermék csomagjában fellelhető esetleges tévedéseket vagy hibákat is.
+9.2.1 FELHÍVJUK A FIGYELMÉT, hogy (a szoftvertermék részét képező) Digitális termék működési ideje korlátozott lehet. A szoftvertermék részét képező digitális termékről és az annak használati idejéről közvetlenül a szoftvertermék aktiválása után tájékoztatjuk.
+9.3. A NAVITEL nem garantálja a Szoftverterméknek harmadik személyek és szervezetek szoftvereivel és hardvereivel való együttes működését, különösen a Szoftvertermék verziója kiadását követően gyártott hardver esetében.
+
+10. A SZOFTVERTERMÉK VISSZASZOLGÁLTATÁSA
+10.1. A jelen Megállapodás rendelkezéseinek elfogadásával és a Szoftvertermék licenckulcsának aktiválásával Ön kifejezi egyetértését "A megvásárolt Szoftvertermék árának visszatérítési feltételeivel". Az árvisszatérítéssel kapcsolatos további információkat megtalálja a NAVITEL hivatalos honlapján, a http://navitel.cz címen.
+
+COPYRIGHT:
+"Навигационная картографическая программа" ("Навител Навигатор"), Навигационная система "Навител Навигатор 3.2.5" (Navigation system "Navitel Navigator 3.2.5"),  "Навигационная система "Навител Навигатор 5.0" (Navigation system "Navitel Navigator 5.0"), а также все последующие версии Навигационной системы - © АО «ЦНТ», 2007-2015, версии с "Навигационная система "Навител Навигатор 3.2" (Navigation system "Navitel Navigator 3.2") по "Навигационная система "Навител Навигатор 9.6" (Navigation system "Navitel Navigator 9.6") включительно
+© NAVITEL s.r.o., 2016
+© CENTRE OF NAVIGATION TECHNOLOGY
+Погода Gismeteo. Данные о погоде предоставлены Gismeteo.ru. ©НПЦ Мэп Мейкер, 1998-2012
+Zlib ©Jean-loup Gailly and Mark Adler. 1995-2005
+FreeType 2 ©David Turner, Robert Wilhelm and Werner Lemberg, 1996-2002, 2006
+Libogg ©Xiph.org Foundation, 2002
+Libspeex ©Jean-Marc Valin/Xiph.org Foundation, 2002-2007
+Libpng ©Glenn Randers-Pehrson, 1998 -2004
+Ogles ©The Android Open Source Project, 2005-2011
+Arian ANU ©Ruben Hakobyan (Tarumyan), 1998-2011
+DirectXTex (с) Microsoft Corporation, 2006-2013
+© Картографическая основа Роскартография
+© ФГУП "Уралаэрогеодезия", 2006-2010г.
+© ФГУП "ПО Инжгеодезия", 2007г.
+© Картографическая основа. РОСРЕЕСТР, 2013г., 2014г.
+© ФГУП "Северо-Кавказское аэрогеодезическое предприятие", 2007г., 2008г., 2011г.
+© ООО "Отрок"
+© ФГУП "Южное АГП", 2007г., 2010г.
+© ООО "Гискарт"
+© ФГУП "Госцентр "Природа", 2007г., 2008г.
+© МУ "Городской информационный центр"
+© ФГУП ВАГП 2008г., 2010г.
+© ФГУП "Балт АГП"
+© Картографическая основа ООО "Карты Сибири"
+© КГЦ ФГУП "Уралаэрогеодезия", 2007г
+© ФГУП "Новгородское АГП"
+© СГГА
+© МП города Омска "Омскархитектура"
+© ФГУП "Средневолжское АГП" 2008г.
+© ООО "ГИС-Проект"
+© ФГУП "ЗапсибАГП", 2007г., 2009г.
+© ФГУП "ЦТМП Центрмаркшейдерия"
+© AND International Publishers NV
+© DATUM LLC
+© GDi GISDATA, www.gisdata.com
+© РУП "БелНИЦзем"
+© Государственный комитет по имуществу Республики Беларусь
+© ГУП "Национальное кадастровое агентство"
+© DataMap Europe Ltd.
+Contains Ordnance Survey data  ©Crown copyright and database right 2013
+Contains Royal Mail data © Royal Mail copyright and database right 2013
+Contains National Statistics data © Crown copyright and database right 2013
+© Business listings data ©Infobel
+© MemNav Ltd., MemNav.com
+© Картографическая основа Guidejet ® MAPS
+© Basarsoft, 2010
+© GEODATA S.A.
+© REGIO
+©Latvijas Geotelpiskās informācijas agentūra / ©Агентство геопространственной информации Латвии
+© Справочная служба 118
+© GEOVISION NC
+© Rock Mars Maps
+© PLANstudio s.r.o.
+© Mapy.cz, s.r.o.
+© MAPA Slovakia Digital
+© Geodetic institute of Slovenia
+© Картографическая основа ГНПП "Картография" (© Картографічна основа ДНВП "Картогафія")
+© carNAVi Corporation
+© Finnish Road Administration/Digiroad
+© Jose Alberto Najero Cruz, powered By BiciMapas ®
+© MULTISPECTRAL
+© TruEarth (R) imagery Copyright TerraMetrics, Inc.
+© (MAPMYINDIA) CE Info Systems (P) Ltd
+© Map of Colombia By Gisco, Todos los derechos reservados, 2016
+© 2016 DDG Technology JSC
+Bezirksregierung Köln, Abt. Geobasis NRW
+©Emapa sp. z o.o
+©Innovation Technology of Tajikistan L.L.C.
+© Technologii de Navigatie SRL
+© ALEKI LTD.
+Ředitelství silnic a dálnic ČR, státní příspěvková organizace
+© Carlos Calle (C) GuiaCalles

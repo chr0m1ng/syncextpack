@@ -1,0 +1,7 @@
+RegWriteString( HKLM, "SOFTWARE\Ford\AppPartNum", "BT4T-14F500-BE", "Navigation Licensing App" )
+RegWriteDWord( HKLM, "SOFTWARE\Ford\DataManager\gns\Licenses", "LicenseCount", 1 )
+RegWriteDWord( HKLM, "SOFTWARE\Ford\DataManager\gns\Licenses", "0.Type", 0 )
+RegWriteDWord( HKLM, "SOFTWARE\Ford\DataManager\gns\Licenses", "0.Version", 16777215 )
+RegWriteString( HKLM, "SOFTWARE\Ford\DataManager\gns\Licenses", "0.AppName", "Navi_NA" )
+RegWriteDWord( HKLM, "SOFTWARE\Ford\DataManager\gns\ApplicationSettings", "NavUnlocked", 1 )
+RegWriteDWord( HKLM, "SOFTWARE\Ford\DataManager\gns\Provisioning", "NavInstalled", 1 )

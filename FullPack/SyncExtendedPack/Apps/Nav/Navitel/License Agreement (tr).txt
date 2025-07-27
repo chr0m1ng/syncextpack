@@ -1,0 +1,161 @@
+﻿Navitel Navigator uygulaması lisans sözleşmesi
+Sayın müşterimiz,
+
+lütfen aşağıdaki nihai kullanıcı ile Lisans sözleşmesi (umumi teklif) metnini okuyun.
+
+„NAVITEL NAVIGATOR“ NAVİGASYON SİSTEMİ KULLANICISI İLE LİSANS SÖZLEŞMESİ
+
+İşbu lisans sözleşmesi, bir tarafta Siz (gerçek veya tüzel şahıs), metinde bundan böyle 'kullanıcı olarak anılacaktır, ve diğer tarafta „Center of Navigation Technologies“ (metinde „NAVITEL şirketi“ olarak anılacaktır) arasında, Navitel Navigator yazılım ürününün (metinde 'yazılım ürünü' olarak anılacaktır) kullanılmasına dair akdedilen hukuki bağlayıcılığı olan bir sözleşmedir. Yazılım ürünü, Navitel Navigator navigasyon harita programı (metinde 'navigasyon sistemi' olarak anılacaktır), dijital harita (metinde 'dijital ürün' olarak anılacaktır) ve elektronik ortamda veya yazılı çıktı şeklinde bulunan ek belgelerden oluşan bir bilgisayar ürünü teşkil etmektedir. Dijital ürünü şu şekilde elde etmek mümkündür: (i) navigasyon sistemi ile beraber yazılım ürününün ayrılmaz bir parçası olarak, veya (ii) daha evvelen elde edilmiş yazılım ürünü ile beraber çalışan ayrı bir bölüm olarak.
+
+İşbu lisans sözleşmesi, güncellemeleri, ekleri, ek ekipmanları ve yazılım ürününün işlevini sağlayan kısımları da kapsamaktadır. Aşağıdaki şartlar dahilinde, NAVITEL şirketi, yazılım ürününün tüm haklarına sahiptir: harita belgelerinin münhasır telif hakları, her bir yazılım ürünü üzerinde bulunan telif hakları koruma amaçlı markalar doğrultusunda, hakların sahibine aittir. Telif hakları sahiplerinin listesi, TELİF HAKLARI maddesinde bulunmaktadır.
+
+NAVITEL, yazılım ürününün dağıtımı konusunda münhasır hakka sahiptir. Yazılım ürünü bir bütün olarak ve tüm bölümleri (harita malzemeleri, veri tabanları, grafik görüntüler, görsel ve işitsel kayıtlar, metinler ve diğer programlar dahil olmak üzere) münferiden telif hakları dahilinde bulunmakta, ve Rus hukuku ve uluslararası hukuk tarafından korunmaktadır. Yazılım ürünü yardımıyla kurulum, kopyalama, indirme, bağlanma vs. gibi faaliyetler ile, işbu lisans sözleşmesi hükümlerini kabul etmektesiniz. İşbu nihai tüketici sözleşmesini kabul ettiğinizi teyit ettiğiniz andan itibaren sözleşme yürürlüğe girer. Nihai kullanıcı ile yapılan lisans anlaşması, yazılım ürünü kullanıldığı süre boyunca geçerli olacaktır. Şayet işbu lisans sözleşmesinin herhangi bir şartını kabul etmiyorsanız, yazılım ürününü kurmayın ve kullanmayın.
+
+NİHAİ KULLANICI İLE LİSANS SÖZLEŞMESİ (UMUMİ TEKLİF)
+
+İşbu yazılım ürünü (basılı çıktılar dahil olmak üzere), işbu lisans sözleşmesi hükümleri doğrultusunda size devir edilmektedir, SİZE SATILMAMAKTADIR.
+
+1. SÖZLEŞME İÇERİĞİ
+1.1. NAVITEL şirketi, size tek defalık münhasır olmayan bir lisans vermektedir, yani yazılım ürününü kullanma hakkı verilmektedir, ve bu kullanım ancak aşağıda belirtilmiş olan şartlar dahilinde mümkündür (metinde 'lisans' olarak anılacaktır).
+1.2. Tüm aşağıda belirtilen hükümler, yazılım ürünü için bir bütün olarak ve aynı zamanda tüm kısımları için münferit olarak geçerlidir.
+
+2. FİKRİ HAKLAR
+2.1. Yazılım ürünü ile ilgili fikri haklar (veri tabanları ile ilgili tüm haklar, grafik görüntüler, fotoğraflar, görsel ve işitsel kayıtlar, ve diğer programlar ve yazılım ürününe dahil olan tüm diğer fikri hak maddeleri dahil olmak üzere), ekinde bulunan tüm basılı veya elektronik ortamdaki malzemeler ve yazılım ürününün tüm kopya ve suretlerine ait fikri haklar, NAVITEL şirketi ve ortaklarının malvarlığıdır. Yazılım ürünü vasıtasıyla erişimin mümkün olduğu tüm içerikler ve veri tabanlarının telif ve mal hakları, bu söz konusu içerik ve veri tabanlarının telif haklarını elinde bulunduran sahiplerine ait olup, Rusya Federasyonu dahilinde geçerli olan yasalar ve mevzuat ve ayrıca fikri haklar konusunda uluslararası çapta geçerli olan yasalar ve hukuk dahilinde korunmaktadır. İşbu sözleşme, yazılım ürünü içeriğine erişim hakkı vermemektedir.
+2.2. Yazılım ürününün kişisel ve ticari olmayan kullanımı için verilen basit gayrımünhasır lisans, kullanıcıya işbu sözleşmede belirtilen şekilde verilmekte, ve aşağıda belirtilen şartları uyulması gerekmektedir.
+ 
+2.3. NAVITEL, işbu sözleşmede özellikle belirtilmiş olan haklar dışında herhangi bir hak vermemektedir.
+
+3. KULLANIM ŞARTLARI
+3.1. Yazılım ürünü, bilgisayarın bir kısmı veya bilgisayar eşliğinde teslim edilmiş önceden kurulu bir paket şeklinde satılabilir. Şayet yazılım ürünü kullanıcıya bilgisayarın bir kısmı olarak veya bilgisayar eşliğinde teslim edilmiş bir paket şeklinde verilmiş ise, yazılım ürünü, bilgisayar ile beraber verilmiş entegre bir ürün olarak ruhsatlandırılmıştır ve ürün ancak söz konusu bilgisayarda, dahil olduğu veya beraberinde teslim edildiği paket ile kullanılabilir.
+Kullanıcı istediği anda, işbu sözleşme ile kendisine verilen hakları diğer bir şahsa devir edebilir, ancak eşzamanlı olarak söz konusu bilgisayarın satışı ve devri şartı ile ve kullanıcıda yazılım ürününün herhangi bir kopya veya parçasının kalmaması şartı altında, ve yazılım ürününün devir edildiği şahsın işbu sözleşme kurallarını kabul etmesi şartı ile mümkündür.
+3.2. Yazılım ürünü, bir paket dahilinde bilgisayar eşliğinde teslim edilmemiş ve önceden kurulmamış şekilde de satılabilir. Eğer kullanıcı yazılım ürününü bilgisayardan ayrı olarak elde eder ise, işbu sözleşme ile kendisine verilen hakları, yazılımın kısmı veya kopyasını diğer bir şahsa devir edebilir, ve kullanıcıda yazılım ürününün herhangi bir kopya veya parçasının kalmaması şartı altında, ve yazılım ürününün devir edildiği şahsın işbu sözleşme kurallarını kabul etmesi şartı ile mümkündür.
+3.3. Lisans kapsamı. İşbu sözleşme kullanıcıya, direkt erişimli bilgisayar hafızasına (RAM) kayıt şeklindeki makina kodu şeklindeki yazılım ürünü yerleştirme hakkı tanımaktadır, amaç bilgisayarın merkezi işlemcisinde yazılım ürünlerinin komutlarını direkt olarak yerine getirmektir. Kullanıcının, yazılım ürününü birden fazla bilgisayarda kullanması veya bulundurması yasaktır (kurulu veya kurulmamış şekilde).
+3.4. Yazılım ürününde dahil bulunan dijital ürünün kullanımı ancak yazılım ürünü dahilinde kullandırılan navigasyon sistemi vasıtasıyla mümkün olup, başka türlü kullanım yasaktır. Münferit bölüm olarak elde edilen dijital ürün, ancak tek bir yazılım ürünü dahilinde açılabilir (yani münhasır yazılım lisans anahtarına 'özel' olarak).
+3.5. Yazılım ürününün kayıp olan veya zarar gören bir kopyasının yenilenmesi için, kullanıcı NAVITEL şirketi teknik desteğinden danışmanlık hizmeti talep etme hakkına sahiptir. Kullanıcı, yazılım ürünü kopyasının yasal kullanımına dair belge ibraz etmek ile yükümlüdür.
+3.6. İki tür veri taşıyıcı medya üzerinde teslimat. Şayet yazılım ürünü, iki veya ikiden fazla veri taşıyıcı üzerinde teslim ediliyor ise, kullanıcı paket dahilinde kendisi için daha uygun olan şeklini kullanma hakkına sahiptir. Tek bir yazılım ürünü kopyası dahilindeki veri taşıyıcıların, aynı yazılım ürünü kopyasını içerdikleri varsayılmaktadır, ve kullanıcı bunları ancak tek bir bilgisayarda kullanabilir.
+3.7. Kullanıcı ancak tek 1 (bir) adet yazılım ürünü kopyası yaratma hakkına sahiptir, bunu da sadece yedekleme amaçları için yapabilir.
+3.8. Kullanıcı, aşağıda belirtilen faaliyetlerde bulunmayacağını ve üçüncü gerçek veya tüzel şahısların bunları yapmasına izin vermeyeceğini beyan etmektedir:
+-yazılım ürününü direkt olarak kazanç ve kar elde etme amacı ile kullanma,
+-yazılım ürününü ödünç vermek, kiralamak veya kısa dönemli olarak üründen faydalandırmak,
+- yazılım ürününü bilişim ağı hizmetleri sunmak için kullanmak, ticari veya gayrıticari temelde internet sitelerinde yayınlamak dahil olmak üzere,
+- yazılım ürününün, söz konusu ürünü kullanmaya hakkı olmayan üçüncü şahıslar tarafından kullanılması için uygun ortam yaratmak (Sizinle fazla kullanıcılı bir sistem veya ağ dahilinde çalışan kişiler dahil), yazılım ürününün lisansını devir etmek,
+-yazılım ürününün herhangi bir kısmı veya öğesini yayınlamak, üçüncü şahısların bunları kopyalaması izin vermemek dahil olmak üzere,
+- yazılım ürününün teknik kısıtlamalarını atlatmaya teşebbüs etmek,
+- dijital ürünün verilerine direkt giriş, dijital ürünün hafıza yapısı ve formatını incelemek, dijital ürünün kayıt sürecini tekrarlamak, yazılım ürününde bulunan verileri değiştirmek, yazılım ürününü değiştirmek (konverte etmek) ve değişiklikler ile benzetmek, uygulamayı, veri tabanını ve yazılım ürününün makina kodunun diğer kısımlarını deasemble veya dekompile etmek (makina kodunu kaynak formata konverte etmek),
+-programın veya veri tabanının makina kodunda değişiklik yapmak, ek malzemelerde tanımlanmış ve yazılım ürünü paketi dahilinde bulunan araçlar vasıtası ile yapılanlar hariç,
+-yazılım ürünü kullanım haklarını üçüncü şahıslara devir etmek, işbu sözleşmenin 3.1 ve 3.2 maddelerinde belirtilmiş olan istisnalar hariç, bu durumlarda dahi anılan maddelerdeki şartlara uyulması şartı ile,
+-yazılım ürünü ile bağlantılı olarak, Rusya Federasyonu yasaları ve mevzuatına ve bilgisayar yazılımları ve veri tabanları hukuki korunması konulu uluslararası hukuka aykırı davranışta bulunmak,
+-dijital ürünü, navigasyon sistemi haricinde diğer yazılım programları ile kullanmak.
+3.9.Kullanıcı tarafından 3.8 maddesinde belirtilmiş olan fiillerin birisinin işlenmesi durumunda, NAVITEL herhangi bir anda ve uyarı ve bildiri gerekmeksizin tek taraflı olarak kullanıcı ile yapılan işbu lisans anlaşmasını fesh etmeye yetkilidir.
+3.10. Kullanıcı yazılım ürününden münferiden sorumlu olup, kullanımı ile bağlantılı tüm riskleri üstlenmektedir.
+3.11. Yazılım ürününün lisans anahtarının aktive edilmesi onaylayıcı bir süreç olup, kullanıcı tarafından yazılım ürününün doğru kullanımı onaylamaktadır.
+3.12. Yazılım ürününün kopyasının lisans anahtarının deaktive edilmesi (herhangi bir nedenden) tek defaya mahsus bir izindir. Münferit bölüm olarak tedarik edilmiş olan bir dijital ürün kopyasının lisans anahtarını deaktive etmek mümkün değildir. Lisans anahtarının yeniden aktive edilmesi, ancak aynı resmi işletim sistemli aynı model cihaz üzerinde mümkündür. Lisans anahtarının deaktivasyonu ve yeniden aktivasyonu konusunda NAVITEL şirketinin resmi internet sitesine bakınız http://navitel.cz.
+
+3.13. DİKKAT: NAVITEL şirketi, sadece yazılım ürününün resmi sürümleri ve satın alma tarihinden itibaren 1 (bir) yıl içerisinde yayınlanmış olan güncellemeleri için teknik destek sağlamaktadır.
+
+Diğer gruplar veya feritler tarafından geliştirilmiş veya düzenlenmiş olan navigasyon sistemi, dijital ürünler ve güncellemelerinin kullanımı, yazılım ürününün veya kısımlarının yanlış işlevine yol açabilir ve onarım gerektiren cihazların arızasına neden olabilir. Bu tür ürünlerin kullanımı, kullanıcının sorumluluğu ve riskidir.
+
+4. GÜNCELLEME
+4.1. NAVITEL şirketinin görüşü doğrultusunda güncelleme sınıfına dahil olan yazılım kullanımı için, NAVITEL şirketinin teklifi ile bağlantılı olan güncelleme ile söz konusu yazılım ürününe ait geçerli lisansa sahip olmak gereklidir. Güncelleme, tümüyle veya kısmen, güncellemeyi kabul etmenize bulunan hakkınızın delili olan yazılım ürününün yerine almakta veya bunu genişletmektedir. Bilgisayara güncellemeyi kurmak için, sadece bu güncellemeyi kullanma hakkınız bulunmaktadır, işlem işbu sözleşme hükümleri veya güncelleme eşliğinde verilen lisans sözleşmesine göre gerçekleşmelidir.
+4.2. Güncellemenin kurulumu için güncellenen yazılım ürününün orijinal sürümünü kullanmak mümkün değildir, böyle bir usulün yazılım güncellemenin bir kısmını teşkil ettiği durumlar hariçtir.
+4.3. NAVITEL şirketi ve teslimatçıları ve ortakları, özel olarak, dijital ürün dahil olmak üzere yazılım ürününün veya kısımlarının güncellemelerini yaratmak veya dağıtımını sağlamak zorunda değildir.
+4.4. NAVITEL, yazılım ürününün ve kısımlarının güncellemelerini ücretsiz veya ücretli olarak bildirme hakkını saklı tutmaktadır.
+
+5. YAZILIM 'MÜTEAKİP SATIŞ AMAÇLI DEĞİLDİR'
+5.1. Şayet yazılım ürünü üzerinde 'Müteakip satış amaçlı değildir' veya 'NFR' ibaresi bulunuyor ise, işbu sözleşmenin diğer hükümlerine bakmaksızın, bu lisans böyle bir yazılım ürününün sadece gösterim, deneme veya değerlendirme amaçları ile kullanımını mümkün kılar, yazılım ürününün herhangi bir satışı veya mali değerler karşılığında devri tümüyle yasaktır.
+
+6. VERİ KULLANIMININ ONAYLANMASI
+6.1. Yazılım ürününün aktive edilmesi ile, kullanıcı, yazılım ürünü ile bağlantılı olarak kullanıcılar tarafından tedarik edilen ve destek hizmetleri dahilinde toplanan tüm teknik verilerin, NAVITEL şirketi tarafından toplanmasına ve kullanılmasına muvafakat etmektedir. NAVITEL bu verileri ürünlerinin iyileştirilmesi için ve pazarlama ve diğer reklam amaçları için kullanabilir. NAVITEL, kullanıcının kişisel bilgilerini yayınlamayacağını taahhüt etmektedir.
+
+7. LİSANS SÖZLEŞMESİNİN FESHİ
+7.1. NAVITEL, tüm hakları saklı kalmak üzere, hükümlere aykırı davranış durumunda, işbu sözleşmeyi fesh etme hakkına sahiptir.
+7.2. Sözleşmenin fesh edilmesi durumunda, sahip olduğunuz yazılım ürününün tüm kopyalarını imha etmek ile yükümlüsünüz (herhangi bir veri taşıyıcı üzerinde bulunan tüm yazılım ürünü kısımları, veri tabanları, işbu sözleşme ve ek malzemeler dahil olmak üzere).
+
+8. SORUMLULUK
+8.1. Yazılım ürününün ve tüm kısımlarının işbu sözleşmeye aykırı kullanımı ve hak sahibinin hakları ile aykırı olarak kullanımı, dağıtımı ve kopyalanması, yasalar doğrultusunda cezaya tabidir.
+8.1.1. İşbu sözleşme, Rusya Federasyonu hukukuna tabidir.
+8.2. Şayet kullanıcı işbu sözleşmeye aykırı davranır ise, yazılım ürününü kullanma hakkını kaybeder, ve 9. maddede belirtilen kısıtlı garanti hakkından da feragat eder.
+
+9. KISITLI GARANTİ
+9.1. NAVITEL şirketi, yazılım ürünü dahilindeki programların işlevini, yazılım ürünü eşliğinde verilen dokümantasyonda belirtilen şartlar dahilinde sağlar.
+9.2. Yazılım ürününün kalan kısmı 'olduğu gibi' teslim edilmektedir. NAVITEL şirketi, yazılım ürününün kullanıcı beklentilerini ve ihtiyaçlarını karşılamaması konusunda, ve şartnamelerde ve ilgili dokümantasyonda tanımlanmamış olan standartlara uygun olmaması konusunda herhangi bir sorumluluk üstlenmez. NAVITEL, ayrıca, mevcut hatalar ve yazılım ürününün direkt veya endirekt kullanımından kaynaklanan hatalar, ve yazılım ürünü ambalajında bulunan baskı hatalarında kaynaklanan hatalardan sorumlu tutulamaz.
+9.2.1.Dijital ürünün (yazılım ürününün bir kısmı olarak) kullanım süresinin kısıtlı olabileceğini, LÜTFEN HATIRLAYINIZ. Yazılım ürününün bir kısmını teşkil eden dijital ürüne dair bilgi ve kullanım süresine dair bilgi, yazılım ürünü aktif hale gelmesinden hemen sonra size iletilecektir.
+9.3. NAVITEL şirketi, yazılım ürününün, üçüncü şahısların yazılım ve donanımı ile müşterek işlevini taahhüt etmez, özellikle söz konusu yazılım ürünü sürümünden daha geç tarihte üretilmiş donanımlar söz konusu ise.
+
+10. YAZILIM ÜRÜNÜNÜN İADE EDİLMESİ
+10.1. İşbu lisans sözleşmesinin şartlarının kabulü ve yazılım ürününün lisans anahtarının aktivasyonu ile, ayrıca 'Satın alınmış yazılım ürününün iade şartlarını' kabul etmektesiniz. Ürün iadesi konusunda daha fazli bilgi için, NAVITEL şirketinin resmi sitesini ziyaret ediniz http://navitel.cz
+
+TELİF HAKLARI:
+"Навигационная картографическая программа" ("Навител Навигатор"), Навигационная система "Навител Навигатор 3.2.5" (Navigation system "Navitel Navigator 3.2.5"),  "Навигационная система "Навител Навигатор 5.0" (Navigation system "Navitel Navigator 5.0"), а также все последующие версии Навигационной системы - © АО «ЦНТ», 2007-2015, версии с "Навигационная система "Навител Навигатор 3.2" (Navigation system "Navitel Navigator 3.2") по "Навигационная система "Навител Навигатор 9.6" (Navigation system "Navitel Navigator 9.6") включительно
+© NAVITEL s.r.o., 2016
+© CENTRE OF NAVIGATION TECHNOLOGY
+Погода Gismeteo. Данные о погоде предоставлены Gismeteo.ru. ©НПЦ Мэп Мейкер, 1998-2012
+Zlib ©Jean-loup Gailly and Mark Adler. 1995-2005
+FreeType 2 ©David Turner, Robert Wilhelm and Werner Lemberg, 1996-2002, 2006
+Libogg ©Xiph.org Foundation, 2002
+Libspeex ©Jean-Marc Valin/Xiph.org Foundation, 2002-2007
+Libpng ©Glenn Randers-Pehrson, 1998 -2004
+Ogles ©The Android Open Source Project, 2005-2011
+Arian ANU ©Ruben Hakobyan (Tarumyan), 1998-2011
+DirectXTex (с) Microsoft Corporation, 2006-2013
+© Картографическая основа Роскартография
+© ФГУП "Уралаэрогеодезия", 2006-2010г.
+© ФГУП "ПО Инжгеодезия", 2007г.
+© Картографическая основа. РОСРЕЕСТР, 2013г., 2014г.
+© ФГУП "Северо-Кавказское аэрогеодезическое предприятие", 2007г., 2008г., 2011г.
+© ООО "Отрок"
+© ФГУП "Южное АГП", 2007г., 2010г.
+© ООО "Гискарт"
+© ФГУП "Госцентр "Природа", 2007г., 2008г.
+© МУ "Городской информационный центр"
+© ФГУП ВАГП 2008г., 2010г.
+© ФГУП "Балт АГП"
+© Картографическая основа ООО "Карты Сибири"
+© КГЦ ФГУП "Уралаэрогеодезия", 2007г
+© ФГУП "Новгородское АГП"
+© СГГА
+© МП города Омска "Омскархитектура"
+© ФГУП "Средневолжское АГП" 2008г.
+© ООО "ГИС-Проект"
+© ФГУП "ЗапсибАГП", 2007г., 2009г.
+© ФГУП "ЦТМП Центрмаркшейдерия"
+© AND International Publishers NV
+© DATUM LLC
+© GDi GISDATA, www.gisdata.com
+© РУП "БелНИЦзем"
+© Государственный комитет по имуществу Республики Беларусь
+© ГУП "Национальное кадастровое агентство"
+© DataMap Europe Ltd.
+Contains Ordnance Survey data  ©Crown copyright and database right 2013
+Contains Royal Mail data © Royal Mail copyright and database right 2013
+Contains National Statistics data © Crown copyright and database right 2013
+© Business listings data ©Infobel
+© MemNav Ltd., MemNav.com
+© Картографическая основа Guidejet ® MAPS
+© Basarsoft, 2010
+© GEODATA S.A.
+© REGIO
+©Latvijas Geotelpiskās informācijas agentūra / ©Агентство геопространственной информации Латвии
+© Справочная служба 118
+© GEOVISION NC
+© Rock Mars Maps
+© PLANstudio s.r.o.
+© Mapy.cz, s.r.o.
+© MAPA Slovakia Digital
+© Geodetic institute of Slovenia
+© Картографическая основа ГНПП "Картография" (© Картографічна основа ДНВП "Картогафія")
+© carNAVi Corporation
+© Finnish Road Administration/Digiroad
+© Jose Alberto Najero Cruz, powered By BiciMapas ®
+© MULTISPECTRAL
+© TruEarth (R) imagery Copyright TerraMetrics, Inc.
+© (MAPMYINDIA) CE Info Systems (P) Ltd
+© Map of Colombia By Gisco, Todos los derechos reservados, 2016
+© 2016 DDG Technology JSC
+Bezirksregierung Köln, Abt. Geobasis NRW
+©Emapa sp. z o.o
+©Innovation Technology of Tajikistan L.L.C.
+© Technologii de Navigatie SRL
+© ALEKI LTD.
+Ředitelství silnic a dálnic ČR, státní příspěvková organizace
+© Carlos Calle (C) GuiaCalles

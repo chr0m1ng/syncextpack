@@ -1,0 +1,10 @@
+[HKEY_LOCAL_MACHINE\Drivers\USB\ClientDrivers\Usb_Box]
+  "Prefix"="CBX"
+  "Dll"="ceusbbox.dll"
+  "Flags"=dword:00000008
+
+[HKEY_LOCAL_MACHINE\Drivers\USB\LoadClients\4884_5408\Default\Default\Usb_Box]
+  "Dll"="ceusbbox.dll"
+
+[HKEY_LOCAL_MACHINE\Drivers\USB\LoadClients\4884_5409\Default\Default\Usb_Box]
+  "Dll"="ceusbbox.dll"

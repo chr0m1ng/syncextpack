@@ -1,0 +1,163 @@
+﻿Licenční smlouva pro Navitel Navigator
+
+Vážený zákazníku,
+
+přečtěte si, prosím, pečlivě tuto Licenční smlouvu s koncovým uživatelem.
+
+LICENČNÍ SMLOUVA S UŽIVATELEM NAVIGAČNÍHO SYSTÉMU “NAVITEL NAVIGATOR”
+
+Tato Smlouva je právně závaznou smlouvou uzavřenou mezi Vámi (fyzickou nebo právnickou osobou), dále jen „Uživatel“, a akciovou společností “Center of Navigation Technologies” (dále jen “NAVITEL”) ohledně používání softwarového produktu navigačního systému “Navitel Navigator” (dále jen “Softwarový produkt ”). Softwarový produkt zahrnuje navigační mapovou aplikaci “Navitel Navigator”(dále jen “Navigační systém”), digitální mapu (dále jen “Digitální produkt”), a doprovodnou dokumentaci v tištěné nebo elektronické formě. Digitální produkt může být získán: (i) společně s Navigačním systémem jako nedílná součást Softwarového produktu, nebo (ii) samostatně s možností využití s již získaným Softwarovým produktem.
+
+Tato Smlouva se rovněž vztahuje na veškeré aktualizace, doplňky a doplňkové komponenty Softwarového produktu zajišťující jeho fungování. NAVITEL je vlastníkem veškerých práv k Softwarovému produktu s následujícími ustanoveními: exklusivní autorská práva ke kartografickým podkladům a/nebo jejich jednotlivým částem jsou ve vlastnictví jejich vlastníků v souladu s ustanoveními na ochranu autorských práv, uvedených v každé kopii Softwarového produktu. Úplný seznam držitelů práv naleznete ve článku COPYRIGHT.
+
+NAVITEL disponuje výhradním právem distribuce Softwarového produktu.
+Softwarový produkt jako celek a všechny jeho jednotlivé součásti (včetně, ale bez omezení na kartografické materiály, databáze, grafiku, video, audio záznamy, text a další programy) podléhají autorskému právu a jsou chráněny ruskými a mezinárodními právními předpisy. Instalací, kopírováním, stahováním, poskytováním přístupu nebo jiným používáním výše uvedeného softwaru souhlasíte s podmínkami této Smlouvy. Tato Licenční smlouva s koncovým uživatelem vstoupí v platnost okamžikem Vašeho souhlasu s ní. Pokud nesouhlasíte s jakoukoliv z podmínek této Smlouvy, neinstalujte a nepoužívejte Softwarový produkt.
+
+LICENČNÍ SMLOUVA S KONCOVÝM UŽIVATELEM
+
+Softwarový produkt (včetně tištěných materiálů) je vám poskytován v souladu s podmínkami Smlouvy a NENÍ URČEN K PRODEJI. 
+
+1. PŘEDMĚT SMLOUVY
+1.1. NAVITEL Vám uděluje nevýlučnou omezenou licenci, tj. právo užívat Softwarový produkt jen způsobem a v souladu s podmínkami uvedenými níže (dále jen “Licence”).
+1.2. Všechny podmínky uvedené níže se vztahují k Softwarovému produktu jako celku, jakož i k veškerým jeho součástem.
+
+2. DUŠEVNÍ VLASTNICTVÍ
+2.1. Práva duševního vlastnictví k Softwarovému produktu (včetně, ale bez omezení na jakékoliv databáze, grafická zobrazení, fotografie, videa, audia a textové materiály, doplňkové materiály a jiné předměty duševního vlastnictví zahrnuté v Softwarovém produktu), doprovodné materiály v tištěné nebo elektronické podobě a jakékoliv kopie Softwarového produktu jsou ve vlastnictví NAVITEL a jeho partnerů. Veškerá práva duševního vlastnictví a autorská práva k databázím a dalšímu obsahu, ke kterým Softwarový produkt poskytuje přístup, jsou ve vlastnictví vlastníků duševních a autorských práv k těmto databázím a obsahu a jsou chráněny zákony a ostatními právními předpisy platnými na území Ruské federace, a také mezinárodními právními normami pro oblast duševního vlastnictví. Tato Smlouva Vám neposkytuje žádná práva na jakýkoliv přístup k obsahu Softwarového produktu.
+2.2. Nevýlučná omezená licence na užívání Softwarového produktu pro soukromé nekomerční účely je poskytována Uživateli způsoby uvedenými výše, za předpokladu splnění podmínek uvedených níže.
+2.3. NAVITEL neposkytuje žádná další práva s výjimkou těch, která jsou výslovně uvedena v této licenční smlouvě.
+
+3. PODMÍNKY UŽÍVÁNÍ
+3.1. Softwarový produkt může být přenechaný za úplatu jako součást zařízení nebo svázaný se zařízením a na něm předinstalovaný. Pokud obdrží Uživatel Softwarový produkt instalovaný v systému zařízení nebo spolu se zařízením, je Softwarový produkt licencován jako jednotný komplexní produkt spolu se zařízením a může být využíván pouze se zařízením, jehož je součástí, nebo s nímž byl tento produkt poskytnut.
+Uživatel může převést na jinou osobu všechna práva, která byla poskytnuta touto licenční smlouvou, ale pouze v případě současného přenechání zařízení za úplatu a za předpokladu, že si Uživatel neponechá žádné součásti a kopie Softwarového produktu a příjemce Softwarového produktu se zaváže dodržovat podmínky této Smlouvy.
+3.2. Softwarový produkt může být přenechán za úplatu jako předem neinstalovaný nebo odděleně od zařízení. Pokud Uživatel obdrží Softwarový produkt odděleně od zařízení, má Uživatel právo převést práva jemu poskytnutá touto Smlouvou, součásti a kopie Softwarového produktu na jinou osobu za předpokladu, že žádné součásti ani kopie Softwarového produktu si Uživatel neponechá a příjemce Softwarového produktu se zaváže dodržovat podmínky této Smlouvy.
+3.3. Rozsah licence. Tato Smlouva poskytuje Uživateli právo reprodukovat Softwarový produkt ve formě objektového kódu zápisem do paměti zařízení za účelem zadávání příkazů tohoto Softwarového produktu centrálním procesorem. Uživatel nesmí používat nebo uchovávat tento Softwarový produkt na více než jednom zařízení (v nainstalované či nenainstalované podobě).
+ 
+3.4. Použití Digitálního produktu, který je součástí Softwarového produktu, je povoleno pouze s navigačním systémem, který je zahrnut do Softwarového produktu, nikoliv jiným způsobem. Digitální produkt získaný samostatně funguje pouze s jedním Softwarovým produktem (tj. “na míru” s jedním unikátním licenčním klíčem k Softwarovému produktu).
+3.5. Uživatel má právo obrátit se na službu technické podpory NAVITEL za účelem obnovení ztracené nebo poškozené kopie Softwarového produktu. Současně Uživatel musí poskytnout potvrzení o zákonném užívání kopie Softwarového produktu.
+3.6. Distribuce na dvou typech datových nosičů. V případě, že je Softwarový produkt distribuován na dvou či několika typech datových nosičů, Uživatel je oprávněn používat pouze jednu sadu, která je pro něj nejvhodnější. Všechny nosiče, které jsou součástí jednoho vyhotovení Softwarového produktu, jsou považovány za stejné vyhotovení Softwarového produktu a mohou být využívány Uživatelem pouze na stejném zařízení.
+3.7. Uživatel má právo na pořízení pouze 1 (jedné) kopie Softwarového produktu, která může být použita výhradně pro účely zálohování nebo archivace.
+3.8. Uživatel se zavazuje neprovádět samostatně a neposkytovat možnost dalším fyzickým nebo právnickým osobám provádět tyto činnosti:
+- používat Softwarový produkt přímo za účelem dosažení zisku;
+- prodávat, pronajímat nebo poskytovat Softwarový produkt pro krátkodobé využití;
+- využívat Softwarový produkt k poskytování síťových služeb, včetně translace na webových stránkách, a to jak na komerční, tak i na nekomerční bázi;
+- vytvářet podmínky pro používání Softwarového produktu pro osoby, které nemají příslušná práva k používání daného produktu (včetně těch, kteří využívají stejnou síť nebo s Vámi sdílí mnohouživatelský systém), poskytovat licenci na Softwarový produkt;
+- zveřejňovat jakékoliv části a součásti Softwarového produktu, včetně umožnění kopírovaní třetím stranám;
+- překračovat technická omezení uvedená v Softwarovém produktu;
+- uskutečňovat přímý přístup k datům Digitálního produktu, zkoumat strukturu a formát ukládání dat Digitálního produktu, měnit strukturu ukládaní dat Digitálního produktu, měnit data, které jsou součásti Softwarového produktu, modifikovat (konvertovat) a přizpůsobovat Softwarový produkt, rozebírat, dekompilovat program (transformovat objektový kód do zdrojového textu), databáze a jiné součásti Softwarového produktu;
+- vnášet jakékoliv změny do zdrojového kódu programu nebo databáze s výjimkou těch, které jsou vnášeny pomocí prostředků, které jsou součástí Softwarového produktu a jsou popsány v doprovodných materiálech;
+- přenášet právo na použití Softwarového produktu na třetí strany, s výjimkou případů, uvedených v odstavcích 3.1 a 3.2 této Smlouvy při dodržení podmínek, uvedených v těchto odstavcích;
+- provádět se Softwarovým produktem jakékoliv činnosti, které jsou v rozporu se zákony a dalšími právními akty platnými na území Ruské federace a normami mezinárodního práva, které byly přijaty za účelem právní ochrany počítačového softwaru a databází;
+- používat Digitální produkt s jinými programy s výjimkou Navigačního systému.
+3.9. V případě, že Uživatel spáchá jakoukoliv z činností, uvedených v odst. 3.8. vyhrazuje si NAVITEL právo jednostranně a kdykoliv ukončit platnost této smlouvy bez předchozího upozornění a varování.
+3.10. Výhradně Uživatel nese zodpovědnost za veškerá rizika spojená s užitím Softwarového produktu.
+3.11. Aktivace licenčního klíče k Softwarovému produktu je legitimní postup potvrzující oprávněné používání Softwarového produktu Uživatelem. 
+3.12. Deaktivace licenčního klíče ke kopii Softwarového produktu je povolena pouze jednou (z jakéhokoli důvodu). Nelze deaktivovat licenční klíč ke kopii Digitálního produktu získaného samostatně. Reaktivace licenčního klíče je povolena pouze na zařízení stejného modelu se stejným oficiálním operačním systémem. Pro více informací o deaktivaci/reaktivaci licenčního klíče navštivte oficiální webové stránky NAVITEL: http://navitel.cz/.
+3.13. PROSÍM PAMATUJTE, že společnost NAVITEL poskytuje technickou podporu pouze pro oficiální verze Softwarového produktu a jeho aktualizacím vydaných NAVITEL v rámci 1 (jednoho) roku po zakoupení.
+Používání verzí Navigačního systému, Digitálních produktů a jejich aktualizací vyvinutých / modifikovaných různými komunitami a/nebo jednotlivci, může učinit Softwarový produkt nefunkčním celkově nebo jeho jednotlivé části, stejně jako vést k poškození zařízení, které bude vyžadovat opravu. Uživatel pak sám nese riziko a odpovědnost za jejich využívání.
+
+4. AKTUALIZACE
+4.1. Pro používání softwaru, který podle NAVITEL spadá do kategorie aktualizace, je nutné mít licenci na Softwarový produkt, který je označen společností NAVITEL jako podléhající aktualizaci. Aktualizace doplňuje či nahrazuje v plném nebo částečném rozsahu Softwarový produkt, z něhož vyplývají práva pro obdržení aktualizace. Při instalaci aktualizace do zařízení máte právo užívat aktualizaci pouze v souladu s podmínkami této Smlouvy nebo licenční smlouvy upravující aktualizaci.
+4.2. Po instalaci aktualizace již nebude možno používat původní verzi Softwarového produktu, s výjimkou případů, kdy je aktualizace součástí softwaru.
+4.3. NAVITEL stejně jako jeho dodavatelé a partneři, nepřebírá žádné vyjádřené nebo předpokládané závazky za tvorbu nebo distribuci aktualizací Softwarového produktu nebo jakýchkoliv jeho součástí, včetně Digitálního produktu. 
+4.4. NAVITEL si vyhrazuje právo vyhlašovat bezplatné i placené aktualizace Softwarového produktu a jeho součástí.
+
+5. “NEPŘEPRODEJNÝ” SOFTWARE
+5.1. Pokud je Softwarový produkt označen jako „nepřeprodejný“ („Not for resale“ nebo „NFR“), tato licence nezávisle na dalších podmínkách této Smlouvy umožňuje tento Softwarový produkt používat pouze pro účely demonstrace, prověřování a vyhodnocování Softwarového produktu; jakýkoliv prodej nebo převod Softwarového produktu je zakázán.
+6. SOUHLAS SE ZPRACOVÁNÍM DAT
+6.1. Aktivací Softwarového produktu Uživatel souhlasí, že NAVITEL smí shromažďovat a používat jakékoliv technické informace, získané v průběhu poskytování technické podpory pro Softwarový produkt Uživateli. NAVITEL smí tyto informace používat ke zlepšování kvality svých produktů, pro marketingové a reklamní účely. NAVITEL nesmí zveřejňovat ani prozrazovat osobní data uživatele. 
+
+7. UKONČENÍ SMLOUVY
+7.1. Aniž by byla dotčena jakákoliv práva vyplývající z této Smlouvy, v případě nedodržení podmínek nebo omezení stanovených v této Smlouvě, vyhrazuje si NAVITEL právo ukončit platnost této smlouvy.
+7.2. V případě ukončení platnosti této licenční smlouvy jste povinni zničit veškeré kopie Softwarového produktu, které máte (včetně jakýchkoliv součástí Softwarového produktu na jakýchkoliv nosičích, jeho aktualizací, této Smlouvy a doprovodných materiálů).
+
+8. ODPOVĚDNOST
+8.1. Použití, šíření a reprodukce (kopírování) Softwarového produktu a jakýchkoliv jeho součástí v rozporu s podmínkami této Smlouvy a jakékoliv porušení výlučných práv vlastníka bude trestně stíháno podle příslušných platných předpisů.
+8.1.1. Rozhodným právem, podle nějž se bude rozhodovat v záležitostech této Smlouvy, se stanovuje právo Ruské federace.
+8.2. V případě porušení práv a povinností uvedených v této smlouvě Uživatel ztrácí právo používat tento Softwarový produkt a právo na omezenou záruku podle článku 9 níže.
+
+9. OMEZENÁ ZÁRUKA
+9.1. NAVITEL zaručuje funkčnost programů, které jsou součástí Softwarového produktu, při dodržení podmínek uvedených v dokumentaci, která byla dodána společně se Softwarovým produktem.
+9.2. Softwarový produkt je dodáván ve své skutečné podobě a s odpovídajícími vlastnostmi. NAVITEL nenese odpovědnost za to, že Softwarový produkt neodpovídá očekáváním a představám Uživatele, a/nebo standardům nepopsaným ve specifikacích a doprovodné dokumentaci, a které mohou obsahovat chyby. NAVITEL také nezodpovídá za přímé a nepřímé následky použití Softwarového produktu, včetně následků vzniklých z důvodu možných chyb nebo tiskových chyb v doprovodné dokumentaci k tomuto Softwarovému produktu.
+9.2.1. PROSÍM, BERTE NA VĚDOMÍ, že doba užívání Digitálního produktu (jako součásti Softwarového produktu) je omezena. Informace o Digitálním produktu jako součásti Softwarového produktu, jakož i o jeho době užívání je dostupná ihned po aktivaci Softwarového produktu.
+9.2.2. NAVITEL zaručuje kompatibilitu Softwarového produktu v souladu s popisem uvedeným v uživatelském manuálu a v této Smlouvě.
+9.2.3. NAVITEL nezaručuje kompatibilitu Softwarového produktu v případě nedodržení podmínek popsaných v uživatelském manuálu, jakož i v případě porušení podmínek této Smlouvy.
+9.3. NAVITEL nezaručuje kvalitu kompatibility Softwarového produktu se softwarem a hardwarem třetích osob a organizací, ani se se softwarem a hardwarem uživatelů jednotlivců, v případě, že při nákupu Uživatelem není integrovaným produktem počítačového softwaru, zejména se zařízením a vybavením, které je novější než aktuální verze daného Softwarového produktu.
+Uživatel souhlasí s podmínkami této Smlouvy a bere na vědomí, že v případě nekompatibility verze Softwarového produktu s nastavením hardware/zařízení nenese zodpovědnost společnost "NAVITEL".
+
+10. VRÁCENÍ SOFTWAROVÉHO PRODUKTU
+10.1. Přijetím podmínek této Smlouvy a aktivací licenčního klíče k Softwarovému produktu rovněž souhlasíte s “Podmínkami vrácení finančních prostředků za zakoupený software”. Pro více informací o vrácení navštivte, prosím, oficiální webové stránky NAVITEL: http://navitel.cz/.
+
+COPYRIGHT:
+"Навигационная картографическая программа" ("Навител Навигатор"), Навигационная система "Навител Навигатор 3.2.5" (Navigation system "Navitel Navigator 3.2.5"),  "Навигационная система "Навител Навигатор 5.0" (Navigation system "Navitel Navigator 5.0"), а также все последующие версии Навигационной системы - © АО «ЦНТ», 2007-2015, версии с "Навигационная система "Навител Навигатор 3.2" (Navigation system "Navitel Navigator 3.2") по "Навигационная система "Навител Навигатор 9.6" (Navigation system "Navitel Navigator 9.6") включительно
+© NAVITEL s.r.o., 2016
+© CENTRE OF NAVIGATION TECHNOLOGY
+Погода Gismeteo. Данные о погоде предоставлены Gismeteo.ru. ©НПЦ Мэп Мейкер, 1998-2012
+Zlib ©Jean-loup Gailly and Mark Adler. 1995-2005
+FreeType 2 ©David Turner, Robert Wilhelm and Werner Lemberg, 1996-2002, 2006
+Libogg ©Xiph.org Foundation, 2002
+Libspeex ©Jean-Marc Valin/Xiph.org Foundation, 2002-2007
+Libpng ©Glenn Randers-Pehrson, 1998 -2004
+Ogles ©The Android Open Source Project, 2005-2011
+Arian ANU ©Ruben Hakobyan (Tarumyan), 1998-2011
+DirectXTex (с) Microsoft Corporation, 2006-2013
+© Картографическая основа Роскартография
+© ФГУП "Уралаэрогеодезия", 2006-2010г.
+© ФГУП "ПО Инжгеодезия", 2007г.
+© Картографическая основа. РОСРЕЕСТР, 2013г., 2014г.
+© ФГУП "Северо-Кавказское аэрогеодезическое предприятие", 2007г., 2008г., 2011г.
+© ООО "Отрок"
+© ФГУП "Южное АГП", 2007г., 2010г.
+© ООО "Гискарт"
+© ФГУП "Госцентр "Природа", 2007г., 2008г.
+© МУ "Городской информационный центр"
+© ФГУП ВАГП 2008г., 2010г.
+© ФГУП "Балт АГП"
+© Картографическая основа ООО "Карты Сибири"
+© КГЦ ФГУП "Уралаэрогеодезия", 2007г
+© ФГУП "Новгородское АГП"
+© СГГА
+© МП города Омска "Омскархитектура"
+© ФГУП "Средневолжское АГП" 2008г.
+© ООО "ГИС-Проект"
+© ФГУП "ЗапсибАГП", 2007г., 2009г.
+© ФГУП "ЦТМП Центрмаркшейдерия"
+© AND International Publishers NV
+© DATUM LLC
+© GDi GISDATA, www.gisdata.com
+© РУП "БелНИЦзем"
+© Государственный комитет по имуществу Республики Беларусь
+© ГУП "Национальное кадастровое агентство"
+© DataMap Europe Ltd.
+Contains Ordnance Survey data  ©Crown copyright and database right 2013
+Contains Royal Mail data © Royal Mail copyright and database right 2013
+Contains National Statistics data © Crown copyright and database right 2013
+© Business listings data ©Infobel
+© MemNav Ltd., MemNav.com
+© Картографическая основа Guidejet ® MAPS
+© Basarsoft, 2010
+© GEODATA S.A.
+© REGIO
+©Latvijas Geotelpiskās informācijas agentūra / ©Агентство геопространственной информации Латвии
+© Справочная служба 118
+© GEOVISION NC
+© Rock Mars Maps
+© PLANstudio s.r.o.
+© Mapy.cz, s.r.o.
+© MAPA Slovakia Digital
+© Geodetic institute of Slovenia
+© Картографическая основа ГНПП "Картография" (© Картографічна основа ДНВП "Картогафія")
+© carNAVi Corporation
+© Finnish Road Administration/Digiroad
+© Jose Alberto Najero Cruz, powered By BiciMapas ®
+© MULTISPECTRAL
+© TruEarth (R) imagery Copyright TerraMetrics, Inc.
+© (MAPMYINDIA) CE Info Systems (P) Ltd
+© Map of Colombia By Gisco, Todos los derechos reservados, 2016
+© 2016 DDG Technology JSC
+Bezirksregierung Köln, Abt. Geobasis NRW
+©Emapa sp. z o.o
+©Innovation Technology of Tajikistan L.L.C.
+© Technologii de Navigatie SRL
+© ALEKI LTD.
+Ředitelství silnic a dálnic ČR, státní příspěvková organizace
+© Carlos Calle (C) GuiaCalles
