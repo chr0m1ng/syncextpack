@@ -9,7 +9,6 @@ builder.log
 # Test files and backups
 *TEST*
 *.backup
-*.bak
 
 # FlashTools generated files
 /FlashTools/Installer.xml
