@@ -49,3 +49,5 @@ build_pack.bat YOUR_APIM_SERIAL MAGIC_NUMBER
 ## AutoKit
 
 - You need an adapter to make it work, look for CarlinKit CCPA
+- The password for unzip the file is: reiaudio
+    - credits for: https://reiaudio.com.br/projeto-apple-carplay-e-android-auto-em-central-multimidia-original-antiga/
