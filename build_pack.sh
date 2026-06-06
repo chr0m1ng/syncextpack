@@ -1,5 +1,10 @@
 #!/bin/bash
 
+# Add Homebrew OpenJDK to PATH (macOS)
+if [ -d "/opt/homebrew/opt/openjdk/bin" ]; then
+    export PATH="/opt/homebrew/opt/openjdk/bin:$PATH"
+fi
+
 # Activate virtual environment (if it exists)
 if [ -d ".venv" ]; then
     source .venv/bin/activate

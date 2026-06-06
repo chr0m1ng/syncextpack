@@ -43,6 +43,8 @@ The SyncExtPack Builder now works natively on macOS thanks to:
    ./setup_macos.sh
    ```
 
+3. **Before building** - Make sure Docker Desktop is running (open the app)
+
 ## Usage
 
 ### Building Packs
@@ -121,15 +123,15 @@ The Python code automatically detects and uses this wrapper when available.
 ## Troubleshooting
 
 ### Docker Issues
-If you get "Docker not found" errors:
-1. Install Docker Desktop
-2. Make sure Docker is running
-3. Test with: `docker --version`
+If you get "Cannot connect to the Docker daemon" or `crypto_pack` errors:
+1. **Open Docker Desktop** - the daemon must be running before building
+2. Test with: `docker info`
 
 ### Java Issues
-If you get "Java Runtime not found" errors:
+If you get "Unable to locate a Java Runtime" or `secure_Installer.swf` not found:
 1. Install OpenJDK: `brew install openjdk`
-2. Add to PATH: `export PATH="/opt/homebrew/opt/openjdk/bin:$PATH"`
+2. The `build_pack.sh` script automatically adds Homebrew Java to PATH
+3. If running Python scripts directly, add to PATH first: `export PATH="/opt/homebrew/opt/openjdk/bin:$PATH"`
 
 ### Permission Issues
 If you get permission errors:

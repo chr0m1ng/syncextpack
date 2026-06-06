@@ -4,14 +4,11 @@ Steps to install custom apps on your Ford SYNC 2.
 
 > **⚠️ Recommendation**: It's recommended to upgrade your Ford SYNC 2 to firmware version 3.10 before installing SyncExtPack. See the [Firmware Installation Guide](FIRMWARE_INSTALLATION.md) for upgrade instructions.
 
-## RequirementscExtPack Installation Guide
-
-Steps to install on your Ford SYNC 2.
-
 ## Requirements
 
 - **USB Drive**: 2.0 compatible, maximum 32GB, formatted as FAT32 MBR partition
 - **Your APIM Serial Number**: Find it in your car
+- **macOS/Linux**: Docker Desktop must be running (see [macOS Setup](README_MACOS.md))
 
 ## Step 1: Get Your APIM Serial Number
 

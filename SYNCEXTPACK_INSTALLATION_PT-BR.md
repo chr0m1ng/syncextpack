@@ -8,6 +8,7 @@ Passos para instalar no seu Ford SYNC 2.
 
 - **Pen Drive**: USB 2.0, máximo 32GB, formatado como FAT32 MBR
 - **Número de Série APIM**: Encontre no seu carro
+- **macOS/Linux**: Docker Desktop precisa estar rodando (veja [Setup macOS](README_MACOS.md))
 
 ## Passo 1: Obter o Número de Série APIM
 
